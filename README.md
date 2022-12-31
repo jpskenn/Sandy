@@ -9,6 +9,7 @@ For comfortable typing.
 Easy to type keys far from home position.
 
 Ex.
+
 - "T" and "Y"
 - R1 row, Numerics and Symbols
 - R2 Mod keys
