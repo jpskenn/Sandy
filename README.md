@@ -2,7 +2,7 @@
 
 a Keyboard with key height optimization
 
-Layerd PCB will make height differences for each key.
+Layered PCB will make height differences for each key.
 This covers the lack of optimization to physical key layout that only adjust vertical and horizontal in a plane.
 
 For comfortable typing.
