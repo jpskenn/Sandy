@@ -6534,7 +6534,7 @@
     (uuid 00000000-0000-0000-0000-00005f5769a7)
     (property "Reference" "SW_LSFT1.75u1" (id 0) (at 29.21 133.731 0))
     (property "Value" "SW_Push" (id 1) (at 29.21 136.0424 0))
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1.75U-Hotswap-guide" (id 2) (at 29.21 135.89 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1.75U-NoLED" (id 2) (at 29.21 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 135.89 0)
@@ -7015,7 +7015,7 @@
     (uuid 00000000-0000-0000-0000-00005f66b99b)
     (property "Reference" "SW_LSFT2u1" (id 0) (at 29.21 138.811 0))
     (property "Value" "SW_Push" (id 1) (at 29.21 141.1224 0))
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-2U-Hotswap-ReversedStabilizers-guide" (id 2) (at 29.21 140.97 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-2U-Hotswap-guide" (id 2) (at 29.21 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 140.97 0)
@@ -8204,7 +8204,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 300.99 41.275 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060cd9651)
-    (property "Reference" "J5" (id 0) (at 302.26 33.2232 0))
+    (property "Reference" "J4" (id 0) (at 302.26 33.2232 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 302.26 35.5346 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (id 2) (at 300.99 41.275 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8871,7 +8871,7 @@
     (uuid 0abb4f95-b234-4901-aa59-b979a10844ae)
     (property "Reference" "J7" (id 0) (at 138.43 209.6602 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 138.43 212.1971 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 137.16 214.63 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 137.16 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.16 214.63 0)
@@ -8888,7 +8888,7 @@
     (uuid 13c9f271-7765-46fa-81c3-fdc015ddd07c)
     (property "Reference" "J8" (id 0) (at 189.23 209.6602 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 189.23 212.1971 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 187.96 214.63 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 187.96 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 187.96 214.63 0)
@@ -8963,9 +8963,9 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 35.56 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 25331c5c-2c37-4a76-ab8d-4a12898d41cd)
-    (property "Reference" "J4" (id 0) (at 36.83 209.6602 0))
+    (property "Reference" "J5" (id 0) (at 36.83 209.6602 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 36.83 212.1971 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 35.56 214.63 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 35.56 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 35.56 214.63 0)
@@ -9024,7 +9024,7 @@
     (uuid 74f24720-d0f6-4850-a43d-b257aa454f57)
     (property "Reference" "J13" (id 0) (at 138.43 250.3002 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 138.43 252.8371 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 137.16 255.27 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 137.16 255.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.16 255.27 0)
@@ -9057,7 +9057,7 @@
     (uuid 99297616-0e74-4a6c-8077-447efd1e473f)
     (property "Reference" "J11" (id 0) (at 87.63 250.3002 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 87.63 252.8371 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 86.36 255.27 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 86.36 255.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 255.27 0)
@@ -9144,7 +9144,7 @@
     (uuid e6aaceef-e627-49f1-85c9-8afc9454a147)
     (property "Reference" "J6" (id 0) (at 87.63 209.6602 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 87.63 212.1971 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" (id 2) (at 86.36 214.63 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" (id 2) (at 86.36 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 214.63 0)
@@ -9751,80 +9751,80 @@
     (path "/00000000-0000-0000-0000-000060e8eb4c"
       (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
-    (path "/25331c5c-2c37-4a76-ab8d-4a12898d41cd"
-      (reference "J4") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-000060cd9651"
-      (reference "J5") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
+    )
+    (path "/25331c5c-2c37-4a76-ab8d-4a12898d41cd"
+      (reference "J5") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/e6aaceef-e627-49f1-85c9-8afc9454a147"
-      (reference "J6") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/0abb4f95-b234-4901-aa59-b979a10844ae"
-      (reference "J7") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J7") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/13c9f271-7765-46fa-81c3-fdc015ddd07c"
-      (reference "J8") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J8") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/f2185795-da7e-4aa8-99a6-631f49f0f0d7"
-      (reference "J9") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J9") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/c07078ce-54bb-45a4-9262-8763102990a7"
-      (reference "J10") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/99297616-0e74-4a6c-8077-447efd1e473f"
-      (reference "J11") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/298bc80e-cc50-4667-8d6e-c6c44a1ff7a3"
-      (reference "J12") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J12") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/74f24720-d0f6-4850-a43d-b257aa454f57"
-      (reference "J13") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J13") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/8f1e3bc2-ddf2-41b6-bd47-bfa375929a1d"
-      (reference "J14") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J14") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/d36ad56d-d5f6-4e71-ba9b-ae734d1f8593"
-      (reference "J15") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J15") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/f0a55aa4-6531-46d9-9b33-e262bd2f0035"
-      (reference "J16") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/00221c22-3aee-444a-9297-c05b73d53943"
-      (reference "J17") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J17") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/4ba6d86f-1493-49b4-9d96-9c1c55b001be"
-      (reference "J18") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J18") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/f58b8423-2e52-4a13-8422-2fabe04b6684"
-      (reference "J19") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J19") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/b4914bc2-a7bc-4d13-b5b1-5a9950d1a1b7"
-      (reference "J20") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J20") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/4a95eec5-11c3-47bc-a557-fffd34db6060"
-      (reference "J21") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J21") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/09b873e5-2d6a-4d85-b788-8f5ef28571c2"
-      (reference "J22") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J22") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/b7be31be-ba9b-461a-b7e8-39712a2b1cf9"
-      (reference "J23") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J23") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/76b95bbc-a27b-4065-a6fe-6ffe73589a48"
-      (reference "J24") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J24") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/9bcb4404-8f53-42a4-b7ec-d85bde5a2945"
-      (reference "J25") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J25") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/847c8c12-5bab-4ec9-a4b6-956a447ca654"
-      (reference "J26") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J26") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/3fe4c9bd-cd08-4d5f-a18a-1bf23666254c"
-      (reference "J27") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J27") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/8a8e9f60-beb8-443b-9dd3-404cd848a980/431afecc-8a22-4deb-8dbe-ade5f9558574"
-      (reference "J28") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+      (reference "J28") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005f261658"
       (reference "JP_LED1") (unit 1) (value "SolderJumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels")
@@ -10001,7 +10001,7 @@
       (reference "SW_LALT1.25u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.25U-Hotswap-guide")
     )
     (path "/00000000-0000-0000-0000-00005f5769a7"
-      (reference "SW_LSFT1.75u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.75U-Hotswap-guide")
+      (reference "SW_LSFT1.75u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.75U-NoLED")
     )
     (path "/00000000-0000-0000-0000-0000618078fc"
       (reference "SW_LSFT1u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
@@ -10010,7 +10010,7 @@
       (reference "SW_LSFT1u2") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
     )
     (path "/00000000-0000-0000-0000-00005f66b99b"
-      (reference "SW_LSFT2u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-2U-Hotswap-ReversedStabilizers-guide")
+      (reference "SW_LSFT2u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-2U-Hotswap-guide")
     )
     (path "/00000000-0000-0000-0000-00005f6bf154"
       (reference "SW_LSPC2u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-2U-Hotswap-ReversedStabilizers-guide")
@@ -10079,7 +10079,7 @@
       (reference "SW_TAB1.5u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/63ed8ab3-0fbc-42cb-a0a6-e0e0c11c2ba7"
-      (reference "SW_TAB1.25u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide")
+      (reference "SW_TAB1.25u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.25U-NoLED")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/0b9dcc05-a08f-4717-af6a-d4c8a9cec221"
       (reference "SW_U1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
