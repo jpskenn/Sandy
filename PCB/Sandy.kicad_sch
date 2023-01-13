@@ -2435,6 +2435,7 @@
   )
 
   (bus_alias "def-a" (members "row0" "row5" "col0" "col1"))
+
   (junction (at 156.21 177.8) (diameter 0) (color 0 0 0 0)
     (uuid 001d37dd-aab5-48af-a504-ca0215e5be90)
   )
@@ -2506,9 +2507,6 @@
   )
   (junction (at 347.345 165.1) (diameter 0) (color 0 0 0 0)
     (uuid 1f848c4c-9854-4b45-bf23-686c96e77481)
-  )
-  (junction (at 376.555 213.36) (diameter 0) (color 0 0 0 0)
-    (uuid 1fe356a5-ed35-4d36-b072-25cb4546f460)
   )
   (junction (at 347.345 170.18) (diameter 0) (color 0 0 0 0)
     (uuid 222d6dc7-4a9d-4f22-aa5e-2b6115c9875c)
@@ -3270,10 +3268,6 @@
   (wire (pts (xy 50.8 157.48) (xy 83.82 157.48))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2fe87c2b-651c-46b4-a4fa-af0e27a36bbe)
-  )
-  (wire (pts (xy 372.11 213.36) (xy 376.555 213.36))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 3043a833-c270-428b-9d8c-fcb5f52ba86b)
   )
   (wire (pts (xy 73.66 82.55) (xy 73.66 114.3))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -9914,9 +9908,6 @@
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/93c6107c-6949-491a-947f-71e074b156f9"
       (reference "SW_;2") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
-    )
-    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/5bc38787-012a-4f10-8221-d47e1e812132"
-      (reference "SW_;3") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f66ba2b"
       (reference "SW_<1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
