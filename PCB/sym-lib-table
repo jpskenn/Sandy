@@ -3,4 +3,5 @@
   (lib (name "ai03-locallib")(type "Legacy")(uri "${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib")(options "")(descr "")(disabled))
   (lib (name "USB4085-GF-A")(type "Legacy")(uri "${KIPRJMOD}/USB4085-GF-A_REVA-3/USB4085-GF-A_REVA.lib")(options "")(descr ""))
   (lib (name "Sandy-rescue")(type "Legacy")(uri "${KIPRJMOD}/Sandy-rescue.lib")(options "")(descr ""))
+  (lib (name "JS5208")(type "KiCad")(uri "${KIPRJMOD}/locallib.pretty/JS5208.kicad_sym")(options "")(descr ""))
 )

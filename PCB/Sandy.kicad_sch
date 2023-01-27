@@ -2435,7 +2435,6 @@
   )
 
   (bus_alias "def-a" (members "row0" "row5" "col0" "col1"))
-
   (junction (at 156.21 177.8) (diameter 0) (color 0 0 0 0)
     (uuid 001d37dd-aab5-48af-a504-ca0215e5be90)
   )
@@ -9866,6 +9865,9 @@
     )
     (path "/00000000-0000-0000-0000-00005b323aa5"
       (reference "ResetSW1") (unit 1) (value "5.2x5.2mm") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/4e814551-707a-49cd-a5cf-4a7c6dde6d6c"
+      (reference "S?") (unit 1) (value "JS5208") (footprint "SW_JS5208")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/9b60bbe6-6e78-46e7-aacd-e2e4b03eb7ba"
       (reference "SW_'1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
