@@ -4719,6 +4719,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b822c7f-ff45-409d-9841-39bf15686d4c)
   )
+  (text "Bottom to Mid: require 16 pins" (at 165.1 271.78 0)
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
+    (uuid 3dd15162-088a-477e-8c86-61b09701d29d)
+  )
   (text "Panel CONNECTOR\nBase to Middle" (at 15.24 208.28 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 3dfa9840-0239-4705-8fbf-ba7ba1e8fc7c)
@@ -9542,6 +9546,21 @@
     (path "/00000000-0000-0000-0000-00005f678085"
       (reference "D59") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/73f1126e-ca87-4e09-a1ed-b765b426e7b4"
+      (reference "D60") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/ea2e9c6d-5ae0-42fe-a35c-3b7710e3ca82"
+      (reference "D61") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/96c16827-6231-4530-b5c3-beed48e5205b"
+      (reference "D62") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/74555395-ef4f-4df9-aa65-ba6e2cd5ce99"
+      (reference "D63") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/f4f6b2f4-47ed-4341-a133-b7eea3e6b0a6"
+      (reference "D64") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00005f65b38d"
       (reference "D74") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -9867,7 +9886,10 @@
       (reference "ResetSW1") (unit 1) (value "5.2x5.2mm") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/4e814551-707a-49cd-a5cf-4a7c6dde6d6c"
-      (reference "S?") (unit 1) (value "JS5208") (footprint "SW_JS5208")
+      (reference "S1") (unit 1) (value "JS5208") (footprint "locallib:SW_JS5208_add_MP_hole")
+    )
+    (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/f19acb18-ba6b-4e84-8e72-30eac013a8b9"
+      (reference "S2") (unit 1) (value "JS5208") (footprint "locallib:SW_JS5208_add_MP_hole")
     )
     (path "/657e3a5b-6fed-49ab-8642-9fbc0b768079/9b60bbe6-6e78-46e7-aacd-e2e4b03eb7ba"
       (reference "SW_'1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide")
