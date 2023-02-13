@@ -388,6 +388,8 @@
           "D-",
           "GND",
           "Mid_GND",
+          "Net-(C2-Pad1)",
+          "Net-(C3-Pad1)",
           "Top_GND",
           "VCC"
         ],
