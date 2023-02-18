@@ -2531,7 +2531,6 @@
   )
 
   (bus_alias "def-a" (members "row0" "row5" "col0" "col1"))
-
   (junction (at 156.21 177.8) (diameter 0) (color 0 0 0 0)
     (uuid 001d37dd-aab5-48af-a504-ca0215e5be90)
   )
@@ -9546,6 +9545,23 @@
     (pin "4b" (uuid e1c1f8cd-b7dd-4fe2-88e4-69fc92a6d19a))
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 292.1 182.88 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid dd369369-b04c-4ba5-8142-ade221603df8)
+    (property "Reference" "H91" (id 0) (at 294.64 181.7116 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 294.64 184.023 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu" (id 2) (at 292.1 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 292.1 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 209.55 283.845 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e17dda67-766d-4239-bb47-49efcff519e2)
@@ -9618,7 +9634,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 292.1 177.8 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f7554ac8-0fad-4db2-bed8-bb7f16e4b666)
-    (property "Reference" "H5" (id 0) (at 294.64 176.6316 0)
+    (property "Reference" "H90" (id 0) (at 294.64 176.6316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 294.64 178.943 0)
@@ -9996,9 +10012,6 @@
     (path "/00000000-0000-0000-0000-000060f24724"
       (reference "H4") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_No_Cu")
     )
-    (path "/f7554ac8-0fad-4db2-bed8-bb7f16e4b666"
-      (reference "H5") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_No_Cu")
-    )
     (path "/082eab63-1d50-4cd6-92cd-cc44599ab572"
       (reference "H6") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal")
     )
@@ -10031,6 +10044,12 @@
     )
     (path "/d302c175-bdbe-4806-904b-2ef7b3261bb9"
       (reference "H41") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal")
+    )
+    (path "/f7554ac8-0fad-4db2-bed8-bb7f16e4b666"
+      (reference "H90") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_No_Cu")
+    )
+    (path "/dd369369-b04c-4ba5-8142-ade221603df8"
+      (reference "H91") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_No_Cu")
     )
     (path "/00000000-0000-0000-0000-0000611676cf"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4085")
