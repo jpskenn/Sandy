@@ -36,4 +36,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model "${KIPRJMOD}/locallib.pretty/Stabilizer_Cherry_MX_2.00u.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

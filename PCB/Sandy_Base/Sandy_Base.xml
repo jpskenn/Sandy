@@ -115,6 +115,19 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b33581f</tstamps>
     </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dd0c063-d4fb-4a39-b944-8c7bafd989eb</tstamps>
+    </comp>
     <comp ref="D10">
       <value>PRTR5V0U2X</value>
       <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
@@ -131,7 +144,7 @@
     </comp>
     <comp ref="D11">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -144,7 +157,7 @@
     </comp>
     <comp ref="D22">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -157,7 +170,7 @@
     </comp>
     <comp ref="D24">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -170,7 +183,7 @@
     </comp>
     <comp ref="D27">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -183,7 +196,7 @@
     </comp>
     <comp ref="D28">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -196,7 +209,7 @@
     </comp>
     <comp ref="D32">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -209,7 +222,7 @@
     </comp>
     <comp ref="D34">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -222,7 +235,7 @@
     </comp>
     <comp ref="D35">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -235,7 +248,7 @@
     </comp>
     <comp ref="D37">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -248,7 +261,7 @@
     </comp>
     <comp ref="D38">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -261,7 +274,7 @@
     </comp>
     <comp ref="D39">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -274,7 +287,7 @@
     </comp>
     <comp ref="D40">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -287,7 +300,7 @@
     </comp>
     <comp ref="D41">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -300,7 +313,7 @@
     </comp>
     <comp ref="D43">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -313,7 +326,7 @@
     </comp>
     <comp ref="D44">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -326,7 +339,7 @@
     </comp>
     <comp ref="D45">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -339,7 +352,7 @@
     </comp>
     <comp ref="D46">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -352,7 +365,7 @@
     </comp>
     <comp ref="D47">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -365,7 +378,7 @@
     </comp>
     <comp ref="D48">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -378,7 +391,7 @@
     </comp>
     <comp ref="D49">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -391,7 +404,7 @@
     </comp>
     <comp ref="D51">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -404,7 +417,7 @@
     </comp>
     <comp ref="D52">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -417,7 +430,7 @@
     </comp>
     <comp ref="D53">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -430,7 +443,7 @@
     </comp>
     <comp ref="D56">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -443,7 +456,7 @@
     </comp>
     <comp ref="D57">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -456,7 +469,7 @@
     </comp>
     <comp ref="D59">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -469,7 +482,7 @@
     </comp>
     <comp ref="D74">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -482,7 +495,7 @@
     </comp>
     <comp ref="D79">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -495,7 +508,7 @@
     </comp>
     <comp ref="D84">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -508,7 +521,7 @@
     </comp>
     <comp ref="D87">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -521,7 +534,7 @@
     </comp>
     <comp ref="D89">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -534,7 +547,7 @@
     </comp>
     <comp ref="D91">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -547,7 +560,7 @@
     </comp>
     <comp ref="D92">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -560,7 +573,7 @@
     </comp>
     <comp ref="D93">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -573,7 +586,7 @@
     </comp>
     <comp ref="D94">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -586,7 +599,7 @@
     </comp>
     <comp ref="D96">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -599,7 +612,7 @@
     </comp>
     <comp ref="D97">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -612,7 +625,7 @@
     </comp>
     <comp ref="D98">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
       <fields>
         <field name="LCSC">C81598</field>
       </fields>
@@ -800,7 +813,7 @@
     </comp>
     <comp ref="H1">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -809,7 +822,7 @@
     </comp>
     <comp ref="H2">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -818,16 +831,16 @@
     </comp>
     <comp ref="H3">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060b084d3</tstamps>
     </comp>
-    <comp ref="H5">
+    <comp ref="H4">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -836,7 +849,7 @@
     </comp>
     <comp ref="H6">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -845,7 +858,7 @@
     </comp>
     <comp ref="H7">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -854,7 +867,7 @@
     </comp>
     <comp ref="H8">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -863,7 +876,7 @@
     </comp>
     <comp ref="H9">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -872,7 +885,7 @@
     </comp>
     <comp ref="H10">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -881,7 +894,7 @@
     </comp>
     <comp ref="H11">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -890,7 +903,7 @@
     </comp>
     <comp ref="H12">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -899,7 +912,7 @@
     </comp>
     <comp ref="H13">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -908,7 +921,7 @@
     </comp>
     <comp ref="H14">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -917,7 +930,7 @@
     </comp>
     <comp ref="H40">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
@@ -926,12 +939,30 @@
     </comp>
     <comp ref="H41">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_minimal</footprint>
+      <footprint>locallib:MountingHole_2.2mm_M2_Pad_minimal</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d302c175-bdbe-4806-904b-2ef7b3261bb9</tstamps>
+    </comp>
+    <comp ref="H90">
+      <value>MountingHole</value>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7554ac8-0fad-4db2-bed8-bb7f16e4b666</tstamps>
+    </comp>
+    <comp ref="H91">
+      <value>MountingHole</value>
+      <footprint>locallib:MountingHole_2.2mm_M2_No_Cu</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd369369-b04c-4ba5-8142-ade221603df8</tstamps>
     </comp>
     <comp ref="J1">
       <value>USB_C_Receptacle_USB2.0</value>
@@ -1263,6 +1294,15 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f67807f</tstamps>
     </comp>
+    <comp ref="SW_CenterC1u1">
+      <value>SW_Push</value>
+      <footprint>MX_Alps_Hybrid:MXOnly-1U-NoLED</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c36db2d-482d-4f1c-bf33-0eaf31dff373</tstamps>
+    </comp>
     <comp ref="SW_CenterL1u1">
       <value>SW_Push</value>
       <footprint>MX_Alps_Hybrid:MXOnly-1U-NoLED</footprint>
@@ -1272,6 +1312,15 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006245ca13</tstamps>
     </comp>
+    <comp ref="SW_CenterL1u2">
+      <value>SW_Push</value>
+      <footprint>MX_Alps_Hybrid:MXOnly-1U-NoLED</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4a18ac-ce48-45c4-80a0-48a398d2b3ee</tstamps>
+    </comp>
     <comp ref="SW_CenterR1u1">
       <value>SW_Push</value>
       <footprint>MX_Alps_Hybrid:MXOnly-1U-NoLED</footprint>
@@ -1280,6 +1329,15 @@
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000062e9da53</tstamps>
+    </comp>
+    <comp ref="SW_CenterR1u2">
+      <value>SW_Push</value>
+      <footprint>MX_Alps_Hybrid:MXOnly-1U-NoLED</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f390eb93-c392-48fb-a70a-a053a0275587</tstamps>
     </comp>
     <comp ref="SW_CTL1.5u1">
       <value>SW_Push</value>
@@ -1452,6 +1510,15 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f66b99b</tstamps>
     </comp>
+    <comp ref="SW_LSPC1.5u1">
+      <value>SW_Push</value>
+      <footprint>MX_Alps_Hybrid:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a36a69f4-70b6-48f0-b540-937cb6883630</tstamps>
+    </comp>
     <comp ref="SW_LSPC2u1">
       <value>SW_Push</value>
       <footprint>MX_Alps_Hybrid:MXOnly-2U-ReversedStabilizers-NoLED</footprint>
@@ -1524,6 +1591,15 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cc095221-35f1-4fc6-b1e1-ef60b7287341</tstamps>
     </comp>
+    <comp ref="SW_RE_L3">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826099d4-d92c-4d02-a94f-062a5a2bbb8f</tstamps>
+    </comp>
     <comp ref="SW_RE_R1">
       <value>RotaryEncoder_Switch</value>
       <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
@@ -1559,6 +1635,15 @@
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f106675</tstamps>
+    </comp>
+    <comp ref="SW_RSPC1.5u1">
+      <value>SW_Push</value>
+      <footprint>MX_Alps_Hybrid:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6bb009-17bc-44bc-a12a-086cafde2f11</tstamps>
     </comp>
     <comp ref="SW_RSPC2u1">
       <value>SW_Push</value>
@@ -2199,6 +2284,7 @@
       <node ref="ResetSW1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_RE_L1" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="SW_RE_L2" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="SW_RE_L3" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="SW_RE_R1" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="SW_RE_R2" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
@@ -2224,8 +2310,11 @@
       <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="SW_CenterC1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CenterL1u1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW_CenterL1u2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_RE_L2" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="SW_RE_L3" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
     </net>
     <net code="7" name="MOSI">
@@ -2235,6 +2324,7 @@
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="SW_C1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW_LSPC1.5u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_LSPC2u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_V1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
@@ -2351,6 +2441,7 @@
     </net>
     <net code="46" name="Net-(D56-Pad2)">
       <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_LSPC2u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="47" name="Net-(D57-Pad2)">
@@ -2395,6 +2486,7 @@
     </net>
     <net code="57" name="Net-(D96-Pad2)">
       <node ref="D96" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_RSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_RSPC2u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="58" name="Net-(D97-Pad2)">
@@ -2473,19 +2565,27 @@
     <net code="72" name="RE_L2_2">
       <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW_CenterL1u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_CenterL1u2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_RE_L2" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
-    <net code="73" name="RE_L_A">
+    <net code="73" name="RE_L3_2">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_CenterC1u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_RE_L3" pin="S2" pinfunction="S2" pintype="passive"/>
+    </net>
+    <net code="74" name="RE_L_A">
       <node ref="SW_RE_L1" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="SW_RE_L2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="SW_RE_L3" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
-    <net code="74" name="RE_L_B">
+    <net code="75" name="RE_L_B">
       <node ref="SW_RE_L1" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="SW_RE_L2" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="SW_RE_L3" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
-    <net code="75" name="RE_R1_1">
+    <net code="76" name="RE_R1_1">
       <node ref="EXT_C7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
@@ -2494,38 +2594,41 @@
       <node ref="SW_RIGHT1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
     </net>
-    <net code="76" name="RE_R1_2">
+    <net code="77" name="RE_R1_2">
       <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW_RE_R1" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_RIGHT1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="77" name="RE_R2_1">
+    <net code="78" name="RE_R2_1">
       <node ref="EXT_C4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="SW_CenterR1u1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW_CenterR1u2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_J1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_N1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_RE_R2" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="SW_RSPC1.5u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_RSPC2u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
-    <net code="78" name="RE_R2_2">
+    <net code="79" name="RE_R2_2">
       <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW_CenterR1u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_CenterR1u2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_RE_R2" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
-    <net code="79" name="RE_R_A">
+    <net code="80" name="RE_R_A">
       <node ref="SW_RE_R1" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="SW_RE_R2" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
-    <net code="80" name="RE_R_B">
+    <net code="81" name="RE_R_B">
       <node ref="SW_RE_R1" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="SW_RE_R2" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
-    <net code="81" name="SCK">
+    <net code="82" name="SCK">
       <node ref="EXT_C1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -2539,19 +2642,19 @@
       <node ref="SW_Z1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
     </net>
-    <net code="82" name="SCL">
+    <net code="83" name="SCL">
       <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
       <node ref="U2" pin="6" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="83" name="SDA">
+    <net code="84" name="SDA">
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
       <node ref="U2" pin="5" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="97" name="VCC">
+    <net code="98" name="VCC">
       <node ref="D10" pin="4" pinfunction="VCC" pintype="passive"/>
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
@@ -2559,7 +2662,7 @@
       <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="98" name="col5">
+    <net code="99" name="col5">
       <node ref="EXT_C5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="SW_&lt;1" pin="1" pinfunction="1" pintype="passive"/>
@@ -2571,7 +2674,7 @@
       <node ref="SW_RALT1.25u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
     </net>
-    <net code="99" name="col6">
+    <net code="100" name="col6">
       <node ref="EXT_C6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -2584,12 +2687,12 @@
       <node ref="SW_UP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
     </net>
-    <net code="100" name="row0">
+    <net code="101" name="row0">
       <node ref="EXT_R0" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
     </net>
-    <net code="101" name="row1">
+    <net code="102" name="row1">
       <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R1" pin="1" pinfunction="Pin_1" pintype="passive"/>
@@ -2597,7 +2700,7 @@
       <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
     </net>
-    <net code="102" name="row2">
+    <net code="103" name="row2">
       <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
@@ -2607,7 +2710,7 @@
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
-    <net code="103" name="row3">
+    <net code="104" name="row3">
       <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
@@ -2618,7 +2721,8 @@
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
     </net>
-    <net code="104" name="row4">
+    <net code="105" name="row4">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
@@ -2627,12 +2731,12 @@
       <node ref="EXT_R4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
     </net>
-    <net code="105" name="row5">
+    <net code="106" name="row5">
       <node ref="EXT_R5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
     </net>
-    <net code="106" name="row6">
+    <net code="107" name="row6">
       <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R6" pin="1" pinfunction="Pin_1" pintype="passive"/>
@@ -2640,7 +2744,7 @@
       <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
     </net>
-    <net code="107" name="row7">
+    <net code="108" name="row7">
       <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
@@ -2650,7 +2754,7 @@
       <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
     </net>
-    <net code="108" name="row8">
+    <net code="109" name="row8">
       <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
@@ -2661,9 +2765,9 @@
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
     </net>
-    <net code="109" name="row9">
+    <net code="110" name="row9">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
@@ -2672,13 +2776,13 @@
       <node ref="EXT_R9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
-    <net code="110" name="unconnected-(J1-PadA8)">
+    <net code="111" name="unconnected-(J1-PadA8)">
       <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="111" name="unconnected-(J1-PadB8)">
+    <net code="112" name="unconnected-(J1-PadB8)">
       <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="112" name="unconnected-(U1-Pad42)">
+    <net code="113" name="unconnected-(U1-Pad42)">
       <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
     </net>
   </nets>
