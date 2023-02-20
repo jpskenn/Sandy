@@ -406,7 +406,7 @@
       "idf": "",
       "netlist": "Jones.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../tmp/Sandy_Middle.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
