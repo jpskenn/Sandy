@@ -645,6 +645,7 @@
   )
 
   (bus_alias "def-a" (members "row0" "row5" "col0" "col1"))
+
   (junction (at 147.32 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 02b8d6bd-8d89-4640-9df2-774f4f9d5bd1)
   )
@@ -2632,7 +2633,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 168.275 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1fd773fe-f658-4a6a-aeb7-315c3cfd0eee)
-    (property "Reference" "J3" (id 0) (at 169.545 170.2902 0))
+    (property "Reference" "J2" (id 0) (at 169.545 170.2902 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 169.545 172.8271 0))
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (id 2) (at 168.275 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2706,7 +2707,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 125.095 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 241d68cd-559c-443d-9f6d-2e6949462e93)
-    (property "Reference" "J2" (id 0) (at 126.365 170.2902 0))
+    (property "Reference" "J1" (id 0) (at 126.365 170.2902 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 126.365 172.8271 0))
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (id 2) (at 125.095 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3255,7 +3256,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 81.915 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8f11b508-47a9-405d-924f-c9833af03b08)
-    (property "Reference" "J1" (id 0) (at 83.185 170.2902 0))
+    (property "Reference" "J3" (id 0) (at 83.185 170.2902 0))
     (property "Value" "Conn_02x02_Top_Bottom" (id 1) (at 83.185 172.8271 0))
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (id 2) (at 81.915 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4110,13 +4111,13 @@
     (path "/ad1f9f76-df18-4fc2-8a34-bd6cd1a68296"
       (reference "H19") (unit 1) (value "MountingHole") (footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal")
     )
-    (path "/8f11b508-47a9-405d-924f-c9833af03b08"
+    (path "/241d68cd-559c-443d-9f6d-2e6949462e93"
       (reference "J1") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin")
     )
-    (path "/241d68cd-559c-443d-9f6d-2e6949462e93"
+    (path "/1fd773fe-f658-4a6a-aeb7-315c3cfd0eee"
       (reference "J2") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin")
     )
-    (path "/1fd773fe-f658-4a6a-aeb7-315c3cfd0eee"
+    (path "/8f11b508-47a9-405d-924f-c9833af03b08"
       (reference "J3") (unit 1) (value "Conn_02x02_Top_Bottom") (footprint "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin")
     )
     (path "/68be35fc-3c7d-421a-8702-eb25953945e7"
