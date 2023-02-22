@@ -40,9 +40,14 @@
   (pad "2" smd rect (at -1.75 0.875) (size 1.6 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e31c99c5-b5f8-4e33-b75a-ae88a548df42))
   (pad "3" smd rect (at 1.75 0.875) (size 1.6 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37a9b9ad-eab7-4e45-bb9b-321bf8edb711))
   (pad "4" smd rect (at 1.75 -0.875) (size 1.6 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3b366f09-a28e-42c0-b4c8-d109a1b7f142))
-  (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.wrl"
+  (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.wrl" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/locallib.pretty/SK6812MINI--3DModel-STEP-269445.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )
