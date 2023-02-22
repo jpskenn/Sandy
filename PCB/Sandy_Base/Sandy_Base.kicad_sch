@@ -9272,9 +9272,9 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 233.045 246.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1dbae128-947e-417a-a746-fa8e5ae0db7b)
-    (property "Reference" "SW_RE_L1" (id 0) (at 233.045 237.6002 0))
+    (property "Reference" "RE_L1" (id 0) (at 233.045 237.6002 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 233.045 240.1371 0))
-    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP" (id 2) (at 236.855 242.316 0)
+    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal" (id 2) (at 236.855 242.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 233.045 239.776 0)
@@ -9514,9 +9514,9 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 310.515 246.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 826099d4-d92c-4d02-a94f-062a5a2bbb8f)
-    (property "Reference" "SW_RE_L3" (id 0) (at 310.515 237.6002 0))
+    (property "Reference" "RE_L3" (id 0) (at 310.515 237.6002 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 310.515 240.1371 0))
-    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP" (id 2) (at 314.325 242.316 0)
+    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal" (id 2) (at 314.325 242.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 310.515 239.776 0)
@@ -9632,9 +9632,9 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 349.25 246.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a9a35660-c5b8-495f-b4a6-801de3471ae7)
-    (property "Reference" "SW_RE_R2" (id 0) (at 349.25 237.6002 0))
+    (property "Reference" "RE_R2" (id 0) (at 349.25 237.6002 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 349.25 240.1371 0))
-    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP" (id 2) (at 353.06 242.316 0)
+    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal" (id 2) (at 353.06 242.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 349.25 239.776 0)
@@ -9683,9 +9683,9 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 387.985 246.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ca289255-8f2d-4246-a4da-2eef2e56d53b)
-    (property "Reference" "SW_RE_R1" (id 0) (at 387.985 237.6002 0))
+    (property "Reference" "RE_R1" (id 0) (at 387.985 237.6002 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 387.985 240.1371 0))
-    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP" (id 2) (at 391.795 242.316 0)
+    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal" (id 2) (at 391.795 242.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 387.985 239.776 0)
@@ -9701,9 +9701,9 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 271.78 246.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cc095221-35f1-4fc6-b1e1-ef60b7287341)
-    (property "Reference" "SW_RE_L2" (id 0) (at 271.78 237.6002 0))
+    (property "Reference" "RE_L2" (id 0) (at 271.78 237.6002 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 271.78 240.1371 0))
-    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP" (id 2) (at 275.59 242.316 0)
+    (property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal" (id 2) (at 275.59 242.316 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 271.78 239.776 0)
@@ -10390,6 +10390,21 @@
     (path "/00000000-0000-0000-0000-000060ab3787"
       (reference "R9") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/1dbae128-947e-417a-a746-fa8e5ae0db7b"
+      (reference "RE_L1") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal")
+    )
+    (path "/cc095221-35f1-4fc6-b1e1-ef60b7287341"
+      (reference "RE_L2") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal")
+    )
+    (path "/826099d4-d92c-4d02-a94f-062a5a2bbb8f"
+      (reference "RE_L3") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal")
+    )
+    (path "/ca289255-8f2d-4246-a4da-2eef2e56d53b"
+      (reference "RE_R1") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal")
+    )
+    (path "/a9a35660-c5b8-495f-b4a6-801de3471ae7"
+      (reference "RE_R2") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal")
+    )
     (path "/00000000-0000-0000-0000-00005b323aa5"
       (reference "ResetSW1") (unit 1) (value "5.2x5.2mm") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
@@ -10503,21 +10518,6 @@
     )
     (path "/00000000-0000-0000-0000-00005f6780df"
       (reference "SW_RALT1.25u1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1.25U-NoLED")
-    )
-    (path "/1dbae128-947e-417a-a746-fa8e5ae0db7b"
-      (reference "SW_RE_L1") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP")
-    )
-    (path "/cc095221-35f1-4fc6-b1e1-ef60b7287341"
-      (reference "SW_RE_L2") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP")
-    )
-    (path "/826099d4-d92c-4d02-a94f-062a5a2bbb8f"
-      (reference "SW_RE_L3") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP")
-    )
-    (path "/ca289255-8f2d-4246-a4da-2eef2e56d53b"
-      (reference "SW_RE_R1") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP")
-    )
-    (path "/a9a35660-c5b8-495f-b4a6-801de3471ae7"
-      (reference "SW_RE_R2") (unit 1) (value "RotaryEncoder_Switch") (footprint "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP")
     )
     (path "/00000000-0000-0000-0000-00005f156a11"
       (reference "SW_RIGHT1") (unit 1) (value "SW_Push") (footprint "MX_Alps_Hybrid:MXOnly-1U-NoLED")
