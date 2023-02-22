@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C15850</field>
       </fields>
@@ -39,7 +39,7 @@
     </comp>
     <comp ref="C2">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C1804</field>
       </fields>
@@ -52,7 +52,7 @@
     </comp>
     <comp ref="C3">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C1804</field>
       </fields>
@@ -65,7 +65,7 @@
     </comp>
     <comp ref="C4">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -78,7 +78,7 @@
     </comp>
     <comp ref="C5">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -91,7 +91,7 @@
     </comp>
     <comp ref="C6">
       <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C28323</field>
       </fields>
@@ -104,7 +104,7 @@
     </comp>
     <comp ref="C7">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -130,7 +130,7 @@
     </comp>
     <comp ref="D10">
       <value>PRTR5V0U2X</value>
-      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-143_Handsoldering</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
       <fields>
         <field name="LCSC">C78442</field>
@@ -1075,7 +1075,7 @@
     </comp>
     <comp ref="LED1">
       <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_TriangleMark_Thick</footprint>
+      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
       <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
       <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
@@ -1085,7 +1085,7 @@
     </comp>
     <comp ref="LED2">
       <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_TriangleMark_Thick</footprint>
+      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
       <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
       <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
@@ -1095,7 +1095,7 @@
     </comp>
     <comp ref="LED3">
       <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_TriangleMark_Thick</footprint>
+      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
       <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
       <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
@@ -1105,7 +1105,7 @@
     </comp>
     <comp ref="LED4">
       <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_TriangleMark_Thick</footprint>
+      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
       <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
       <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
@@ -1128,7 +1128,7 @@
     </comp>
     <comp ref="R1">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C27834</field>
       </fields>
@@ -1141,7 +1141,7 @@
     </comp>
     <comp ref="R2">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C27834</field>
       </fields>
@@ -1154,7 +1154,7 @@
     </comp>
     <comp ref="R3">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C17561</field>
       </fields>
@@ -1167,7 +1167,7 @@
     </comp>
     <comp ref="R4">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C17561</field>
       </fields>
@@ -1180,7 +1180,7 @@
     </comp>
     <comp ref="R5">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C17414</field>
       </fields>
@@ -1193,7 +1193,7 @@
     </comp>
     <comp ref="R6">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="LCSC">C17414</field>
       </fields>
@@ -1239,6 +1239,51 @@
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b323aa5</tstamps>
+    </comp>
+    <comp ref="RE_L1">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dbae128-947e-417a-a746-fa8e5ae0db7b</tstamps>
+    </comp>
+    <comp ref="RE_L2">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc095221-35f1-4fc6-b1e1-ef60b7287341</tstamps>
+    </comp>
+    <comp ref="RE_L3">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826099d4-d92c-4d02-a94f-062a5a2bbb8f</tstamps>
+    </comp>
+    <comp ref="RE_R1">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca289255-8f2d-4246-a4da-2eef2e56d53b</tstamps>
+    </comp>
+    <comp ref="RE_R2">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9a35660-c5b8-495f-b4a6-801de3471ae7</tstamps>
     </comp>
     <comp ref="SW_;1">
       <value>SW_Push</value>
@@ -1572,51 +1617,6 @@
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f6780df</tstamps>
-    </comp>
-    <comp ref="SW_RE_L1">
-      <value>RotaryEncoder_Switch</value>
-      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
-      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1dbae128-947e-417a-a746-fa8e5ae0db7b</tstamps>
-    </comp>
-    <comp ref="SW_RE_L2">
-      <value>RotaryEncoder_Switch</value>
-      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
-      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cc095221-35f1-4fc6-b1e1-ef60b7287341</tstamps>
-    </comp>
-    <comp ref="SW_RE_L3">
-      <value>RotaryEncoder_Switch</value>
-      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
-      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>826099d4-d92c-4d02-a94f-062a5a2bbb8f</tstamps>
-    </comp>
-    <comp ref="SW_RE_R1">
-      <value>RotaryEncoder_Switch</value>
-      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
-      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>ca289255-8f2d-4246-a4da-2eef2e56d53b</tstamps>
-    </comp>
-    <comp ref="SW_RE_R2">
-      <value>RotaryEncoder_Switch</value>
-      <footprint>locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP</footprint>
-      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a9a35660-c5b8-495f-b4a6-801de3471ae7</tstamps>
     </comp>
     <comp ref="SW_RIGHT1">
       <value>SW_Push</value>
@@ -2281,12 +2281,12 @@
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="RE_L1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="RE_L2" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="RE_L3" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="RE_R1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="RE_R2" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="ResetSW1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW_RE_L1" pin="C" pinfunction="C" pintype="passive"/>
-      <node ref="SW_RE_L2" pin="C" pinfunction="C" pintype="passive"/>
-      <node ref="SW_RE_L3" pin="C" pinfunction="C" pintype="passive"/>
-      <node ref="SW_RE_R1" pin="C" pinfunction="C" pintype="passive"/>
-      <node ref="SW_RE_R2" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
@@ -2310,11 +2310,11 @@
       <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="RE_L2" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="RE_L3" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_CenterC1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CenterL1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CenterL1u2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW_RE_L2" pin="S1" pinfunction="S1" pintype="passive"/>
-      <node ref="SW_RE_L3" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
     </net>
     <net code="7" name="MOSI">
@@ -2545,6 +2545,7 @@
       <node ref="EXT_C0" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="RE_L1" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_A1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CAPS1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CTL1.25u1" pin="1" pinfunction="1" pintype="passive"/>
@@ -2554,78 +2555,77 @@
       <node ref="SW_LSFT1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_LSFT1u2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_LSFT2u1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW_RE_L1" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
     </net>
     <net code="71" name="RE_L1_2">
       <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L1" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CAPS1u1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_RE_L1" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
     <net code="72" name="RE_L2_2">
       <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L2" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CenterL1u1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_CenterL1u2" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_RE_L2" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
     <net code="73" name="RE_L3_2">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L3" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CenterC1u1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_RE_L3" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
     <net code="74" name="RE_L_A">
-      <node ref="SW_RE_L1" pin="A" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RE_L2" pin="A" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RE_L3" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="RE_L3" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
     <net code="75" name="RE_L_B">
-      <node ref="SW_RE_L1" pin="B" pinfunction="B" pintype="passive"/>
-      <node ref="SW_RE_L2" pin="B" pinfunction="B" pintype="passive"/>
-      <node ref="SW_RE_L3" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="RE_L1" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="RE_L2" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="RE_L3" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
     <net code="76" name="RE_R1_1">
       <node ref="EXT_C7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="RE_R1" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_Fn1u1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW_RE_R1" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_RIGHT1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
     </net>
     <net code="77" name="RE_R1_2">
       <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RE_R1" pin="S2" pinfunction="S2" pintype="passive"/>
+      <node ref="RE_R1" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_RIGHT1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="78" name="RE_R2_1">
       <node ref="EXT_C4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="RE_R2" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_CenterR1u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_CenterR1u2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_J1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_N1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW_RE_R2" pin="S1" pinfunction="S1" pintype="passive"/>
       <node ref="SW_RSPC1.5u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW_RSPC2u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
     <net code="79" name="RE_R2_2">
       <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RE_R2" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CenterR1u1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW_CenterR1u2" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_RE_R2" pin="S2" pinfunction="S2" pintype="passive"/>
     </net>
     <net code="80" name="RE_R_A">
-      <node ref="SW_RE_R1" pin="A" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RE_R2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="RE_R1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="RE_R2" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
     <net code="81" name="RE_R_B">
-      <node ref="SW_RE_R1" pin="B" pinfunction="B" pintype="passive"/>
-      <node ref="SW_RE_R2" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="RE_R1" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="RE_R2" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
     <net code="82" name="SCK">
