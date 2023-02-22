@@ -413,7 +413,7 @@
       "netlist": "Jones.net",
       "specctra_dsn": "",
       "step": "../../../../../tmp/Sandy_Base.step",
-      "vrml": ""
+      "vrml": "../../../../../tmp/Sandy_Base.wrl"
     },
     "page_layout_descr_file": ""
   },
