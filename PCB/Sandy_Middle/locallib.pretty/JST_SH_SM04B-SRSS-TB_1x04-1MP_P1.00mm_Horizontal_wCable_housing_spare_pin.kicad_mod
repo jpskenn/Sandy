@@ -108,7 +108,7 @@
     (rotate (xyz 0 0 0))
   )
   (model "${KIPRJMOD}/locallib.pretty/SM04B-SRSS-TB(LF)(SN)--3DModel-STEP-56544.STEP"
-    (offset (xyz 0 1.35 -0.25))
+    (offset (xyz 0 1.35 -0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
