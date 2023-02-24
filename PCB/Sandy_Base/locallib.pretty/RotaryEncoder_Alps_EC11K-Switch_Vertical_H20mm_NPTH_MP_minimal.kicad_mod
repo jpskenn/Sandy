@@ -44,8 +44,13 @@
   (pad "C" thru_hole oval (at 0 -7.5) (size 1.6 1.3) (drill oval 1 0.7) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 3ab9d677-803c-473c-b8d6-5c8c6c538472))
   (pad "S1" thru_hole oval (at 2.5 7) (size 1.6 1.3) (drill oval 1 0.7) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp dcfdc907-630b-4cd2-a4c6-59ef47ecc0e0))
   (pad "S2" thru_hole oval (at -2.5 7) (size 1.6 1.3) (drill oval 1 0.7) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 77950c00-c0a0-47e9-984a-c4883490bef6))
-  (model "${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
+  (model "${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl" hide
     (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/locallib.pretty/EC12E-150.STEP"
+    (offset (xyz 0 0 2.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
