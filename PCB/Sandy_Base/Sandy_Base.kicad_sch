@@ -5070,6 +5070,11 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid f274db59-c851-4dff-8fb2-7e772a623e06)
   )
+  (text "Max keys = 10 rows * 8 cols = 80\nPhysical keys = 15 + 14 + 14 + 15 + 13 = 71\n5-way nav = 5\nRemap/VIA virtual key assign for 2 encoders = 2 * 2 = 4\nBalance = 0 (!)"
+    (at 64.77 26.035 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fae55c8d-60ff-40a8-a2b7-89646355adb6)
+  )
 
   (global_label "col2" (shape input) (at 99.06 214.63 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
