@@ -112,7 +112,7 @@ Base → Mid
 
 | 部品名 | 個数 | 備考 |
 | :-- | :-- | :-- |
-| Qwiicケーブル, JST SH 4pin | 6 | - [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [コネクタ付コード　４Ｐ　黒赤青黄　両端コネクタ付き](https://akizukidenshi.com/catalog/g/gC-15884/) |
+| Qwiicケーブル, JST SH 4pin | 6 | - [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [コネクタ付コード　４Ｐ　黒赤青黄　両端コネクタ付き](https://akizukidenshi.com/catalog/g/gC-15884/) <br>組み立て時にケーブルを逃すのが大変なので、5cmより長いものはおすすめしません。|
 | MXスイッチ | 67 〜 71 | 組み立てるレイアウトにより使用数が変動します。<br>スイッチの端子折れや不良品、故障した場合などに備えて、いくつか予備があると安心です。<br>取り付け安定性の高い5pinタイプが推奨ですが、傾かないように気をつければ3pinでも問題ありません。 |
 | キーキャップ<br>MXスイッチ用 | 必要数 | 一般的な英語104のキーキャップセットで一通り埋めることができます。<br>1.5uエンターや1.5uバックスペースがあると雰囲気が良くなります。<br>2uや1.5uのスペースは、DSAなどを使用するのも良いでしょう。 |
 | GH60型, Poker型ケース<br>または<br>Jones／Nora用ボトムプレートキット | 1 | |
