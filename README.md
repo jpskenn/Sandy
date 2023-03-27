@@ -1,5 +1,7 @@
 # Sandy（サンディー）
 
+![Sandy keyboard](/assets/README/DSC_7893.jpeg)  
+
 Sandy is a Keyboard with key height optimization.
 
 Layered PCB will make height differences for each key.
