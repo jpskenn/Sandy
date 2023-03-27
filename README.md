@@ -1,5 +1,7 @@
 # Sandy（サンディー）
 
+![Sandy keyboard](/assets/README/DSC_7893.jpeg)  
+
 Sandy is a Keyboard with key height optimization.
 
 Layered PCB will make height differences for each key.
@@ -62,8 +64,6 @@ Sandyに関するSNS投稿などには、以下のタグをつけています。
 
 Sandyは複数基板を重ねるという手法で製作しているため、その技術的な制限や、製作工程を複雑にしすぎないため、全てのスイッチをなめらかな高さ変化で立体的に配置できていません。  
 そのため、最適化しきれない部分が多く残っています。  
-
-それでも、一般的なキーボードと違いすぎないレイアウトの割に打鍵しやすいことや、使用できるキーキャップの選択肢が広いことなど、Sandyを選ぶ理由があると考えています。
 
 ## 参考事例
 
