@@ -82,15 +82,14 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 基板 Mid | 1 | |
 | 基板 Top | 1 | |
 | ダイオード<br>表面実装（SMD）タイプ, 1N4148W | 30 | 予備3個含む<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) |
-| コネクタ<br>JST SH ベース サイド型 4pin 面実装 | 12 | 互換品<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) |
+| コネクタ<br>JST SH ベース サイド型 4pin 面実装 | 13 | 互換品。予備1個含む<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) |
 | スペーサー<br>丸型または六角 両メネジ, M2 3mm | 8 | [ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3)など |
 | 六角ナット<br>M2 2種 | 22 | [ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html)など |
 | ワッシャー<br>内径2.3mm 外径4.3mm 厚さ0.4mm | 11 | [ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3)など |
 | ネジ<br>M2 3mm | 16 | |
 | ネジ<br>M2 4mm | 4 | |
 | ネジ<br>M2 7mm | 11 | |
-| PCBマウント スタビライザー<br>2uサイズ | 3 | 組み立てるレイアウトにより使用数が変わります |
-| LED<br>SK6812MINI | 4 | インジケータLEDを使用する場合のみ取り付けます<br>[マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) |
+| LED<br>SK6812MINI | 4 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) |
 
 ※出荷時期によって、基板等の仕様や、部品のメーカーや品番などを変更することがあります。
 
@@ -98,8 +97,9 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 | 部品名 | 個数 | 備考 |
 | :-- | :-- | :-- |
-| Qwiicケーブル, JST SH 4pin | 6 | - [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [コネクタ付コード　４Ｐ　黒赤青黄　両端コネクタ付き](https://akizukidenshi.com/catalog/g/gC-15884/) <br>組み立て時にケーブルを逃すのが大変なので、5cmより長いものはおすすめしません。|
-| MXスイッチ | 67 〜 71 | 組み立てるレイアウトにより使用数が変動します。<br>スイッチの端子折れや不良品、故障した場合などに備えて、いくつか予備があると安心です。<br>取り付け安定性の高い5pinタイプが推奨ですが、傾かないように気をつければ3pinでも問題ありません。 |
+| Qwiicケーブル<br>JST SH 4pin | 6 | - [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [SparkFun　PRT-17260 Qwiicケーブル (50mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5ZMM) <br>ケーブルが長いと組み立て時に逃すのが大変なので、長さ5cmくらいがおすすめ。 |
+| PCBマウント スタビライザー<br>2uサイズ | 0 〜 3 | 組み立てるレイアウトにより使用数が変わります。 |
+| MXスイッチ | 67 〜 71 | 組み立てるレイアウトにより使用数が変動します。<br>取り付け安定性の高い5pinタイプが推奨ですが、傾かないように気をつければ3pinでも問題ありません。 |
 | キーキャップ<br>MXスイッチ用 | 必要数 | 一般的な英語104のキーキャップセットで一通り埋めることができます。<br>40%や全部入りのキーキャップセットなど、1.5uエンターや1.5uバックスペースがあると雰囲気が良くなります。<br>2uや1.5uのスペースは、DSAなどを使用するのも良いでしょう。 |
 | GH60型, Poker型ケース<br>または<br>Jones／Nora用ボトムプレートキット | 1 | |
 | USBケーブル （Type-C） | 1 | |
@@ -112,7 +112,6 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | ロータリーエンコーダ用ノブ（つまみ） | 必要数 | |
 | 5方向スイッチ, [JS5208](https://www.lcsc.com/product-detail/_E-Switch-_C3029619.html) | 1 | |
 | 5方向スイッチ用ノブ（つまみ） | 必要数 | 3.3mm角の軸に対応する、[タクトスイッチキャップ（10個入） [PLSA11CP]](https://www.aitendo.com/product/9731)など。<br>旧機種向けの*ロープロファイルではない*トラックポイント・キャップも、まぁまぁ使えます。 |
-| PCBマウント スタビライザー, 2uサイズ | 最大3 | キット内容よりも高品位なものを使用する場合。 |
 
 ## 組み立て前の確認
 
