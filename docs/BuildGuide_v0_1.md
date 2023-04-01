@@ -92,7 +92,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | ネジ<br>M2 4mm | 4 | [(+)スリムヘッド小ねじ(鉄/ニッケル)(小箱) ](https://www.monotaro.com/p/4230/6074/) |
 | ネジ<br>M2 7mm | 11 |  [ウィルコ F-0270N-03](https://wilco.jp/products/F/F-N-02.html#page3) |
 | LED<br>SK6812MINI | 4 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) |
-| 5方向スイッチ, JS5208 | 1 | [JS5208](https://www.lcsc.com/product-detail/_E-Switch-_C3029619.html) |
+| 5方向スイッチ, JS5208 | 1 | [JS5208](https://www.lcsc.com/product-detail/_E-Switch-_C3029619.html) <br>上下左右と押し込みの5方向。<br>上下左右はグニグニ動きますが、倒し切って「カチッ」というタクタイル感があるところがアクチュエーションポイントです。 |
 | 5方向スイッチ用ノブ（つまみ）<br>※お試し用 | 1 | [タクトスイッチキャップ（10個入） [PLSA11CP]](https://www.aitendo.com/product/9731)<br>ちょっと奥まではまりすぎるのでお試し用。（穴にティッシュでもつめて高さを調整してください）<br>3.3mm角の軸に対応するものであれば、旧機種用のトラックポイントキャップなども使えます。 |
 
 ※出荷時期によって、基板等の仕様や、部品のメーカーや品番などを変更することがあります。
