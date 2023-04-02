@@ -1,6 +1,6 @@
 # Sandy（サンディー）
 
-![Sandy keyboard](/assets/README/DSC_7893.jpeg)  
+![Sandy keyboard](/assets/README/DSC_7928.jpeg)  
 
 Sandy is a Keyboard with key height optimization.
 
@@ -25,11 +25,12 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## 特徴
 
-- キースイッチを立体的に配置  
-  ホームポジションから遠いキーへの打鍵しやすさを向上。
-
 - 左右対称なキーレイアウト  
   [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのないシンメトリカル ロースタッガード。
+
+- キースイッチを立体的に配置  
+  平面上のキーレイアウトだけでは最適化しきれない部分を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。
+  Jonesに比べて、ホームポジションから遠いキーへの打鍵しやすさが向上しています。
 
 - 60%ケースと組み合わせられる（GH60互換）
 
@@ -44,26 +45,41 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## レイアウト
 
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/1d0f4082c7ae670692987e3519c82648)（暫定）
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/1d0f4082c7ae670692987e3519c82648)
 
 ## ビルドガイド
 
 - [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
 
-## タグ
+## SNSタグ
 
-Sandyに関するSNS投稿などには、以下のタグをつけています。
+[#Sandy_kbd](https://twitter.com/search?q=%23Sandy_kbd)
 
-\#Sandy_kbd
+## ギャラリー
 
-## 試作機
+![Sandy keyboard, 試作1号機](/assets/README/DSC_7893.jpeg)  
+試作1号機, Cherryプロファイルキーキャップ使用  
 
-これまでの試作機の製作歴を、[試作機](/docs/TrialModels.md)にまとめています。
+![Sandy keyboard, 試作2号機](/assets/README/DSC_7942.jpeg)  
+試作2号機, KATプロファイルキーキャップ使用
+
+![Sandy keyboard, キーの段差（Cherryプロファイル）](/assets/README/DSC_7902.jpeg)  
+キーの段差（Cherryプロファイル）
+
+![Sandy keyboard, キーの段差（KATプロファイル）](/assets/README/DSC_7936.jpeg)  
+キーの段差（KATプロファイル）
+
+![Sandy keyboard, キーの段差（横と後ろ](/assets/README/DSC_7943.jpeg)  
+キーの段差（横）
 
 ## 残る課題
 
 Sandyは複数基板を重ねるという手法で製作しているため、その技術的な制限や、製作工程を複雑にしすぎないため、全てのスイッチをなめらかな高さ変化で立体的に配置できていません。  
 そのため、最適化しきれない部分が多く残っています。  
+
+## 試作機
+
+これまでの試作機の製作歴を、[試作機](/docs/TrialModels.md)にまとめています。
 
 ## 参考事例
 
@@ -74,7 +90,7 @@ Sandyは複数基板を重ねるという手法で製作しているため、そ
   カラムスタガをベースに中央側のキーを高くした設計の自作キーボードキット。
 
 - [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)
-  ”エルゴノミック”、”3Dキーボード”と言えばこれが思い浮かぶ。凹形状にキーが配置されている。
+  ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶ。凹形状にキーが配置されている。
 
 - [Microsoft Sculpt](https://www.microsoft.com/en/accessories/products/keyboards/sculpt-ergonomic-desktop)  
   ほんのり放射状に並んだキーと、中央部が高くなった形状。
