@@ -11352,7 +11352,7 @@
     (property "Value" "SW_Push" (at 144.78 172.8724 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom1-guide" (at 144.78 172.72 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom4-guide" (at 144.78 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 144.78 172.72 0)
