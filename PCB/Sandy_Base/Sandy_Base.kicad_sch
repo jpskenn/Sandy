@@ -9609,7 +9609,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 393.7 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000609b8fd1)
-    (property "Reference" "J2" (at 395.732 212.2932 0)
+    (property "Reference" "J10" (at 395.732 212.2932 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x03" (at 395.732 214.6046 0)
@@ -9627,7 +9627,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J2") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
     )
@@ -10126,7 +10126,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 300.99 41.275 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cd9651)
-    (property "Reference" "J4" (at 302.26 33.2232 0)
+    (property "Reference" "J8" (at 302.26 33.2232 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x03_Odd_Even" (at 302.26 35.5346 0)
@@ -10147,7 +10147,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J4") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
     )
@@ -10331,7 +10331,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 312.42 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e8eb4c)
-    (property "Reference" "J3" (at 314.452 114.5032 0)
+    (property "Reference" "J9" (at 314.452 114.5032 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (at 314.452 116.8146 0)
@@ -10348,7 +10348,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J3") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -10481,7 +10481,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_USB2.0") (at 330.2 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000611676cf)
-    (property "Reference" "J1" (at 332.9178 145.6182 0)
+    (property "Reference" "J7" (at 332.9178 145.6182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_C_Receptacle_USB2.0" (at 332.9178 147.9296 0)
@@ -10513,7 +10513,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J1") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -11113,10 +11113,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 137.16 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0abb4f95-b234-4901-aa59-b979a10844ae)
-    (property "Reference" "J7" (at 138.43 209.6602 0)
+    (property "Reference" "J6" (at 138.43 210.3501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 138.43 212.1971 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 138.43 212.2711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 137.16 214.63 0)
@@ -11135,7 +11135,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J7") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -11172,10 +11172,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 187.96 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13c9f271-7765-46fa-81c3-fdc015ddd07c)
-    (property "Reference" "J8" (at 189.23 209.6602 0)
+    (property "Reference" "J5" (at 189.23 210.3501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 189.23 212.1971 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 189.23 212.2711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 187.96 214.63 0)
@@ -11194,7 +11194,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J8") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -11839,10 +11839,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 137.795 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c571e857-465a-4cd1-b5a4-10afd25ac8ed)
-    (property "Reference" "J15" (at 139.065 254.1102 0)
+    (property "Reference" "J4" (at 139.065 254.8001 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 139.065 256.6471 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 139.065 256.7211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 137.795 259.08 0)
@@ -11861,7 +11861,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J15") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -11928,10 +11928,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 86.995 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0ee6de0-15d0-46f1-a276-d928b7c8deb8)
-    (property "Reference" "J10" (at 88.265 254.1102 0)
+    (property "Reference" "J3" (at 88.265 254.8001 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 88.265 256.6471 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 88.265 256.7211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 86.995 259.08 0)
@@ -11950,7 +11950,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J10") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -12090,10 +12090,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 86.36 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6aaceef-e627-49f1-85c9-8afc9454a147)
-    (property "Reference" "J6" (at 87.63 209.6602 0)
+    (property "Reference" "J1" (at 87.63 210.3501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 87.63 212.1971 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 87.63 212.2711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 86.36 214.63 0)
@@ -12112,7 +12112,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J6") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -12221,10 +12221,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x02_Odd_Even") (at 36.195 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f82feccf-a341-44cf-88d7-ebebbc52cedc)
-    (property "Reference" "J9" (at 37.465 254.1102 0)
+    (property "Reference" "J2" (at 37.465 254.8001 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x02_Top_Bottom" (at 37.465 256.6471 0)
+    (property "Value" "Conn_02x02_Top_Bottom" (at 37.465 256.7211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin" (at 36.195 259.08 0)
@@ -12243,7 +12243,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "J9") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
