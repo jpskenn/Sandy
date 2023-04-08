@@ -7384,7 +7384,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 177.8 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f186ade)
-    (property "Reference" "SW_RSPC2u1" (at 177.8 170.561 0)
+    (property "Reference" "#SW_RSPC2u1" (at 177.8 170.561 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 177.8 172.8724 0)
@@ -7401,7 +7401,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "SW_RSPC2u1") (unit 1)
+          (reference "#SW_RSPC2u1") (unit 1)
         )
       )
     )
@@ -8360,7 +8360,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 29.21 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b99b)
-    (property "Reference" "SW_LSFT2u1" (at 29.21 138.811 0)
+    (property "Reference" "#SW_LSFT2u1" (at 29.21 138.811 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 29.21 141.1224 0)
@@ -8377,7 +8377,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "SW_LSFT2u1") (unit 1)
+          (reference "#SW_LSFT2u1") (unit 1)
         )
       )
     )
@@ -9202,7 +9202,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 111.76 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6bf154)
-    (property "Reference" "SW_LSPC2u1" (at 111.76 170.561 0)
+    (property "Reference" "#SW_LSPC2u1" (at 111.76 170.561 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 111.76 172.8724 0)
@@ -9219,7 +9219,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "SW_LSPC2u1") (unit 1)
+          (reference "#SW_LSPC2u1") (unit 1)
         )
       )
     )
@@ -10600,7 +10600,7 @@
     (property "Value" "SW_Push" (at 45.72 141.1224 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom5-guide" (at 45.72 140.97 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide" (at 45.72 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 140.97 0)
@@ -10798,7 +10798,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 128.27 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006245ca13)
-    (property "Reference" "SW_CenterL1u1" (at 128.27 170.561 0)
+    (property "Reference" "#SW_CenterL1u1" (at 128.27 170.561 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 128.27 172.8724 0)
@@ -10815,7 +10815,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "SW_CenterL1u1") (unit 1)
+          (reference "#SW_CenterL1u1") (unit 1)
         )
       )
     )
@@ -10859,7 +10859,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000062e9da53)
-    (property "Reference" "SW_CenterR1u1" (at 161.29 170.561 0)
+    (property "Reference" "#SW_CenterR1u1" (at 161.29 170.561 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 161.29 172.8724 0)
@@ -10876,7 +10876,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "SW_CenterR1u1") (unit 1)
+          (reference "#SW_CenterR1u1") (unit 1)
         )
       )
     )
@@ -11352,7 +11352,7 @@
     (property "Value" "SW_Push" (at 144.78 172.8724 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom4-guide" (at 144.78 172.72 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-on-RE-guide" (at 144.78 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 144.78 172.72 0)
@@ -11403,7 +11403,7 @@
     (property "Value" "SW_Push" (at 128.27 167.7924 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom2-guide" (at 128.27 167.64 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide" (at 128.27 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 167.64 0)
@@ -11689,7 +11689,7 @@
     (property "Value" "SW_Push" (at 177.8 167.7924 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-custom11-guide" (at 177.8 167.64 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide" (at 177.8 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 177.8 167.64 0)
@@ -12177,7 +12177,7 @@
     (property "Value" "SW_Push" (at 161.29 167.7924 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-custom3-guide" (at 161.29 167.64 0)
+    (property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide" (at 161.29 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 167.64 0)
