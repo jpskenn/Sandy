@@ -10774,7 +10774,7 @@
     (property "Value" "Logo_Base" (at 229.7938 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Jones.local:Sandy_logo_w60" (at 223.52 211.455 0)
+    (property "Footprint" "Jones.local:Sandy_logo_w60_new" (at 223.52 211.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 223.52 211.455 0)
