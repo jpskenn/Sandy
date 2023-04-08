@@ -1,4 +1,4 @@
-(footprint "MXOnly-1U-Hotswap-guide" (version 20221018) (generator pcbnew)
+(footprint "MXOnly-1U-Hotswap-screw-hole-side3-guide" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 3.048) (layer "B.CrtYd")
@@ -82,8 +82,23 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp e87d72bb-e898-4a81-8933-1584769c634e))
   (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 576f9a73-a772-4346-ac80-6ea1c0af9b58))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp e200f76f-50d4-4817-9e44-5fffc7922d0b))
-  (pad "1" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 72fd2881-e63a-48ec-994a-a8afbee791e5))
-  (pad "2" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9bd9a6cb-104b-462e-82b2-38d78412ca13))
+  (pad "1" smd custom (at -7.085 -2.54) (size 1 1) (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.15 -1.25)
+          (xy 1.25 -1.25)
+          (xy 1.25 1.25)
+          (xy -1.25 1.25)
+          (xy -1.25 -0.15)
+          (xy -0.65 -0.6)
+        )
+        (width 0.12) (fill yes))
+    ) (tstamp 72fd2881-e63a-48ec-994a-a8afbee791e5))
+  (pad "2" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 45) (tstamp 9bd9a6cb-104b-462e-82b2-38d78412ca13))
   (model "${KIPRJMOD}/locallib.pretty/mx-switch.step"
     (offset (xyz 0 -1 4.8))
     (scale (xyz 1 1 1))
