@@ -4859,10 +4859,6 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 220d0c6d-def2-46de-b53d-0d914f949a40)
   )
-  (text "SCREWS\nto Diffuser" (at 285.115 174.625 0)
-    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
-    (uuid 25efa041-88af-450c-a358-bbf4280fcbe4)
-  )
   (text "Virtual Connection" (at 140.335 284.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28765245-9f3c-4d0f-af22-eacae16cb44f)
@@ -12013,30 +12009,6 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 292.1 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid dd369369-b04c-4ba5-8142-ade221603df8)
-    (property "Reference" "H91" (at 294.64 181.7116 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 294.64 184.023 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu" (at 292.1 182.88 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 292.1 182.88 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "Sandy_Base"
-        (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "H91") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GND") (at 209.55 283.845 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e17dda67-766d-4239-bb47-49efcff519e2)
@@ -12189,30 +12161,6 @@
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
           (reference "SW_CenterR1u2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 292.1 177.8 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid f7554ac8-0fad-4db2-bed8-bb7f16e4b666)
-    (property "Reference" "H90" (at 294.64 176.6316 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 294.64 178.943 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu" (at 292.1 177.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 292.1 177.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "Sandy_Base"
-        (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "H90") (unit 1)
         )
       )
     )
