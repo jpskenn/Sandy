@@ -479,7 +479,7 @@
       "idf": "",
       "netlist": "Jones.net",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/Sandy_Top.step",
+      "step": "../../../../../tmp/Sandy_Top_with_plate_Mid.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

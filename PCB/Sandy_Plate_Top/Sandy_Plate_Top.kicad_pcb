@@ -51,6 +51,7 @@
     )
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 15.10531 17.478405)
+    (grid_origin 15.10531 17.478405)
     (pcbplotparams
       (layerselection 0x00310fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -1141,9 +1142,9 @@
       (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp 4d9ac6fe-c602-4bac-990c-c6666cc2f677))
     (fp_arc (start 140.35 -3.025) (mid 140.203553 -2.671447) (end 139.85 -2.525)
       (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp 21d811c0-201a-459f-ac84-a1e320d01a08))
-    (fp_arc (start 140.475 -18.75004) (mid 141.889257 -18.164285) (end 142.475 -16.75004)
+    (fp_arc (start 140.475 -18.75004) (mid 141.889222 -18.164279) (end 142.475 -16.75004)
       (stroke (width 0.3) (type solid)) (layer "Edge.Cuts") (tstamp 76e29dc3-54f3-412a-a57c-37484ae7da1e))
-    (fp_arc (start 142.475 -2.814254) (mid 141.889203 -1.400035) (end 140.475 -0.814254)
+    (fp_arc (start 142.475 -2.814254) (mid 141.889197 -1.40007) (end 140.475 -0.814254)
       (stroke (width 0.3) (type solid)) (layer "Edge.Cuts") (tstamp 8f9d6776-6ae1-4777-871d-3eb7a22a9c6c))
     (group "" (id b45a4e6d-43e9-43f3-99a8-109a97b956a9)
       (members
