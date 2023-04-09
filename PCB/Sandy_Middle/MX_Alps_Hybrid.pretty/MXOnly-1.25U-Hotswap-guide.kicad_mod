@@ -84,4 +84,14 @@
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp 948d4daf-6c9a-41de-ab84-047afd277275))
   (pad "1" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 2397dfa5-87ae-4d59-9088-10dbb36b9e84))
   (pad "2" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 38ca9ddf-cbe0-4408-8ca3-57f3dd56d9cf))
+  (model "${KIPRJMOD}/locallib.pretty/MX_Socket_PG151101S11.STEP"
+    (offset (xyz -0.65 3.8 -1.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model "${KIPRJMOD}/locallib.pretty/mx-switch.step"
+    (offset (xyz 0 -1 4.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
