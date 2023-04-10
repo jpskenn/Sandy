@@ -3150,7 +3150,7 @@
   (fp_arc (start 142.475 26.22496) (mid 141.889214 27.639174) (end 140.475 28.22496)
     (stroke (width 0.3) (type solid)) (layer "Edge.Cuts") (tstamp 05efcb3f-5a03-4891-bbeb-9527b32740db))
   (pad "" np_thru_hole oval (at -14.375 -19.17504) (size 9 7.5) (drill oval 9 7.5) (layers "F&B.Cu" "*.Mask") (tstamp 8bf23253-6b7f-49f6-a32e-83bdb0ce4ddd))
-  (pad "" np_thru_hole oval (at 47.976167 18.6) (size 7 4.5) (drill oval 7 4.5) (layers "F&B.Cu" "*.Mask") (tstamp 49e7e784-8a4b-4afa-a661-9194582c1209))
+  (pad "" np_thru_hole oval (at 47.976167 18.880456) (size 9 6) (drill oval 9 6) (layers "F&B.Cu" "*.Mask") (tstamp e77fba4c-ddd9-4d45-b7d3-079fb914d36c))
   (pad "" np_thru_hole oval (at 117.525 -38.47504) (size 5.2 2.4) (drill oval 5.2 2.4) (layers "*.Mask" "F.Cu" "In1.Cu" "B.Cu") (tstamp 87baed78-f580-46ef-b52a-7f2548f31b42))
   (pad "" np_thru_hole oval (at 117.525 -38.47504) (size 5.2 2.4) (drill oval 5.2 2.4) (layers "F&B.Cu" "*.Mask") (tstamp 09dffa9e-10af-4e32-89c7-f9ae400a74c3))
   (pad "1" thru_hole circle (at -119.225 -38.47504) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 79db724d-99c3-461a-8864-45714be8a8a5))
