@@ -83,17 +83,17 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 基板 Top | 1 | Mid用スイッチプレートを兼ねる |
 | Base用スイッチプレート | 1 ||
 | Top用スイッチプレート | 1 ||
-| ダイオード<br>表面実装（SMD）タイプ, 1N4148W | 23 | 予備1個含む<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) |
-| SHコネクタ<br>JST SH ベース サイド型 4pin 面実装 | 12 | 互換品<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) |
-| Qwiicケーブル<br>JST SH 4pin, 長さ5cm | 6 | - [PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028)<br>- [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [SparkFun　PRT-17260 Qwiicケーブル (50mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5ZMM) |
-| スペーサー<br>丸型または六角 両メネジ, M2 3mm | 8 | [ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) |
-| 六角ナット<br>M2 2種 | 22 | [ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
-| ワッシャー<br>内径2.3mm 外径4.3mm 厚さ0.4mm | 19 | [ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
-| ネジ<br>M2 3mm | 16 | [ウィルコ F-0230N-03](https://wilco.jp/products/F/F-N-02.html#page3) |
-| ネジ<br>M2 4mm | 4 | [(+)スリムヘッド小ねじ(鉄/ニッケル)(小箱) ](https://www.monotaro.com/p/4230/6074/) |
-| ネジ<br>M2 7mm | 11 |  [ウィルコ F-0270N-03](https://wilco.jp/products/F/F-N-02.html#page3) |
-| LED<br>SK6812MINI | 4 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) |
-| スイッチ用ソケット（MX） | 75 | 予備4個含む<br>[MXスイッチ用 Kailh PCBソケット)](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9) |
+| ダイオード<br>表面実装（SMD）タイプ, 1N4148W<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) | 23 | 予備1個含む |
+| SHコネクタ<br>JST SH ベース サイド型 4pin 面実装<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) | 12 | |
+| Qwiicケーブル<br>JST SH 4pin, 長さ5cm<br>[PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) | 6 | 国内販売されているもの<br>- [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [SparkFun　PRT-17260 Qwiicケーブル (50mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5ZMM) |
+| スペーサー<br>丸型または六角 両メネジ, M2 3mm<br>[ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) | 8 | |
+| 六角ナット<br>M2 2種<br>[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) | 22 | |
+| ワッシャー<br>内径2.3mm 外径4.3mm 厚さ0.4mm<br>[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) | 19 | |
+| ネジ<br>M2 3mm<br>[ウィルコ F-0230N-03](https://wilco.jp/products/F/F-N-02.html#page3) | 16 | |
+| ネジ<br>M2 4mm<br>[(+)スリムヘッド小ねじ(鉄/ニッケル)(小箱) ](https://www.monotaro.com/p/4230/6074/) | 4 | |
+| ネジ<br>M2 7mm<br>[ウィルコ F-0270N-03](https://wilco.jp/products/F/F-N-02.html#page3) | 11 | |
+| LED<br>SK6812MINI<br>[マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) | 4 | |
+| スイッチ用ソケット（MX）<br>[MXスイッチ用 Kailh PCBソケット](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9) | 75 | 予備4個含む |
 
 ※出荷時期によって、基板等の仕様や、部品のメーカーや品番などを変更することがあります。
 
@@ -114,7 +114,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 | 部品名 | 個数 | 備考 |
 | :-- | :-- | :-- |
-| ロータリーエンコーダ, ALPS EC11, EC12または同等品 | 最大 2 | プッシュスイッチ付きにも対応 |
+| ロータリーエンコーダ<br>ALPS EC11, EC12または同等品 | 最大 2 | プッシュスイッチ付きにも対応 |
 | ロータリーエンコーダ用ノブ（つまみ） | 必要数 | |
 
 ## 組み立てに使用する工具
@@ -580,7 +580,7 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 | 部品名 | 個数 | 備考 |
 | :---- | :-----: | :---- |
 | USBコネクタ<br>USB4085-GF-A | 1 ||
-| ESD<br>PRTR5V0U2X | 1 ||
+| ESD<br>PRTR5V0U2X | 1 | 取り付け方向は基板のシルクを参照 |
 | FUSE<br>0ZCJ0050AF2E | 1 ||
 | リセットスイッチ<br>RS-187R05A2-DSMTRT | 1 ||
 
