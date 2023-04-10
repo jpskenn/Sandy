@@ -83,7 +83,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 基板 Top | 1 | Mid用スイッチプレートを兼ねる |
 | Base用スイッチプレート | 1 ||
 | Top用スイッチプレート | 1 ||
-| ダイオード<br>表面実装（SMD）タイプ, 1N4148W<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) | 23 | 予備1個含む |
+| ダイオード<br>表面実装（SMD）タイプ, 1N4148W<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) | 24 | 予備2個含む |
 | SHコネクタ<br>JST SH ベース サイド型 4pin 面実装<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) | 12 | |
 | Qwiicケーブル<br>JST SH 4pin, 長さ5cm<br>[PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) | 6 | 国内販売されているもの<br>- [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [SparkFun　PRT-17260 Qwiicケーブル (50mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5ZMM) |
 | スペーサー<br>丸型または六角 両メネジ, M2 3mm<br>[ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) | 8 | |
