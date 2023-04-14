@@ -220,7 +220,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../tmp/Nora_plate_bottom.step",
+      "step": "../../../../../tmp/Sandy_plate_bottom.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
