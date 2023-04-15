@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/kenn/Git/jpskenn/Sandy/PCB/Sandy_Base/Sandy_Base.kicad_sch</source>
-    <date>2023 April 11, Tuesday 07:47:39</date>
+    <date>2023 April 15, Saturday 21:12:22</date>
     <tool>Eeschema 7.0.1-0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1356,9 +1356,13 @@
     </comp>
     <comp ref="J7">
       <value>USB_C_Receptacle_USB2.0</value>
-      <footprint>Connector_USB:USB_C_Receptacle_GCT_USB4085</footprint>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C165948</field>
+      </fields>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="LCSC" value="C165948"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
       <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
