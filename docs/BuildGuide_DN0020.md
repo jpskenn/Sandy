@@ -245,7 +245,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
     大きなパッドの片方だけに予備はんだしておき、コネクタの位置を合わせて仮固定します。  
     コネクタが正しい位置に仮固定されたら、残りのパッドと4本のピンをはんだ付けします。  
-    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタ裏側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
+    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタうら側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
 
 1. ダイオードを取り付ける（19個）
 
@@ -275,7 +275,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
     うら側（`J1`, `J2`, `J3`）。
 
-    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタ裏側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
+    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタうら側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
 
 1. ダイオードを取り付ける（13個）
 
@@ -344,7 +344,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
     おもて側（`J1`, `J2`, `J3`, `J4`, `J5`, `J6`）。
 
-    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタ裏側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
+    隣同士の端子がはんだで繋がっていないか確認し、可能ならコネクタうら側のスルーホールが隣同士で同通しないことをテスターで確認しておきます。
 
 1. （オプション）ロータリーエンコーダを取り付ける
 
@@ -524,18 +524,15 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
   [Sandy_DN0020_files](https://gist.github.com/jpskenn/f1980616959f451fd799d8fc0f839c91)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
+  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン0.18.17から派生した[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
   Sandy DN0020のファームウェアは、[Sandy_DN0020タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0020)を参照してください。
 
 - 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0020タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0020)にまとめてあります。
 
 ### 資料：QMK Toolboxを使用して、ファームウェアを書き込む方法
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)を使用してビルド済み（＝作成済み）のファームウェアを書き込む方法について説明します。
-
-よくわかっている方は、
-`make sandy:via:flash`
-のコマンドで、ファームウェアをビルドして書き込む方法でかまいません。
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)を使用してビルド済み（＝作成済み）のファームウェアを書き込む方法について説明します。  
+（確認したQMK Toolboxのバージョン： 0.2.1）
 
 <details>
 <summary>《《《 詳しい説明 》》》</summary>
@@ -544,7 +541,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 EEPROMの初期化処理がおこなわれていますので、キーボードの準備が整うまでしばらくお待ちください。  
 2回目以降の接続では、すぐに接続されます。
 
-QMKファームウェアのドキュメント[ファームウェアを書き込む](https://docs.qmk.fm/#/ja/newbs_flashing?id=ファームウェアを書き込む)も、あわせてご覧ください。
+QMKファームウェアのドキュメント”[ファームウェアを書き込む](https://docs.qmk.fm/#/ja/newbs_flashing?id=ファームウェアを書き込む)”も、あわせてご覧ください。
 
 1. [資料：Sandy関連ファイル](#資料sandy関連ファイル)に記載のダウンロード先から、ビルド済みのファームウェアをダウンロードします。
 
@@ -557,7 +554,7 @@ QMKファームウェアのドキュメント[ファームウェアを書き込�
     1. キーボードの**左上**のキー（`ESC`や`\``）を押したまま、USBケーブルを差し込みます。
 
 1. QMK Toolboxの画面に、以下のような接続メッセージが表示されます。  
-    （もし表示されない場合は、USBケーブルを接続した状態で、基板裏側のリセットボタンを押します）
+    （もし表示されない場合は、USBケーブルを接続した状態で、基板うら側のリセットボタンを押します）
 
     ```text
     *** Atmel DFU device connected: ATMEL ATm32U4DFU (03EB:2FF4:0000)
@@ -632,7 +629,7 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 
 | 部品名 | 個数 | 備考 |
 | :---- | :-----: | :---- |
-| USBコネクタ<br>USB4085-GF-A | 1 ||
+| USBコネクタ<br>USB4085-GF-A または TYPE-C-31-M-12 | 1 | 製造により異なる |
 | ESD<br>PRTR5V0U2X | 1 | 取り付け方向は基板のシルクを参照 |
 | FUSE<br>0ZCJ0050AF2E | 1 ||
 | リセットスイッチ<br>RS-187R05A2-DSMTRT | 1 ||
@@ -643,17 +640,20 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 
 1. 部品取り付け
 
-    1. 基板裏側からUSBコネクタを取り付ける
+    1. 基板うらからUSBコネクタを取り付ける
 
         テスターでピン接続、ショートしないことを確認する。
-        ![USBコネクタ接続図](../assets/BuildGuide_v0_1/PCB_usb_wireing.png)  
-        USBコネクタ接続図
+        ![USBコネクタ接続図（USB4085-GF-A）](../assets/BuildGuide_DN0020/PCB_usb_wireing1.png)  
+        USBコネクタ接続図（USB4085-GF-A）
 
-    1. 基板裏側`D10`へESDを取り付ける
+        ![USBコネクタ接続図（TYPE-C-31-M-12）](../assets/BuildGuide_DN0020/PCB_usb_wireing2.png)  
+        USBコネクタ接続図（TYPE-C-31-M-12）
 
-        基板に描かれた取り付け方向を参考
+    1. 基板うら側`D10`へESDを取り付ける
 
-    1. 基板裏側`F1`へFUSEを取り付ける
+        基板に描かれた取り付け方向を参照
+
+    1. 基板うら側`F1`へFUSEを取り付ける
 
         方向なし
 
@@ -675,7 +675,7 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 
     1. QMK Toolboxの`Flash`ボタンを押して書き込む
 
-    1. Remapを開いて接続（~~自前のJSON読み込み~~ 登録済み）
+    1. Remapを開いて接続
 
         → EEPROMの初期化に1分ほどかかる
 
