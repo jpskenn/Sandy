@@ -11,7 +11,7 @@ Comment,Designator,Footprint,LCSC
 "MountingHole","H6,H7,H8,H9,H10,H11,H12,H13,H14,H40,H41","locallib:MountingHole_2.2mm_M2_Pad_minimal",""
 "Conn_02x02_Top_Bottom","J1,J2,J3,J4,J5,J6","locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin","C371510"
 "Conn_01x03","J10","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
-"USB_C_Receptacle_USB2.0","J7","Connector_USB:USB_C_Receptacle_GCT_USB4085",""
+"USB_C_Receptacle_USB2.0","J7","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "Conn_02x03_Odd_Even","J8","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",""
 "Conn_01x02","J9","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
 "SK6812MINI","LED1,LED2,LED3,LED4","locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal",""
