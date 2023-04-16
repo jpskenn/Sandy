@@ -464,7 +464,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
   0.18.17
 
-- キーマップ書き換えツールのRemapやVIAに対応。
+- キーマップ書き換えツールのRemapに対応。
 
 - レイヤー構成とレイヤーインジケータLEDの色  
   レイヤー0から7まで、8個のレイヤーが使用できます。  
@@ -527,7 +527,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
   私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
   Sandy DN0020のファームウェアは、[Sandy_DN0020タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0020)を参照してください。
 
-- 基板等の設計ファイルやドキュメント、Remap/VIAの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0020タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0020)にまとめてあります。
+- 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0020タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0020)にまとめてあります。
 
 ### 資料：QMK Toolboxを使用して、ファームウェアを書き込む方法
 
