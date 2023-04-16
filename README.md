@@ -59,11 +59,11 @@ Keyboard Layout Editor: Sandy (DN0020)](http://www.keyboard-layout-editor.com/#/
 
 ## ギャラリー
 
-![Sandy keyboard, 試作1号機](/assets/README/DSC_7893.jpeg)  
-試作1号機, Cherryプロファイルキーキャップ使用  
+![Sandy keyboard, v.0.1](/assets/README/DSC_7893.jpeg)  
+v.0.1, Cherryプロファイルキーキャップ使用  
 
 ![Sandy keyboard, 試作2号機](/assets/README/DSC_7942.jpeg)  
-試作2号機, KATプロファイルキーキャップ使用
+v.0.1, KATプロファイルキーキャップ使用
 
 ![Sandy keyboard, キーの段差（Cherryプロファイル）](/assets/README/DSC_7902.jpeg)  
 キーの段差（Cherryプロファイル）
