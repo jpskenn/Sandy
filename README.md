@@ -49,6 +49,7 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## ビルドガイド
 
+- [Sandy DN0020](/docs/BuildGuide_DN0020.md)
 - [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
 
 ## SNSタグ
