@@ -520,16 +520,14 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 このキーボードに関連するファイルです。  
 
-〓ファイル類更新（ファームウェアはバージョン表記だけ書き換え）
-
 - ビルド済みファームウェア： sandy_v01_via.hex  
-  [Sandy v01 files (20230328)](https://gist.github.com/jpskenn/21b21c53d0633dc71cbee85959485c7a)（Zipファイルをダウンロードして展開）
+  [Sandy_DN0020_files](https://gist.github.com/jpskenn/f1980616959f451fd799d8fc0f839c91)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/v01`に配置しています。  
-  Sandy v.0.1のファームウェアは、[Sandy_v01タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_v01)を参照してください。
+  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
+  Sandy DN0020のファームウェアは、[Sandy_DN0020タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0020)を参照してください。
 
-- 基板等の設計ファイルやドキュメント、Remap/VIAの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[v01タグ](https://github.com/jpskenn/Sandy/releases/tag/v01)にまとめてあります。
+- 基板等の設計ファイルやドキュメント、Remap/VIAの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0020タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0020)にまとめてあります。
 
 ### 資料：QMK Toolboxを使用して、ファームウェアを書き込む方法
 
