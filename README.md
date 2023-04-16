@@ -45,7 +45,8 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## レイアウト
 
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/1d0f4082c7ae670692987e3519c82648)
+[![Keyboard Layout Editor: Sandy (DN0020)](/assets/README/layout.png)  
+Keyboard Layout Editor: Sandy (DN0020)](http://www.keyboard-layout-editor.com/#/gists/19f42cd466b4f3b269f38e3bdd6bf532)
 
 ## ビルドガイド
 
