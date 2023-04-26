@@ -26,29 +26,42 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 ## 特徴
 
 - 左右対称なキーレイアウト  
-  [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのないシンメトリカル ロースタッガード。
+  [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称な、シンメトリカル ロースタッガードのレイアウトです。
 
 - キースイッチを立体的に配置  
   平面上のキーレイアウトだけでは最適化しきれない部分を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。
   Jonesに比べて、ホームポジションから遠いキーへの打鍵しやすさが向上しています。
 
-- 60%ケースと組み合わせられる（GH60互換）
+- 60%ケースと組み合わせられる（GH60型ケース互換）
 
 - 外部EEPROM搭載  
-  Remap/VIAでたくさんのレイヤーを使用できる。
+  Remapでたくさんのレイヤーを使用できます。
 
-- オプション機能
+- オプション機能  
+  以下のオプション機能を使用できます。
 
   - ロータリーエンコーダ
-  - 5方向スイッチ
   - インジケータLED
 
 ## レイアウト
 
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/1d0f4082c7ae670692987e3519c82648)
+キーのバリエーションを含むレイアウトは以下の通りです。  
+[![Keyboard Layout Editor: Sandy (DN0020)](/assets/README/layout.png)  
+Keyboard Layout Editor: Sandy (DN0020)](http://www.keyboard-layout-editor.com/#/gists/19f42cd466b4f3b269f38e3bdd6bf532)
+
+キーの高さは3段階で、以下のように配置されます。
+![キーの高さ](/assets/README/layout_height_map.png)
+
+[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
+一般的なロースタガと異なり、左手アルファ部の最下行を、外側へ1キーずらすことをお勧めします。  
+
+SemiErgoを適用したレイアウト例は以下のようになります。  
+<small>スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
+![SemiErgoを適用したレイアウト](/assets/README/layout_SemiErgo_based.png)
 
 ## ビルドガイド
 
+- [Sandy DN0020](/docs/BuildGuide_DN0020.md)
 - [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
 
 ## SNSタグ
@@ -57,11 +70,11 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## ギャラリー
 
-![Sandy keyboard, 試作1号機](/assets/README/DSC_7893.jpeg)  
-試作1号機, Cherryプロファイルキーキャップ使用  
+![Sandy keyboard, v.0.1](/assets/README/DSC_7893.jpeg)  
+v.0.1, Cherryプロファイルキーキャップ使用  
 
 ![Sandy keyboard, 試作2号機](/assets/README/DSC_7942.jpeg)  
-試作2号機, KATプロファイルキーキャップ使用
+v.0.1, KATプロファイルキーキャップ使用
 
 ![Sandy keyboard, キーの段差（Cherryプロファイル）](/assets/README/DSC_7902.jpeg)  
 キーの段差（Cherryプロファイル）
