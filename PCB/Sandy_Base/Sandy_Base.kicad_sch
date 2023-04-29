@@ -7267,13 +7267,13 @@
   (symbol (lib_id "Device:D") (at 232.41 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f10665e)
-    (property "Reference" "D92" (at 234.442 180.4416 90)
+    (property "Reference" "D37" (at 234.442 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 234.442 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 232.41 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 232.41 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 232.41 181.61 0)
@@ -7293,7 +7293,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D92") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -7406,13 +7406,13 @@
   (symbol (lib_id "Device:D") (at 182.88 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f1d06d0)
-    (property "Reference" "D96" (at 184.912 180.4416 90)
+    (property "Reference" "D35" (at 184.912 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 184.912 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 182.88 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 182.88 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 181.61 0)
@@ -7432,7 +7432,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D96") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -7467,13 +7467,13 @@
   (symbol (lib_id "Device:D") (at 67.31 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f29dc79)
-    (property "Reference" "D98" (at 69.342 180.4416 90)
+    (property "Reference" "D29" (at 69.342 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 69.342 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 67.31 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 67.31 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 181.61 0)
@@ -7493,7 +7493,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D98") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -7502,13 +7502,13 @@
   (symbol (lib_id "Device:D") (at 265.43 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f3cb947)
-    (property "Reference" "D91" (at 267.462 148.6916 90)
+    (property "Reference" "D26" (at 267.462 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 267.462 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 265.43 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 265.43 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 149.86 0)
@@ -7528,7 +7528,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D91") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -7615,13 +7615,13 @@
   (symbol (lib_id "Device:D") (at 67.31 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65b351)
-    (property "Reference" "D28" (at 69.342 85.1916 90)
+    (property "Reference" "D1" (at 69.342 85.1916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 69.342 87.503 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 67.31 86.36 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 67.31 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 86.36 0)
@@ -7641,7 +7641,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D28") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -7676,13 +7676,13 @@
   (symbol (lib_id "Device:D") (at 83.82 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65b35d)
-    (property "Reference" "D27" (at 85.852 85.1916 90)
+    (property "Reference" "D2" (at 85.852 85.1916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 85.852 87.503 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 83.82 86.36 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 83.82 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 86.36 0)
@@ -7702,7 +7702,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D27") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -7737,13 +7737,13 @@
   (symbol (lib_id "Device:D") (at 215.9 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65b38d)
-    (property "Reference" "D74" (at 217.932 85.1916 90)
+    (property "Reference" "D4" (at 217.932 85.1916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 217.932 87.503 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 215.9 86.36 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 215.9 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 215.9 86.36 0)
@@ -7763,7 +7763,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D74") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -7798,13 +7798,13 @@
   (symbol (lib_id "Device:D") (at 199.39 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65b3bd)
-    (property "Reference" "D24" (at 201.422 85.1916 90)
+    (property "Reference" "D3" (at 201.422 85.1916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 201.422 87.503 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 199.39 86.36 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 199.39 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 86.36 0)
@@ -7824,7 +7824,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D24") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -7859,13 +7859,13 @@
   (symbol (lib_id "Device:D") (at 34.29 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f665845)
-    (property "Reference" "D39" (at 36.322 116.9416 90)
+    (property "Reference" "D5" (at 36.322 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 36.322 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 34.29 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 34.29 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 118.11 0)
@@ -7885,7 +7885,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D39") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -7920,13 +7920,13 @@
   (symbol (lib_id "Device:D") (at 50.8 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f665851)
-    (property "Reference" "D79" (at 52.832 116.9416 90)
+    (property "Reference" "D6" (at 52.832 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 52.832 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 50.8 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 50.8 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 118.11 0)
@@ -7946,7 +7946,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D79") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -7981,13 +7981,13 @@
   (symbol (lib_id "Device:D") (at 67.31 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66585d)
-    (property "Reference" "D38" (at 69.342 116.9416 90)
+    (property "Reference" "D7" (at 69.342 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 69.342 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 67.31 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 67.31 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 118.11 0)
@@ -8007,7 +8007,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D38") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -8042,13 +8042,13 @@
   (symbol (lib_id "Device:D") (at 83.82 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f665869)
-    (property "Reference" "D37" (at 85.852 116.9416 90)
+    (property "Reference" "D8" (at 85.852 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 85.852 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 83.82 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 83.82 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 118.11 0)
@@ -8068,7 +8068,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D37") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -8103,13 +8103,13 @@
   (symbol (lib_id "Device:D") (at 100.33 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f665875)
-    (property "Reference" "D87" (at 102.362 116.9416 90)
+    (property "Reference" "D9" (at 102.362 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 102.362 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 100.33 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 100.33 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 100.33 118.11 0)
@@ -8129,7 +8129,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D87") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -8164,13 +8164,13 @@
   (symbol (lib_id "Device:D") (at 215.9 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f665899)
-    (property "Reference" "D84" (at 217.932 116.9416 90)
+    (property "Reference" "D12" (at 217.932 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 217.932 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 215.9 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 215.9 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 215.9 118.11 0)
@@ -8190,7 +8190,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D84") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -8225,13 +8225,13 @@
   (symbol (lib_id "Device:D") (at 182.88 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6658bd)
-    (property "Reference" "D35" (at 184.912 116.9416 90)
+    (property "Reference" "D10" (at 184.912 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 184.912 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 182.88 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 182.88 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 118.11 0)
@@ -8251,7 +8251,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D35") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -8286,13 +8286,13 @@
   (symbol (lib_id "Device:D") (at 199.39 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6658c9)
-    (property "Reference" "D34" (at 201.422 116.9416 90)
+    (property "Reference" "D11" (at 201.422 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 201.422 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 199.39 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 199.39 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 118.11 0)
@@ -8312,7 +8312,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D34") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -8321,13 +8321,13 @@
   (symbol (lib_id "Device:D") (at 248.92 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6658d5)
-    (property "Reference" "D32" (at 250.952 116.9416 90)
+    (property "Reference" "D14" (at 250.952 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 250.952 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 248.92 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 248.92 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 118.11 0)
@@ -8347,7 +8347,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D32") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -8382,13 +8382,13 @@
   (symbol (lib_id "Device:D") (at 34.29 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9a1)
-    (property "Reference" "D49" (at 36.322 148.6916 90)
+    (property "Reference" "D15" (at 36.322 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 36.322 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 34.29 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 34.29 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 149.86 0)
@@ -8408,7 +8408,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D49") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -8443,13 +8443,13 @@
   (symbol (lib_id "Device:D") (at 67.31 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9ad)
-    (property "Reference" "D48" (at 69.342 148.6916 90)
+    (property "Reference" "D17" (at 69.342 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 69.342 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 67.31 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 67.31 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 149.86 0)
@@ -8469,7 +8469,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D48") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -8504,13 +8504,13 @@
   (symbol (lib_id "Device:D") (at 83.82 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9b9)
-    (property "Reference" "D47" (at 85.852 148.6916 90)
+    (property "Reference" "D18" (at 85.852 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 85.852 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 83.82 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 83.82 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 149.86 0)
@@ -8530,7 +8530,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D47") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -8565,13 +8565,13 @@
   (symbol (lib_id "Device:D") (at 100.33 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9c5)
-    (property "Reference" "D97" (at 102.362 148.6916 90)
+    (property "Reference" "D19" (at 102.362 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 102.362 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 100.33 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 100.33 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 100.33 149.86 0)
@@ -8591,7 +8591,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D97") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -8626,13 +8626,13 @@
   (symbol (lib_id "Device:D") (at 116.84 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9d1)
-    (property "Reference" "D46" (at 118.872 148.6916 90)
+    (property "Reference" "D20" (at 118.872 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 118.872 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 116.84 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 116.84 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 116.84 149.86 0)
@@ -8652,7 +8652,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D46") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -8687,13 +8687,13 @@
   (symbol (lib_id "Device:D") (at 232.41 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66b9f5)
-    (property "Reference" "D93" (at 234.442 148.6916 90)
+    (property "Reference" "D24" (at 234.442 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 234.442 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 232.41 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 232.41 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 232.41 149.86 0)
@@ -8713,7 +8713,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D93") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -8748,13 +8748,13 @@
   (symbol (lib_id "Device:D") (at 182.88 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66ba0d)
-    (property "Reference" "D45" (at 184.912 148.6916 90)
+    (property "Reference" "D21" (at 184.912 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 184.912 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 182.88 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 182.88 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 149.86 0)
@@ -8774,7 +8774,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D45") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -8809,13 +8809,13 @@
   (symbol (lib_id "Device:D") (at 199.39 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66ba19)
-    (property "Reference" "D43" (at 201.422 148.6916 90)
+    (property "Reference" "D22" (at 201.422 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 201.422 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 199.39 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 199.39 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 149.86 0)
@@ -8835,7 +8835,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D43") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -8844,13 +8844,13 @@
   (symbol (lib_id "Device:D") (at 215.9 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66ba25)
-    (property "Reference" "D94" (at 217.932 148.6916 90)
+    (property "Reference" "D23" (at 217.932 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 217.932 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 215.9 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 215.9 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 215.9 149.86 0)
@@ -8870,7 +8870,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D94") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -8905,13 +8905,13 @@
   (symbol (lib_id "Device:D") (at 248.92 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66ba3d)
-    (property "Reference" "D41" (at 250.952 148.6916 90)
+    (property "Reference" "D25" (at 250.952 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 250.952 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 248.92 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 248.92 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 149.86 0)
@@ -8931,7 +8931,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D41") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -8966,13 +8966,13 @@
   (symbol (lib_id "Device:D") (at 34.29 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f678085)
-    (property "Reference" "D59" (at 36.322 180.4416 90)
+    (property "Reference" "D27" (at 36.322 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 36.322 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 34.29 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 34.29 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 181.61 0)
@@ -8992,7 +8992,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D59") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -9001,13 +9001,13 @@
   (symbol (lib_id "Device:D") (at 83.82 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f67809d)
-    (property "Reference" "D57" (at 85.852 180.4416 90)
+    (property "Reference" "D30" (at 85.852 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 85.852 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 83.82 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 83.82 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 181.61 0)
@@ -9027,7 +9027,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D57") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -9036,13 +9036,13 @@
   (symbol (lib_id "Device:D") (at 116.84 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6780d9)
-    (property "Reference" "D56" (at 118.872 180.4416 90)
+    (property "Reference" "D31" (at 118.872 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 118.872 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 116.84 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 116.84 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 116.84 181.61 0)
@@ -9062,7 +9062,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D56") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -9097,13 +9097,13 @@
   (symbol (lib_id "Device:D") (at 215.9 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6780e5)
-    (property "Reference" "D53" (at 217.932 180.4416 90)
+    (property "Reference" "D36" (at 217.932 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 217.932 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 215.9 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 215.9 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 215.9 181.61 0)
@@ -9123,7 +9123,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D53") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -9132,13 +9132,13 @@
   (symbol (lib_id "Device:D") (at 248.92 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f678121)
-    (property "Reference" "D52" (at 250.952 180.4416 90)
+    (property "Reference" "D38" (at 250.952 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 250.952 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 248.92 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 248.92 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 181.61 0)
@@ -9158,7 +9158,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D52") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -9224,13 +9224,13 @@
   (symbol (lib_id "Device:D") (at 265.43 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f6c56f6)
-    (property "Reference" "D51" (at 267.462 180.4416 90)
+    (property "Reference" "D39" (at 267.462 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 267.462 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 265.43 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 265.43 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 181.61 0)
@@ -9250,7 +9250,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D51") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -9315,7 +9315,7 @@
   (symbol (lib_id "Power_Protection:PRTR5V0U2X") (at 379.73 148.59 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f744321)
-    (property "Reference" "D10" (at 393.5476 147.4216 90)
+    (property "Reference" "D99" (at 393.5476 147.4216 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PRTR5V0U2X" (at 393.5476 149.733 90)
@@ -9337,7 +9337,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D10") (unit 1)
+          (reference "D99") (unit 1)
         )
       )
     )
@@ -10619,13 +10619,13 @@
   (symbol (lib_id "Device:D") (at 50.8 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000617d508f)
-    (property "Reference" "D89" (at 52.832 148.6916 90)
+    (property "Reference" "D16" (at 52.832 148.6916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 52.832 151.003 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 50.8 149.86 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 50.8 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 149.86 0)
@@ -10645,7 +10645,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D89") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -10706,13 +10706,13 @@
   (symbol (lib_id "Device:D") (at 50.8 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000618640f8)
-    (property "Reference" "D11" (at 52.832 180.4416 90)
+    (property "Reference" "D28" (at 52.832 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 52.832 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 50.8 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 50.8 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 181.61 0)
@@ -10732,7 +10732,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D11") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -10823,13 +10823,13 @@
   (symbol (lib_id "Device:D") (at 133.35 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000062b9c232)
-    (property "Reference" "D22" (at 135.382 180.4416 90)
+    (property "Reference" "D32" (at 135.382 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 135.382 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 133.35 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 133.35 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 133.35 181.61 0)
@@ -10849,7 +10849,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D22") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -10884,13 +10884,13 @@
   (symbol (lib_id "Device:D") (at 166.37 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000062e9da5b)
-    (property "Reference" "D40" (at 168.402 180.4416 90)
+    (property "Reference" "D34" (at 168.402 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 168.402 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 166.37 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 166.37 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 166.37 181.61 0)
@@ -10910,7 +10910,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D40") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -11000,13 +11000,13 @@
   (symbol (lib_id "Device:D") (at 232.41 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000064060264)
-    (property "Reference" "D44" (at 234.442 116.9416 90)
+    (property "Reference" "D13" (at 234.442 116.9416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 234.442 119.253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 232.41 118.11 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 232.41 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 232.41 118.11 0)
@@ -11026,7 +11026,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D44") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -11454,13 +11454,13 @@
   (symbol (lib_id "Device:D") (at 149.86 181.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5dd0c063-d4fb-4a39-b944-8c7bafd989eb)
-    (property "Reference" "D1" (at 151.892 180.4416 90)
+    (property "Reference" "D33" (at 151.892 180.4416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.892 182.753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line" (at 149.86 181.61 0)
+    (property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom" (at 149.86 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 149.86 181.61 0)
@@ -11480,7 +11480,7 @@
     (instances
       (project "Sandy_Base"
         (path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-          (reference "D1") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
