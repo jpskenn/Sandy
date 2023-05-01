@@ -51,22 +51,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 - スイッチの取り付け
 
-  組み立てるレイアウトによっては、一部のスイッチを上下反対向きに取り付けます。
-
-- GH60型，Poker型のケースへの取り付け
-
-  - ケースへの基板の固定は、中央、中央下のネジを使用しません。
-
-    左右2本ずつ、合計4本のネジだけで取り付けます。
-
-  - ケース内部の構造によっては、取り付けに加工が必要になることがあります。
-    また、場合によっては取り付けできないことがるかもしれません。
-
-    以下のケースへ取り付けできることを確認済みです。
-
-    - KBDfans TOFU 60% ALUMINUM CASE
-    - KBDfans 5° FIVE DEGREE 60% ALUMINUM CASE
-    - 60% プラスチックケース（簡単な加工が必要になる場合があります）
+  一部のスイッチを上下反対向きに取り付けます。
 
 ## 部品リスト
 
@@ -85,14 +70,14 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 基板Top | 1 | Mid用スイッチプレートを兼ねる |
 | Base用スイッチプレート | 1 | 捨て基板（捨て板）付き |
 | Top用スイッチプレート | 1 ||
+| ボトムプレート | 1 ||
 | ダイオード<br>表面実装（SMD）タイプ, 1N4148W<br>[高速スイッチング・ダイオード　１Ｎ４１４８Ｗ](https://akizukidenshi.com/catalog/g/gI-07084/) | 34 | 予備2個含む |
 | SHコネクタ<br>JST SH ベース サイド型 4pin 面実装<br>[HR(Joint Tech Elec) A1001WR-S-04P](https://www.lcsc.com/product-detail/_HR-Joint-Tech-Elec-_C371510.html) | 12 | 取り付けサービス利用時は、各基板に取り付け済み |
 | Qwiicケーブル<br>JST SH 4pin<br>[PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) | 6 | ケーブルの取り回しを考え、長さ5-10cm程度を推奨。<br>国内での販売例：<br>- [Qwiicケーブル（Qwiic -Qwiic）50 mm](https://www.switch-science.com/products/6896?_pos=1&_sid=bc641ada5&_ss=r)<br>- [SparkFun　PRT-17260 Qwiicケーブル (50mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5ZMM) |
-| スペーサー<br>両メネジ M2 3mm<br>[ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) | 8 | 丸型、六角いずれも使用可能 |
+| スペーサー<br>両メネジ M2 3mm<br>[ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) | 16 | 丸型、六角いずれも使用可能 |
 | 六角ナット<br>M2 2種 高さ1.6mm<br>[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) | 22 | |
 | ワッシャー<br>内径2.3mm 外径4.3mm 厚さ0.4mm<br>[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) | 19 | |
-| ネジ<br>M2 3mm<br>[ウィルコ F-0230N-03](https://wilco.jp/products/F/F-N-02.html#page3) | 16 | |
-| ネジ<br>M2 4mm<br>[(+)スリムヘッド小ねじ(鉄/ニッケル)(小箱) ](https://www.monotaro.com/p/4230/6074/) | 4 | |
+| ネジ<br>M2 3mm<br>[ウィルコ F-0230N-03](https://wilco.jp/products/F/F-N-02.html#page3) | 32 | |
 | ネジ<br>M2 7mm<br>[ウィルコ F-0270N-03](https://wilco.jp/products/F/F-N-02.html#page3) | 11 | |
 | LED<br>SK6812MINI<br>[マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ](https://akizukidenshi.com/catalog/g/gI-15477/) | 4 | |
 | スイッチ用ソケット（MX）<br>[MXスイッチ用 Kailh PCBソケット](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9) | 72 | 予備1個含む |
@@ -118,6 +103,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | :-- | :-- | :-- |
 | ロータリーエンコーダ<br>ALPS EC11, EC12または同等品 | 最大 2 | プッシュスイッチ付きにも対応 |
 | ロータリーエンコーダ用ノブ（つまみ） | 必要数 | |
+| GH60互換ケース | 1　| ケースへの基板の固定には中央と中央下のネジを使用せず、左右2本ずつ合計4本のネジだけで取り付けます。<br>ケース内部の構造によっては取り付けに加工が必要になったり、取り付けできないことがるかもしれません。<br>以下のケースへ取り付けできることを確認済みです。<br>- KBDfans TOFU 60% ALUMINUM CASE<br>- KBDfans 5° FIVE DEGREE 60% ALUMINUM CASE<br>- 60% プラスチックケース（簡単な加工が必要になる場合があります） |
 
 ## 組み立てに使用する工具
 
