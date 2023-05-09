@@ -503,6 +503,10 @@
       {
         "netclass": "Power",
         "pattern": "Net-*DOUT)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-*DIN)"
       }
     ]
   },
