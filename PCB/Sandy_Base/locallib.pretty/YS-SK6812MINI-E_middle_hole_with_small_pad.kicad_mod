@@ -54,7 +54,7 @@
   (pad "3" smd rect (at -2.7 0.75) (size 1.43125 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1430bb35-f304-4eec-9360-14811c14f7c1))
   (pad "4" smd rect (at -2.7 -0.75) (size 1.43125 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a272563-0887-492e-af19-21eb17ce1caf))
   (model "${KIPRJMOD}/lib_LED/LED_SK6812MINI-E.step"
-    (offset (xyz 0 5 -1.8))
+    (offset (xyz 0 5.08 -1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 180))
   )
