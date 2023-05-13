@@ -507,6 +507,14 @@
       {
         "netclass": "Power",
         "pattern": "Net-*DIN)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J10-Pin_2)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(JP1-A)"
       }
     ]
   },
