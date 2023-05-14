@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/kenn/Git/jpskenn/Sandy/PCB/Sandy_Base/Sandy_Base.kicad_sch</source>
-    <date>2023 April 15, Saturday 21:12:22</date>
+    <date>2023 May 14, Sunday 12:17:24</date>
     <tool>Eeschema 7.0.1-0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C15850</field>
       </fields>
@@ -41,7 +41,7 @@
     </comp>
     <comp ref="C2">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C1804</field>
       </fields>
@@ -56,7 +56,7 @@
     </comp>
     <comp ref="C3">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C1804</field>
       </fields>
@@ -71,7 +71,7 @@
     </comp>
     <comp ref="C4">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -86,7 +86,7 @@
     </comp>
     <comp ref="C5">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -101,7 +101,7 @@
     </comp>
     <comp ref="C6">
       <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C28323</field>
       </fields>
@@ -116,7 +116,7 @@
     </comp>
     <comp ref="C7">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C49678</field>
       </fields>
@@ -129,120 +129,39 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b33581f</tstamps>
     </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63f7f8a8-db6e-46ec-ab60-9e74e38da6d1</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2549d55-38d0-4230-b8d3-53199a64a1e5</tstamps>
+    </comp>
     <comp ref="D1">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5dd0c063-d4fb-4a39-b944-8c7bafd989eb</tstamps>
-    </comp>
-    <comp ref="D10">
-      <value>PRTR5V0U2X</value>
-      <footprint>Package_TO_SOT_SMD:SOT-143_Handsoldering</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C78442</field>
-      </fields>
-      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
-      <property name="LCSC" value="C78442"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
-      <property name="ki_keywords" value="ESD protection diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f744321</tstamps>
-    </comp>
-    <comp ref="D11">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000618640f8</tstamps>
-    </comp>
-    <comp ref="D22">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-000062b9c232</tstamps>
-    </comp>
-    <comp ref="D24">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f65b3bd</tstamps>
-    </comp>
-    <comp ref="D27">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f65b35d</tstamps>
-    </comp>
-    <comp ref="D28">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -259,9 +178,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f65b351</tstamps>
     </comp>
-    <comp ref="D32">
+    <comp ref="D2">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -276,11 +195,11 @@
       <property name="ki_description" value="Diode"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6658d5</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f65b35d</tstamps>
     </comp>
-    <comp ref="D34">
+    <comp ref="D3">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -295,372 +214,11 @@
       <property name="ki_description" value="Diode"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6658c9</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f65b3bd</tstamps>
     </comp>
-    <comp ref="D35">
+    <comp ref="D4">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6658bd</tstamps>
-    </comp>
-    <comp ref="D37">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f665869</tstamps>
-    </comp>
-    <comp ref="D38">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66585d</tstamps>
-    </comp>
-    <comp ref="D39">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f665845</tstamps>
-    </comp>
-    <comp ref="D40">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-000062e9da5b</tstamps>
-    </comp>
-    <comp ref="D41">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66ba3d</tstamps>
-    </comp>
-    <comp ref="D43">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66ba19</tstamps>
-    </comp>
-    <comp ref="D44">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-000064060264</tstamps>
-    </comp>
-    <comp ref="D45">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66ba0d</tstamps>
-    </comp>
-    <comp ref="D46">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66b9d1</tstamps>
-    </comp>
-    <comp ref="D47">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66b9b9</tstamps>
-    </comp>
-    <comp ref="D48">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66b9ad</tstamps>
-    </comp>
-    <comp ref="D49">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66b9a1</tstamps>
-    </comp>
-    <comp ref="D51">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6c56f6</tstamps>
-    </comp>
-    <comp ref="D52">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f678121</tstamps>
-    </comp>
-    <comp ref="D53">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6780e5</tstamps>
-    </comp>
-    <comp ref="D56">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f6780d9</tstamps>
-    </comp>
-    <comp ref="D57">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f67809d</tstamps>
-    </comp>
-    <comp ref="D59">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f678085</tstamps>
-    </comp>
-    <comp ref="D74">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -677,9 +235,28 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f65b38d</tstamps>
     </comp>
-    <comp ref="D79">
+    <comp ref="D5">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f665845</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -696,9 +273,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f665851</tstamps>
     </comp>
-    <comp ref="D84">
+    <comp ref="D7">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -713,11 +290,30 @@
       <property name="ki_description" value="Diode"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f665899</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f66585d</tstamps>
     </comp>
-    <comp ref="D87">
+    <comp ref="D8">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f665869</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -734,9 +330,123 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f665875</tstamps>
     </comp>
-    <comp ref="D89">
+    <comp ref="D10">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6658bd</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6658c9</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f665899</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064060264</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6658d5</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66b9a1</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -753,9 +463,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000617d508f</tstamps>
     </comp>
-    <comp ref="D91">
+    <comp ref="D17">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -770,11 +480,11 @@
       <property name="ki_description" value="Diode"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f3cb947</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f66b9ad</tstamps>
     </comp>
-    <comp ref="D92">
+    <comp ref="D18">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -789,68 +499,11 @@
       <property name="ki_description" value="Diode"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f10665e</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f66b9b9</tstamps>
     </comp>
-    <comp ref="D93">
+    <comp ref="D19">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66b9f5</tstamps>
-    </comp>
-    <comp ref="D94">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f66ba25</tstamps>
-    </comp>
-    <comp ref="D96">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
-      <fields>
-        <field name="LCSC">C81598</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
-      </fields>
-      <libsource lib="Device" part="D" description="Diode"/>
-      <property name="LCSC" value="C81598"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f1d06d0</tstamps>
-    </comp>
-    <comp ref="D97">
-      <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -867,9 +520,180 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f66b9c5</tstamps>
     </comp>
-    <comp ref="D98">
+    <comp ref="D20">
       <value>D</value>
-      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line</footprint>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66b9d1</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66ba0d</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66ba19</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66ba25</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66b9f5</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f66ba3d</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f3cb947</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f678085</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000618640f8</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
       <fields>
         <field name="LCSC">C81598</field>
         <field name="Sim.Device">D</field>
@@ -885,6 +709,212 @@
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f29dc79</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f67809d</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6780d9</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062b9c232</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dd0c063-d4fb-4a39-b944-8c7bafd989eb</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062e9da5b</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f1d06d0</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6780e5</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f10665e</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f678121</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f6c56f6</tstamps>
+    </comp>
+    <comp ref="D99">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143_Handsoldering</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C78442</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="LCSC" value="C78442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <property name="ki_description" value="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="ki_keywords" value="ESD protection diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f744321</tstamps>
     </comp>
     <comp ref="EXT_C0">
       <value>Conn_01x01</value>
@@ -1403,53 +1433,178 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000609b8fd1</tstamps>
     </comp>
-    <comp ref="LED1">
-      <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+    <comp ref="JP1">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="RGB LED with integrated controller"/>
-      <property name="ki_keywords" value="RGB LED NeoPixel Mini addressable"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f7267dd</tstamps>
+      <tstamps>845d416d-5980-4c20-8659-fc49f5ce3eb7</tstamps>
     </comp>
-    <comp ref="LED2">
-      <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+    <comp ref="L1">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="RGB LED with integrated controller"/>
-      <property name="ki_keywords" value="RGB LED NeoPixel Mini addressable"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f7283a7</tstamps>
+      <tstamps>e6b64ca2-ac8c-4087-a68f-86564fa540d8</tstamps>
     </comp>
-    <comp ref="LED3">
-      <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+    <comp ref="L2">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="RGB LED with integrated controller"/>
-      <property name="ki_keywords" value="RGB LED NeoPixel Mini addressable"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-000063aabb78</tstamps>
+      <tstamps>4e0e736f-2efb-4e1a-955b-8f2c719f3e67</tstamps>
     </comp>
-    <comp ref="LED4">
-      <value>SK6812MINI</value>
-      <footprint>locallib:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_minimal</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
-      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+    <comp ref="L3">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
-      <property name="ki_description" value="RGB LED with integrated controller"/>
-      <property name="ki_keywords" value="RGB LED NeoPixel Mini addressable"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-000063aabb7e</tstamps>
+      <tstamps>4a285738-35d7-4432-a207-d18699f3494e</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d3c5d51-30b2-4ca0-8098-150adb245439</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6988562-6ca4-4da2-9d1c-a4ee91245bdf</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9357a9c-7065-4eb5-9fa5-3722fb4d6540</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bfbbaf7-321d-48a7-9305-f2f918e52d7e</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a54adc2-1324-4e7e-a317-e4f552198bb2</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbf11fe8-6306-4698-b9b4-9e6a7db673b4</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d93a51b6-6ccf-44d2-8aec-46a94c73159d</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>218ab585-9559-49dd-872a-5b0f8b4bf09e</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>382d793f-66eb-4c8d-a1bc-56cd0d002bdf</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49999ae5-f04b-4795-ad0c-662ff5ce230c</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09ecc291-ace8-4fdc-819b-c5893f3188c1</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2b21183-3f75-4142-bd06-c06066b6e3dd</tstamps>
+    </comp>
+    <comp ref="L16">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5763086-816a-4d1c-ba2e-c6c5cd4c71ea</tstamps>
+    </comp>
+    <comp ref="L17">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b1f6d05-6cee-4031-9aea-3becfd7e892e</tstamps>
+    </comp>
+    <comp ref="L18">
+      <value>SK6812MINI-E</value>
+      <footprint>locallib:YS-SK6812MINI-E_middle_hole_with_small_pad</footprint>
+      <libsource lib="kbd" part="SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sandy_Base.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b8ac290-809e-4664-90f2-fc56357d4320</tstamps>
     </comp>
     <comp ref="LOGO1">
       <value>Logo_Base</value>
@@ -1470,7 +1625,7 @@
     </comp>
     <comp ref="R1">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C27834</field>
       </fields>
@@ -1485,7 +1640,7 @@
     </comp>
     <comp ref="R2">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C27834</field>
       </fields>
@@ -1500,7 +1655,7 @@
     </comp>
     <comp ref="R3">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17561</field>
       </fields>
@@ -1515,7 +1670,7 @@
     </comp>
     <comp ref="R4">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17561</field>
       </fields>
@@ -1530,7 +1685,7 @@
     </comp>
     <comp ref="R5">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17414</field>
       </fields>
@@ -1545,7 +1700,7 @@
     </comp>
     <comp ref="R6">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17414</field>
       </fields>
@@ -1560,7 +1715,7 @@
     </comp>
     <comp ref="R8">
       <value>4.7k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17673</field>
       </fields>
@@ -1575,7 +1730,7 @@
     </comp>
     <comp ref="R9">
       <value>4.7k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="LCSC">C17673</field>
       </fields>
@@ -2379,23 +2534,21 @@
         <field name="Sim.Enable">0</field>
       </fields>
     </libpart>
-    <libpart lib="LED" part="SK6812MINI">
-      <description>RGB LED with integrated controller</description>
-      <docs>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</docs>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
       <footprints>
-        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+        <fp>SolderJumper*Open*</fp>
       </footprints>
       <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SK6812MINI</field>
-        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
-        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</field>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="DOUT" type="output"/>
-        <pin num="2" name="VSS" type="power_in"/>
-        <pin num="3" name="DIN" type="input"/>
-        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Mechanical" part="MountingHole">
@@ -2549,6 +2702,18 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="kbd" part="SK6812MINI-E">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
@@ -2563,8 +2728,8 @@
     <library logical="Graphic">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Graphic.kicad_sym</uri>
     </library>
-    <library logical="LED">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//LED.kicad_sym</uri>
+    <library logical="Jumper">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
@@ -2581,6 +2746,9 @@
     <library logical="Switch">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
     </library>
+    <library logical="kbd">
+      <uri>/Users/kenn/Git/jpskenn/Sandy/PCB/Sandy_Base/lib_LED/kbd.lib</uri>
+    </library>
   </libraries>
   <nets>
     <net code="1" name="+5V">
@@ -2588,13 +2756,29 @@
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
       <node ref="F1" pin="1" pintype="passive"/>
       <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="LED1" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="LED2" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="LED3" pin="4" pinfunction="VDD" pintype="power_in"/>
-      <node ref="LED4" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L9" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
@@ -2622,7 +2806,9 @@
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="D10" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D99" pin="1" pinfunction="GND" pintype="passive"/>
       <node ref="H10" pin="1" pinfunction="1" pintype="input"/>
       <node ref="H11" pin="1" pinfunction="1" pintype="input"/>
       <node ref="H12" pin="1" pinfunction="1" pintype="input"/>
@@ -2641,10 +2827,24 @@
       <node ref="J7" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J7" pin="S1" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="LED1" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="LED2" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="LED3" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="LED4" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L10" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L11" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L12" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L13" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L14" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L15" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L16" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L17" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L18" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L8" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="L9" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
@@ -2667,7 +2867,7 @@
       <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="5" name="LED">
-      <node ref="LED1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
     </net>
     <net code="6" name="MISO">
@@ -2691,155 +2891,155 @@
       <node ref="SW_V1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
     </net>
-    <net code="21" name="Net-(D10-I{slash}O1)">
-      <node ref="D10" pin="2" pinfunction="I/O1" pintype="passive"/>
+    <net code="21" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_W1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_E1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_I1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_O1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_CTL1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_CTL1.5u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_A1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_S1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_D1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_F1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_K1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_;1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_ENT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_ENT1.5u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LSFT1u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LSFT1u2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_Z1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_C1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_V1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_N1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_M1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_&lt;1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_&gt;1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_UP1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_Fn1u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_L2-1u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LWIN1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LALT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_LSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_RSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D36-A)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_RALT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D37-A)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_ROPT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D38-A)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_DOWN1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D99-I{slash}O1)">
+      <node ref="D99" pin="2" pinfunction="I/O1" pintype="passive"/>
       <node ref="J7" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J7" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R3" pin="2" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(D10-I{slash}O2)">
-      <node ref="D10" pin="3" pinfunction="I/O2" pintype="passive"/>
+    <net code="56" name="Net-(D99-I{slash}O2)">
+      <node ref="D99" pin="3" pinfunction="I/O2" pintype="passive"/>
       <node ref="J7" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J7" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R4" pin="2" pintype="passive"/>
-    </net>
-    <net code="23" name="Net-(D11-A)">
-      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_L2-1u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="24" name="Net-(D24-A)">
-      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_I1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="25" name="Net-(D27-A)">
-      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_E1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="26" name="Net-(D28-A)">
-      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_W1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="27" name="Net-(D32-A)">
-      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_ENT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_ENT1.5u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="28" name="Net-(D34-A)">
-      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_K1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="29" name="Net-(D35-A)">
-      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_J1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="30" name="Net-(D37-A)">
-      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_D1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="31" name="Net-(D38-A)">
-      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_S1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="32" name="Net-(D39-A)">
-      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_CTL1.25u1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW_CTL1.5u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="33" name="Net-(D41-A)">
-      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_UP1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="34" name="Net-(D43-A)">
-      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_M1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="35" name="Net-(D44-A)">
-      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_;1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="36" name="Net-(D45-A)">
-      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_N1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="37" name="Net-(D46-A)">
-      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_V1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="38" name="Net-(D47-A)">
-      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_X1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="39" name="Net-(D48-A)">
-      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_Z1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="40" name="Net-(D49-A)">
-      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_LSFT1u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="41" name="Net-(D52-A)">
-      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_DOWN1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="42" name="Net-(D53-A)">
-      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RALT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="43" name="Net-(D56-A)">
-      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_LSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="44" name="Net-(D57-A)">
-      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_LALT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="45" name="Net-(D74-A)">
-      <node ref="D74" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_O1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="46" name="Net-(D79-A)">
-      <node ref="D79" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_A1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="47" name="Net-(D84-A)">
-      <node ref="D84" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_L1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="48" name="Net-(D87-A)">
-      <node ref="D87" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_F1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="49" name="Net-(D89-A)">
-      <node ref="D89" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_LSFT1u2" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="50" name="Net-(D91-A)">
-      <node ref="D91" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_Fn1u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="51" name="Net-(D92-A)">
-      <node ref="D92" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_ROPT1.25u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="52" name="Net-(D93-A)">
-      <node ref="D93" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_&gt;1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="53" name="Net-(D94-A)">
-      <node ref="D94" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_&lt;1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="54" name="Net-(D96-A)">
-      <node ref="D96" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_RSPC1.5u1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="55" name="Net-(D97-A)">
-      <node ref="D97" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_C1" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="56" name="Net-(D98-A)">
-      <node ref="D98" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="SW_LWIN1.25u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="57" name="Net-(J7-CC1)">
       <node ref="J7" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
@@ -2851,45 +3051,103 @@
     </net>
     <net code="59" name="Net-(J10-Pin_2)">
       <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="LED4" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L3" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="60" name="Net-(LED1-DOUT)">
-      <node ref="LED1" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="LED2" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="60" name="Net-(JP1-A)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="61" name="Net-(LED2-DOUT)">
-      <node ref="LED2" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="LED3" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="61" name="Net-(L1-DOUT)">
+      <node ref="L1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L2" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="62" name="Net-(LED3-DOUT)">
-      <node ref="LED3" pin="1" pinfunction="DOUT" pintype="output"/>
-      <node ref="LED4" pin="3" pinfunction="DIN" pintype="input"/>
+    <net code="62" name="Net-(L3-DOUT)">
+      <node ref="L3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L4" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="63" name="Net-(U1-UCAP)">
+    <net code="63" name="Net-(L4-DOUT)">
+      <node ref="L4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(L5-DOUT)">
+      <node ref="L5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(L6-DOUT)">
+      <node ref="L6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(L7-DOUT)">
+      <node ref="L7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(L8-DOUT)">
+      <node ref="L8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(L10-DIN)">
+      <node ref="L10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="L9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(L10-DOUT)">
+      <node ref="L10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="70" name="Net-(L11-DOUT)">
+      <node ref="L11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(L12-DOUT)">
+      <node ref="L12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(L13-DOUT)">
+      <node ref="L13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="73" name="Net-(L14-DOUT)">
+      <node ref="L14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(L15-DOUT)">
+      <node ref="L15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(L16-DOUT)">
+      <node ref="L16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L17" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(L17-DOUT)">
+      <node ref="L17" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="L18" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U1-UCAP)">
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
     </net>
-    <net code="64" name="Net-(U1-XTAL1)">
+    <net code="78" name="Net-(U1-XTAL1)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
       <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="65" name="Net-(U1-XTAL2)">
+    <net code="79" name="Net-(U1-XTAL2)">
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
       <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="66" name="Net-(U1-~{HWB}{slash}PE2)">
+    <net code="80" name="Net-(U1-~{HWB}{slash}PE2)">
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
     </net>
-    <net code="67" name="RESET">
+    <net code="81" name="RESET">
       <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="ResetSW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="68" name="RE_L1_1">
+    <net code="82" name="RE_L1_1">
       <node ref="EXT_C0" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
@@ -2903,31 +3161,31 @@
       <node ref="SW_LSFT1u2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
     </net>
-    <net code="69" name="RE_L1_2">
-      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+    <net code="83" name="RE_L1_2">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="RE_L1" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CAPS1u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="70" name="RE_L2_2">
-      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+    <net code="84" name="RE_L2_2">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW_CenterL1u2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="71" name="RE_L3_2">
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+    <net code="85" name="RE_L3_2">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="RE_L2" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_CenterC1u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="72" name="RE_L_A">
+    <net code="86" name="RE_L_A">
       <node ref="RE_L1" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="RE_L2" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
-    <net code="73" name="RE_L_B">
+    <net code="87" name="RE_L_B">
       <node ref="RE_L1" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="RE_L2" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
-    <net code="74" name="RE_R1_1">
+    <net code="88" name="RE_R1_1">
       <node ref="EXT_C7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
@@ -2936,12 +3194,12 @@
       <node ref="SW_RIGHT1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
     </net>
-    <net code="75" name="RE_R1_2">
-      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+    <net code="89" name="RE_R1_2">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="RE_R1" pin="S2" pinfunction="S2" pintype="passive"/>
       <node ref="SW_RIGHT1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="76" name="RE_R2_1">
+    <net code="90" name="RE_R2_1">
       <node ref="EXT_C4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -2951,19 +3209,19 @@
       <node ref="SW_RSPC1.5u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
-    <net code="77" name="RE_R2_2">
-      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+    <net code="91" name="RE_R2_2">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW_CenterR1u2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="78" name="RE_R_A">
+    <net code="92" name="RE_R_A">
       <node ref="RE_R1" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
-    <net code="79" name="RE_R_B">
+    <net code="93" name="RE_R_B">
       <node ref="RE_R1" pin="B" pinfunction="B" pintype="passive"/>
       <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
-    <net code="80" name="SCK">
+    <net code="94" name="SCK">
       <node ref="EXT_C1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -2977,27 +3235,27 @@
       <node ref="SW_Z1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
     </net>
-    <net code="81" name="SCL">
+    <net code="95" name="SCL">
       <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
       <node ref="U2" pin="6" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="82" name="SDA">
+    <net code="96" name="SDA">
       <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
       <node ref="U2" pin="5" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="96" name="VCC">
-      <node ref="D10" pin="4" pinfunction="VCC" pintype="passive"/>
+    <net code="110" name="VCC">
+      <node ref="D99" pin="4" pinfunction="VCC" pintype="passive"/>
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="J7" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J7" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J7" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J7" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="97" name="col5">
+    <net code="111" name="col5">
       <node ref="EXT_C5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="SW_&lt;1" pin="1" pinfunction="1" pintype="passive"/>
@@ -3009,7 +3267,7 @@
       <node ref="SW_RALT1.25u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
     </net>
-    <net code="98" name="col6">
+    <net code="112" name="col6">
       <node ref="EXT_C6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -3022,102 +3280,105 @@
       <node ref="SW_UP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
     </net>
-    <net code="99" name="row0">
+    <net code="113" name="row0">
       <node ref="EXT_R0" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
     </net>
-    <net code="100" name="row1">
-      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="114" name="row1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
     </net>
-    <net code="101" name="row2">
-      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D87" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="115" name="row2">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
-    <net code="102" name="row3">
-      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D91" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D93" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D97" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="116" name="row3">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
     </net>
-    <net code="103" name="row4">
-      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D92" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D98" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="117" name="row4">
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
     </net>
-    <net code="104" name="row5">
+    <net code="118" name="row5">
       <node ref="EXT_R5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
     </net>
-    <net code="105" name="row6">
-      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="119" name="row6">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
     </net>
-    <net code="106" name="row7">
-      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D79" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D84" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="120" name="row7">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
     </net>
-    <net code="107" name="row8">
-      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D89" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D94" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="121" name="row8">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
     </net>
-    <net code="108" name="row9">
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D96" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="122" name="row9">
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="EXT_R9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
-    <net code="109" name="unconnected-(J7-SBU1-PadA8)">
+    <net code="123" name="unconnected-(J7-SBU1-PadA8)">
       <node ref="J7" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="110" name="unconnected-(J7-SBU2-PadB8)">
+    <net code="124" name="unconnected-(J7-SBU2-PadB8)">
       <node ref="J7" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="111" name="unconnected-(U1-AREF-Pad42)">
+    <net code="125" name="unconnected-(L18-DOUT-Pad2)">
+      <node ref="L18" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U1-AREF-Pad42)">
       <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
     </net>
   </nets>

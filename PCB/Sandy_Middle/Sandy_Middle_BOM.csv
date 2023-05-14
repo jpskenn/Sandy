@@ -1,7 +1,0 @@
-Comment,Designator,Footprint,LCSC
-"D","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13","locallib:D_SOD-123_Emphasized_Direction_Line","C81598"
-"Conn_01x01","EXT_MC0,EXT_MR1,EXT_MC2,EXT_MR2,EXT_MC3,EXT_MR3,EXT_MC4,EXT_MC6,EXT_MR6,EXT_MC7,EXT_MR7,EXT_MR8","TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm",""
-"MountingHole","H1,H2,H3,H4,H5,H6,H7,H8,H9,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19","locallib:MountingHole_2.2mm_M2_Pad_minimal",""
-"Conn_02x02_Top_Bottom","J1,J2,J3","locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin","C160404"
-"SW_Push","SW_'1,SW_;1,SW_G1,SW_H1,SW_P1,SW_Q1,SW_R1,SW_U1,SW_R4CenterC1,SW_R4CenterL1,SW_R4CenterR1","MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide",""
-"SW_Push","SW_BS1.5u1,SW_TAB1.5u1","MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide",""
