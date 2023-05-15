@@ -1,11 +1,11 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1-0*
-G04 #@! TF.CreationDate,2023-05-14T12:21:20+09:00*
+G04 #@! TF.CreationDate,2023-05-15T19:07:48+09:00*
 G04 #@! TF.ProjectId,Sandy_Plate_Base,53616e64-795f-4506-9c61-74655f426173,v.0*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1-0) date 2023-05-14 12:21:20*
+G04 Created by KiCad (PCBNEW 7.0.1-0) date 2023-05-15 19:07:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -528,7 +528,7 @@ G75*
 G03*
 X198875470Y-73025280I-5J2000005D01*
 G01*
-X219497345Y-36925280D02*
+X219497345Y-36925320D02*
 G75*
 G03*
 X217497345Y-38925280I0J-2000000D01*
