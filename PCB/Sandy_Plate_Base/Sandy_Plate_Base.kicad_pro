@@ -505,7 +505,7 @@
       "idf": "",
       "netlist": "Jones.net",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/Sandy_Plate_Base.step",
+      "step": "../../../../../tmp/Sandy_Plate_Base_wo_frame.step",
       "vrml": "../../../../../tmp/Sandy_Base.wrl"
     },
     "page_layout_descr_file": ""
