@@ -75,7 +75,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 7 | ボトムプレート | 1 ||
 | 8 | JST SH 4pinケーブル<br>（いわゆるQwiicケーブル） | 6 | [PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) |
 | 9 | スペーサー<br>両メネジ M2 3mm | 16 | [ヒロスギ ARB-2003E](https://hirosugi.co.jp/products/B/ARB-E.html#bx3) |
-| 10 | 六角ナット<br>M2 2種 高さ1.6mm | 22 | [ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
+| 10 | ナット<br>M2 2種 高さ1.6mm | 22 | [ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
 | 11 | ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | [ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
 | 12 | ネジ<br>M2 3mm | 32 | [ウィルコ F-0230N-03](https://wilco.jp/products/F/F-N-02.html#page3) |
 | 13 | ネジ<br>M2 7mm | 11 | [ウィルコ F-0270N-03](https://wilco.jp/products/F/F-N-02.html#page3) |
