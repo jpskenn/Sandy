@@ -46,20 +46,22 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 ## レイアウト
 
 キーのバリエーションを含むレイアウトは以下の通りです。  
+Ctrl（左）とEnter（右）は、1.25uまたは1.5uのバリエーション。  
+最下行の中央には、ロータリーエンコーダを配置できます。
 [![Keyboard Layout Editor: Sandy (DN0030)](/assets/README/layout.png)  
 Keyboard Layout Editor: Sandy (DN0030)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
 
 キーの高さは3段階で、以下のように配置されます。  
-Lowを高さ0とした場合、Midは+3.6mm、Highは+8.6mmの高さになります。  
+Lowを高さ0とした場合、Midは3.6mm、Highは8.6mmの高さになります。  
 つまり、LowとMidの段差は3.6mm、MidとHighの段差は5mmとなります。
 ![キーの高さ](/assets/README/layout_height_map.png)
 
 [SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
-レガシーレイアウトの一般的なロースタガから、左手アルファ部のZ行と右手数字行を外側へ1キーずらしたレイアウトが、推奨されるレイアウトになります。  
+レガシーレイアウトの一般的なロースタガから、左手アルファ部のZ行と右手数字行を外側へ1キーずらしたレイアウトが、推奨されるレイアウトです。  
 
 SemiErgoを適用したレイアウト例は以下のようになります。  
-<small>注：スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
 ![SemiErgoを適用したレイアウト](/assets/README/layout_SemiErgo_based.png)
+<small>注：スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
 
 ## ビルドガイド
 
