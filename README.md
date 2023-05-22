@@ -61,8 +61,12 @@ SemiErgoを適用したレイアウト例は以下のようになります。
 
 ## ビルドガイド
 
-- [Sandy DN0020](/docs/BuildGuide_DN0020.md)
-- [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
+- 最新版
+  - [Sandy（DN0030）](/docs/BuildGuide_DN0030.md)
+
+- 試作版
+  - [Sandy（DN0020）](/docs/BuildGuide_DN0020.md)
+  - [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
 
 ## SNSタグ
 
