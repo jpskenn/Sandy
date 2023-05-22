@@ -51,9 +51,7 @@ Ctrl（左）とEnter（右）は、1.25uまたは1.5uのバリエーション�
 [![Keyboard Layout Editor: Sandy (DN0030)](/assets/README/layout.png)  
 Keyboard Layout Editor: Sandy (DN0030)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
 
-キーの高さは3段階で、以下のように配置されます。  
-Lowを高さ0とした場合、Middleは3.6mm、Highは8.6mmの高さになります。  
-つまり、LowとMiddleの段差は3.6mm、MiddleとHighの段差は5mmとなります。
+キーの高さはLow（0mm）, Middle（3.6mm）, High（8.6mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
 
 [SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
