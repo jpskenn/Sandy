@@ -46,17 +46,19 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 ## レイアウト
 
 キーのバリエーションを含むレイアウトは以下の通りです。  
-[![Keyboard Layout Editor: Sandy (DN0020)](/assets/README/layout.png)  
-Keyboard Layout Editor: Sandy (DN0020)](http://www.keyboard-layout-editor.com/#/gists/19f42cd466b4f3b269f38e3bdd6bf532)
+[![Keyboard Layout Editor: Sandy (DN0030)](/assets/README/layout.png)  
+Keyboard Layout Editor: Sandy (DN0030)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
 
-キーの高さは3段階で、以下のように配置されます。
+キーの高さは3段階で、以下のように配置されます。  
+Lowを高さ0とした場合、Midは+3.6mm、Highは+8.6mmの高さになります。  
+つまり、LowとMidの段差は3.6mm、MidとHighの段差は5mmとなります。
 ![キーの高さ](/assets/README/layout_height_map.png)
 
 [SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
-一般的なロースタガと異なり、左手アルファ部の最下行を、外側へ1キーずらすことをお勧めします。  
+レガシーレイアウトの一般的なロースタガから、左手アルファ部のZ行と右手数字行を外側へ1キーずらしたレイアウトが、推奨されるレイアウトになります。  
 
 SemiErgoを適用したレイアウト例は以下のようになります。  
-<small>スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
+<small>注：スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
 ![SemiErgoを適用したレイアウト](/assets/README/layout_SemiErgo_based.png)
 
 ## ビルドガイド
