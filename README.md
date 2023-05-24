@@ -1,5 +1,6 @@
 # Sandy（サンディ）
 
+〓DN0030 ボトムプレートの写真をメインに
 ![Sandy keyboard](/assets/README/DSC_7928.jpeg)  
 
 Sandy is a Keyboard with key height optimization.
@@ -45,21 +46,27 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## レイアウト
 
+### バリエーション
+
 キーのバリエーションを含むレイアウトは以下の通りです。  
-Ctrl（左）とEnter（右）は、1.25uまたは1.5uのバリエーション。  
-最下行の中央には、ロータリーエンコーダを配置できます。
+Ctrl（左）とEnter（右）にはキーサイズのバリエーションがあり、最下行の中央にはロータリーエンコーダを配置できます。
 [![Keyboard Layout Editor: Sandy (DN0030)](/assets/README/layout.png)  
 Keyboard Layout Editor: Sandy (DN0030)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
+
+### キーの高さ
 
 キーの高さはLow（0mm）, Middle（3.6mm）, High（8.6mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
 
-[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
-レガシーレイアウトの一般的なロースタガから、左手アルファ部のZ行と右手数字行を外側へ1キーずらしたレイアウトが、推奨されるレイアウトです。  
+### 推奨キーマッピング
 
-SemiErgoを適用したレイアウト例は以下のようになります。  
-![SemiErgoを適用したレイアウト](/assets/README/layout_SemiErgo_based.png)
-<small>注：スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
+このレイアウトは、左右の手の運指を同じにするため、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計されています。  
+つまり、一般的なロースタッガードレイアウトから、アルファ部の左手側Z行を左へ1キー、数字行の右手側を右側へ1キーずらしたものが、推奨キーマッピングとなります。
+
+以下にSemiErgoを適用した推奨キーマッピングの例を示します。  
+枠で囲った部分が、一般的なロースタッガードからの変更箇所です。
+![SemiErgoを適用した推奨キーマッピング例](/assets/README/layout_SemiErgo_based_w_marking.png)
+<small>💡ヒント：このキーマッピング例ではスペースキーをSandS（Space & Shift）にしているので、左右端のシフトキーを取り除いています。</small>
 
 ## ビルドガイド
 
