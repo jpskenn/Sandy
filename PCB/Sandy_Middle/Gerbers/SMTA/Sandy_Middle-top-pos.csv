@@ -1,0 +1,16 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"Cutout1","60_Outline","60_Outline-Sandy-Mid7-narrow-bottom-small-right-hole",142.875000,-38.100000,0.000000,top
+"REF**","60_Outline","60_Outline-Sandy-Top-NoSwImage-WithHole2-ECO1",142.875000,-19.050000,0.000000,top
+"SW_'1","SW_Push","MXOnly-1U-Hotswap-guide",152.400000,-47.625000,0.000000,top
+"SW_;1","SW_Push","MXOnly-1U-Hotswap-guide",133.350000,-47.625000,0.000000,top
+"SW_BS1.5u1","SW_Push","MXOnly-1.5U-Hotswap-guide",271.462500,-28.575000,0.000000,top
+"SW_G1","SW_Push","MXOnly-1U-Hotswap-guide",114.300000,-47.650040,0.000000,top
+"SW_H1","SW_Push","MXOnly-1U-Hotswap-guide",171.450000,-47.625000,0.000000,top
+"SW_P1","SW_Push","MXOnly-1U-Hotswap-guide",247.650000,-28.575000,0.000000,top
+"SW_Q1","SW_Push","MXOnly-1U-Hotswap-guide",38.100000,-28.575000,0.000000,top
+"SW_R1","SW_Push","MXOnly-1U-Hotswap-guide",95.250000,-28.575000,0.000000,top
+"SW_R4CenterC1","SW_Push","MXOnly-1U-Hotswap-guide",142.875000,-66.675000,0.000000,top
+"SW_R4CenterL1","SW_Push","MXOnly-1U-Hotswap-guide",123.825000,-66.675000,0.000000,top
+"SW_R4CenterR1","SW_Push","MXOnly-1U-Hotswap-guide",161.925000,-66.675000,0.000000,top
+"SW_TAB1.5u1","SW_Push","MXOnly-1.5U-Hotswap-guide",14.287500,-28.575000,0.000000,top
+"SW_U1","SW_Push","MXOnly-1U-Hotswap-guide",190.500000,-28.575000,0.000000,top
