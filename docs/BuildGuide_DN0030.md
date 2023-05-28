@@ -727,14 +727,13 @@ Sandyはそれ自体にキーの段差が組み込まれているため、キー
 <summary>《《《 詳しい説明 》》》</summary>
 
 - ビルド済みファームウェア： sandy_v01_via.hex  
-〓更新  [Sandy_DN0030_files](https://gist.github.com/jpskenn/f1980616959f451fd799d8fc0f839c91)（Zipファイルをダウンロードして展開）
+[Sandy_DN0030_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン0.18.17から派生した[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
-〓更新（タグ作る）  Sandy DN0030のファームウェアは、[Sandy_DN0030タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0030)を参照してください。
+  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン0.18.17から派生した[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。  
+  Sandy DN0030のファームウェアは、[Sandy_DN0030タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0030)を参照してください。
 
 - 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0030タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0030)にまとめてあります。
-〓タグ作る
 
 </details>
 
