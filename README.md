@@ -109,10 +109,10 @@ Sandyは複数基板を重ねるという手法で製作しているため、そ
   行ごとに高さと傾きを変えることができる自作キーボードキット。  
 
 - [Thumbs Up!](https://www.thumbsup.shop)  
-  カラムスタガをベースに中央側のキーを高くした設計の自作キーボードキット。
+  カラムスタガをベースに親指や中央のキーを高くした設計の自作キーボードキット。
 
 - [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)  
-  ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶ。凹形状にキーが配置されている。
+  ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶのはこれ。凹形状にキーが配置されている。
 
 - [Microsoft Sculpt](https://www.microsoft.com/en/accessories/products/keyboards/sculpt-ergonomic-desktop)  
   ほんのり放射状に並んだキーと、中央部が高くなった形状。
@@ -121,10 +121,10 @@ Sandyは複数基板を重ねるという手法で製作しているため、そ
   3Dプリンタで作る、スイッチを3D配置したキーボード。
 
 - ["3D" キーキャップ](https://qiita.com/zk_phi/items/5680607118516413a0ba)  
-  キーボードはそのままに、キーごとに高さを変えたキーキャップ。MXスイッチ用。
+  キーボードはそのままに、キーごとに高さを変えた3D形状のキーキャップ。MXスイッチ用。
 
 - [Gravity Keycaps](https://note.com/yfuku_/n/n1fbba2e8f44c)  
-  Choc用のキーキャップ。
+  Choc用の3D形状キーキャップ。
 
 ## 開発経緯
 
