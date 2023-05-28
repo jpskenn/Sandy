@@ -105,13 +105,13 @@ Sandyは複数基板を重ねるという手法で製作しているため、そ
 
 ## 参考事例
 
-- [Genesis2.5](https://github.com/sekigon-gonnoc/Genesis2.5-doc)（[販売ページ](https://booth.pm/ja/items/1308005)）
+- [Genesis2.5](https://github.com/sekigon-gonnoc/Genesis2.5-doc)（[販売ページ](https://booth.pm/ja/items/1308005)  
   行ごとに高さと傾きを変えることができる自作キーボードキット。  
 
 - [Thumbs Up!](https://www.thumbsup.shop)  
   カラムスタガをベースに中央側のキーを高くした設計の自作キーボードキット。
 
-- [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)
+- [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)  
   ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶ。凹形状にキーが配置されている。
 
 - [Microsoft Sculpt](https://www.microsoft.com/en/accessories/products/keyboards/sculpt-ergonomic-desktop)  
