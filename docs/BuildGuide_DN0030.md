@@ -141,8 +141,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
     基板の側面を塗ると、完成時の質感が上がります。  
     暗めの色を塗る場合は[プロッキー](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/sign_pen/prockey.html)を、明るめの色を塗る場合は不透明顔料インクの[ポスカ](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/posca/standard.html)を使うなど、お好みで。
 
-    上：基板そのままの色，下：プロッキーの紫で塗った色
-    ![基板側面を塗った様子](/assets/BuildGuide_DN0030/side_paint.jpeg)
+    太字角芯と極細をそれぞれ用意しておくと作業がはかどります。
 
   - M2ナット対応のレンチ，ナットドライバー
 
@@ -261,9 +260,8 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 完成時の質感を高めるため、基板、プレートの側面をマジックで塗ります。
 
-Base用スイッチプレートの奥側や内側など、組み立て後に外から見えない箇所は塗らなくてもバレないでしょう。
-
-〓写真：塗った方が良い箇所を示すもの
+上：基板そのままの色，下：プロッキーの紫で塗った色
+![基板側面を塗った様子](/assets/BuildGuide_DN0030/side_paint.jpeg)
 
 ### 基板Topの準備
 
