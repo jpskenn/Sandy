@@ -404,17 +404,17 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 87371631-aa02-498a-998a-09bdb74784c1))
   )
 
-  (footprint "locallib:Nora_logo_21.8*7.7" (layer "F.Cu")
+  (footprint "locallib:Nora_logo_21.8x7.7" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-000061bc0c0a)
     (at 207.16875 67.5)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
-      (tstamp cf45f134-35c0-4b31-91e7-048e45f34bf8)
+      (tstamp 8359e599-6f87-4ccd-8233-318ad86398ab)
     )
     (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
-      (tstamp 1d6518e1-cfe9-4078-adc2-cf8e6477b5cb)
+      (tstamp 99750038-dce8-41f9-9e7c-428e2be7e6ac)
     )
     (fp_text user "#Nora_kbd" (at 0 12.271875) (layer "F.SilkS")
         (effects (font (size 1.8 1.8) (thickness 0.3)))
@@ -534,7 +534,7 @@
         (xy 3.683 -0.92075)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6e21d8a8-05db-450e-863d-764ba51b5b58))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f49084c7-45f1-4ba6-b2d0-a37d61c7f3b1))
     (fp_poly
       (pts
         (xy 0.835468 -0.920704)
@@ -679,7 +679,7 @@
         (xy 0.574971 -0.92078)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp b2f7301d-582c-4990-a060-4a71ef08c6eb))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4259db50-035a-49ce-bb8f-117db8a108a2))
     (fp_poly
       (pts
         (xy 9.339859 -0.920681)
@@ -859,7 +859,7 @@
         (xy 9.069917 -0.92075)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp fa574bf3-ac2e-449d-91be-bcb1e35bdaba))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9eaa009f-4a1a-47c9-b39a-f2bb32a38577))
     (fp_poly
       (pts
         (xy -7.515688 -3.704048)
@@ -1059,7 +1059,7 @@
         (xy -7.517349 -3.704049)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6e416a78-df14-48ee-9842-e6e24081191e))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4c2d3468-d2ae-4584-8636-7eecd2cc6d54))
   )
 
   (footprint "locallib:Jones_logo_11.4x19.3" (layer "F.Cu")
