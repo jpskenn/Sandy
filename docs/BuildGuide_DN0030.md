@@ -139,7 +139,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
   - マジックペン
 
     基板の側面を塗ると、完成時の質感が上がります。  
-    暗めの色を塗る場合は[プロッキー](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/sign_pen/prockey/pm_150tr.html)を、明るめの色を塗る場合は不透明顔料インクの[ポスカ](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/posca/standard.html)を使うなど、お好みで。
+    暗めの色を塗る場合は[プロッキー](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/sign_pen/prockey.html)を、明るめの色を塗る場合は不透明顔料インクの[ポスカ](https://www.mpuni.co.jp/products/felt_tip_pens/water_based/posca/standard.html)を使うなど、お好みで。
 
     上：基板そのままの色，下：プロッキーの紫で塗った色
     ![基板側面を塗った様子](/assets/BuildGuide_DN0030/side_paint.jpeg)
