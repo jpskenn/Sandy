@@ -236,9 +236,9 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
   - Enter（右）：1.25u または 1.5u
 
-- ロータリーエンコーダの有無
+- ロータリーエンコーダ
 
-  - 中央（RE_L2）
+  - 中央（RE_L2）：有 または 無
 
 参考：[Sandyのレイアウト![Sandyのレイアウト](/assets/BuildGuide_DN0030/layout.png)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
 
