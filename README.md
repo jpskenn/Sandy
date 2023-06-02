@@ -3,7 +3,7 @@
 〓DN0030 ボトムプレートの写真をメインに
 ![Sandy keyboard](/assets/README/DSC_7928.jpeg)  
 
-Sandy is a Keyboard with key height optimization.
+Sandy is a keyboard with key height optimization.
 
 Layered PCB will make height differences for each key.
 This covers the lack of optimization to physical key layout that only adjust x-y direction in a plane.
