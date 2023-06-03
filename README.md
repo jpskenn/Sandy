@@ -1,7 +1,6 @@
 # Sandy（サンディ）
 
-〓DN0030 ボトムプレートの写真をメインに
-![Sandy keyboard](/assets/README/DSC_7928.jpeg)  
+![Sandy keyboard](/assets/README/DSC_7947.jpeg)  
 
 Sandy is a keyboard with key height optimization.
 
@@ -26,11 +25,13 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
 ## 特徴
 
-- 左右対称なキーレイアウト  
+- 左右対称のキーレイアウト  
   [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称な、シンメトリカル ロースタッガードのレイアウトです。
+  ![左右対称のキーレイアウト](/assets/README/DSC_8104.jpeg)
 
 - キースイッチを立体的に配置  
   3段階の高さで、キースイッチを立体的に配置しています。
+  ![キースイッチの高さ](/assets/README/DSC_7974.jpeg)
 
   平面上のキー配置だけでは最適化しきれない部分を、キーの位置に応じて高さを変え、立体的に配置することで補っています。  
   Jonesに比べて、ホームポジションから遠いキーへの打鍵しやすさが向上しています。
