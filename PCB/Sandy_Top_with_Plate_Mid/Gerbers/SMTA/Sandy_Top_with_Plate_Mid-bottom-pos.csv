@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,D,D_SOD-123_Emphasized_Direction_Line,9.525,-13.096875,0,bottom
+D2,D,D_SOD-123_Emphasized_Direction_Line,28.575,-13.096875,0,bottom
+D3,D,D_SOD-123_Emphasized_Direction_Line,47.625,-13.096875,0,bottom
+D4,D,D_SOD-123_Emphasized_Direction_Line,66.675,-13.096875,0,bottom
+D5,D,D_SOD-123_Emphasized_Direction_Line,85.725,-13.096875,0,bottom
+D6,D,D_SOD-123_Emphasized_Direction_Line,104.775,-13.096875,0,bottom
+D7,D,D_SOD-123_Emphasized_Direction_Line,161.925,-13.096875,0,bottom
+D8,D,D_SOD-123_Emphasized_Direction_Line,123.825,-13.096875,0,bottom
+D9,D,D_SOD-123_Emphasized_Direction_Line,142.875,-13.096875,0,bottom
+D10,D,D_SOD-123_Emphasized_Direction_Line,180.975,-13.096875,0,bottom
+D11,D,D_SOD-123_Emphasized_Direction_Line,200.025,-13.096875,0,bottom
+D12,D,D_SOD-123_Emphasized_Direction_Line,219.075,-13.096875,0,bottom
+D13,D,D_SOD-123_Emphasized_Direction_Line,238.125,-13.096875,0,bottom
+D14,D,D_SOD-123_Emphasized_Direction_Line,257.175,-13.096875,0,bottom
+D15,D,D_SOD-123_Emphasized_Direction_Line,276.225,-13.096875,0,bottom
+D16,D,D_SOD-123_Emphasized_Direction_Line,114.3,-32.146875,0,bottom
+D17,D,D_SOD-123_Emphasized_Direction_Line,133.35,-32.146875,0,bottom
+D18,D,D_SOD-123_Emphasized_Direction_Line,152.4,-32.146875,0,bottom
+D19,D,D_SOD-123_Emphasized_Direction_Line,171.45,-32.146875,0,bottom
+J1,Conn_02x02_Top_Bottom,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin,152.4,-12.096875,180,bottom
+J2,Conn_02x02_Top_Bottom,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin,133.35,-12.096875,180,bottom
+J3,Conn_02x02_Top_Bottom,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin,116.68125,-15.525,-90,bottom

@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+"D","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19","locallib:D_SOD-123_Emphasized_Direction_Line","C81598"
+"Conn_01x01","EXT_TC0,EXT_TR0,EXT_TC1,EXT_TR1,EXT_TC2,EXT_TC3,EXT_TC4,EXT_TC5,EXT_TR5,EXT_TC6,EXT_TR6,EXT_TC7","TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm",""
+"MountingHole","H1,H2,H3,H4,H5,H6,H7,H8","locallib:MountingHole_2.2mm_M2_Pad_minimal",""
+"Conn_02x02_Top_Bottom","J1,J2,J3","locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin","C371510"
+"SW_Push","SW_-1,SW_1,SW_=1,SW_ESC1,SW_T1,SW_Y1,SW_[1,SW_\1,SW_]1,SW_`1,SW_2,SW_3,SW_4,SW_7,SW_9,SW_10","MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide",""
+"SW_Push","SW_5","MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side2-guide",""
+"SW_Push","SW_6","MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side1-guide",""
+"SW_Push","SW_8","MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side3-guide",""

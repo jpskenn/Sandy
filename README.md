@@ -1,8 +1,8 @@
-# Sandy（サンディー）
+# Sandy（サンディ）
 
-![Sandy keyboard](/assets/README/DSC_7928.jpeg)  
+![Sandy keyboard](/assets/README/DSC_7947.jpeg)  
 
-Sandy is a Keyboard with key height optimization.
+Sandy is a keyboard with key height optimization.
 
 Layered PCB will make height differences for each key.
 This covers the lack of optimization to physical key layout that only adjust x-y direction in a plane.
@@ -16,23 +16,29 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 名前の由来は、立体的、つまり3Dという意味を込めて…
 
 ``` text
-3D → スリーディー → さんディー → サンディー → Sandy
+3D → スリーディー → さんディー → サンディ → Sandy
 ```
 
-という言葉遊びで、Sandy（サンディー）に決まりました。
+という言葉遊びで、Sandy（サンディ）に決まりました。
 
 ---
 
 ## 特徴
 
-- 左右対称なキーレイアウト  
+- 左右対称のキーレイアウト  
   [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称な、シンメトリカル ロースタッガードのレイアウトです。
+  ![左右対称のキーレイアウト](/assets/README/DSC_8104.jpeg)
 
 - キースイッチを立体的に配置  
-  平面上のキーレイアウトだけでは最適化しきれない部分を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。
+  3段階の高さで、キースイッチを立体的に配置しています。
+  ![キースイッチの高さ](/assets/README/DSC_7974.jpeg)
+
+  平面上のキー配置だけでは最適化しきれない部分を、キーの位置に応じて高さを変え、立体的に配置することで補っています。  
   Jonesに比べて、ホームポジションから遠いキーへの打鍵しやすさが向上しています。
 
-- 60%ケースと組み合わせられる（GH60型ケース互換）
+- 60%ケースと組み合わせられる  
+  GH60型ケース互換のネジ穴を用意してあるので、市販のケースと組み合わせて使用できます。  
+  ※詳しくはビルドガイドを参照
 
 - 外部EEPROM搭載  
   Remapでたくさんのレイヤーを使用できます。
@@ -42,27 +48,40 @@ Sandyは、スイッチの配置を立体的にして高さ方向への最適化
 
   - ロータリーエンコーダ
   - インジケータLED
+  - アンダーグローLED
 
 ## レイアウト
 
-キーのバリエーションを含むレイアウトは以下の通りです。  
-[![Keyboard Layout Editor: Sandy (DN0020)](/assets/README/layout.png)  
-Keyboard Layout Editor: Sandy (DN0020)](http://www.keyboard-layout-editor.com/#/gists/19f42cd466b4f3b269f38e3bdd6bf532)
+### バリエーション
 
-キーの高さは3段階で、以下のように配置されます。
+キーのバリエーションを含むレイアウトは以下の通りです。  
+Ctrl（左）とEnter（右）にはキーサイズのバリエーションがあり、最下行の中央にはロータリーエンコーダを配置できます。
+[![Keyboard Layout Editor: Sandy (DN0030)](/assets/README/layout.png)  
+Keyboard Layout Editor: Sandy (DN0030)](http://www.keyboard-layout-editor.com/#/gists/c907e866d8f82b82a22b455e622b7301)
+
+### キーの高さ
+
+キーの高さはLow（0mm）, Middle（3.6mm）, High（8.6mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
 
-[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭において設計したレイアウトです。  
-一般的なロースタガと異なり、左手アルファ部の最下行を、外側へ1キーずらすことをお勧めします。  
+### 推奨キーマッピング
 
-SemiErgoを適用したレイアウト例は以下のようになります。  
-<small>スペースキーをSandS（＝Space & Shift）にしているので、左右端のシフトキーは取り除いてあります。</small>
-![SemiErgoを適用したレイアウト](/assets/README/layout_SemiErgo_based.png)
+このレイアウトは、左右の手の運指を同じにするため、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計されています。  
+つまり、一般的なロースタッガードレイアウトから、アルファ部の左手側Z行を左へ1キー、数字行の右手側を右側へ1キーずらしたものが、推奨キーマッピングとなります。
+
+以下にSemiErgoを適用した推奨キーマッピングの例を示します。  
+枠で囲った部分が、一般的なロースタッガードからの変更箇所です。
+![SemiErgoを適用した推奨キーマッピング例](/assets/README/layout_SemiErgo_based_w_marking.png)
+<small>💡ヒント：このキーマッピング例ではスペースキーをSandS（Space & Shift）にしているので、左右端のシフトキーを取り除いています。</small>
 
 ## ビルドガイド
 
-- [Sandy DN0020](/docs/BuildGuide_DN0020.md)
-- [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
+- 最新版
+  - [Sandy（DN0030）](/docs/BuildGuide_DN0030.md)
+
+- 試作版
+  - [Sandy（DN0020）](/docs/BuildGuide_DN0020.md)
+  - [Sandy v.0.1](/docs/BuildGuide_v0_1.md)
 
 ## SNSタグ
 
@@ -87,19 +106,19 @@ v.0.1, KATプロファイルキーキャップ使用
 
 ## 残る課題
 
-Sandyは複数基板を重ねるという手法で製作しているため、その技術的な制限や、製作工程を複雑にしすぎないため、全てのスイッチをなめらかな高さ変化で立体的に配置できていません。  
-そのため、最適化しきれない部分が多く残っています。  
+Sandyは複数基板を重ねるという手法で製作しているため、その技術的な制限や、製作工程を複雑にしすぎない配慮により、全てのスイッチをなめらかな高さ変化で配置できていません。  
+そのため、高さ方向へ最適化しきれていない部分が残っています。  
 
 ## 参考事例
 
-- [Genesis2.5](https://github.com/sekigon-gonnoc/Genesis2.5-doc)（[販売ページ](https://booth.pm/ja/items/1308005)）
+- [Genesis2.5](https://github.com/sekigon-gonnoc/Genesis2.5-doc)（[販売ページ](https://booth.pm/ja/items/1308005)  
   行ごとに高さと傾きを変えることができる自作キーボードキット。  
 
 - [Thumbs Up!](https://www.thumbsup.shop)  
-  カラムスタガをベースに中央側のキーを高くした設計の自作キーボードキット。
+  カラムスタガをベースに親指や中央のキーを高くした設計の自作キーボードキット。
 
-- [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)
-  ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶ。凹形状にキーが配置されている。
+- [Kinesis Advantage series](https://kinesis-ergo.com/products/#keyboards)  
+  ”エルゴノミクス”、”3Dキーボード”と言えばこれが思い浮かぶのはこれ。凹形状にキーが配置されている。
 
 - [Microsoft Sculpt](https://www.microsoft.com/en/accessories/products/keyboards/sculpt-ergonomic-desktop)  
   ほんのり放射状に並んだキーと、中央部が高くなった形状。
@@ -108,10 +127,10 @@ Sandyは複数基板を重ねるという手法で製作しているため、そ
   3Dプリンタで作る、スイッチを3D配置したキーボード。
 
 - ["3D" キーキャップ](https://qiita.com/zk_phi/items/5680607118516413a0ba)  
-  キーボードはそのままに、キーごとに高さを変えたキーキャップ。MXスイッチ用。
+  キーボードはそのままに、キーごとに高さを変えた3D形状のキーキャップ。MXスイッチ用。
 
 - [Gravity Keycaps](https://note.com/yfuku_/n/n1fbba2e8f44c)  
-  Choc用のキーキャップ。
+  Choc用の3D形状キーキャップ。
 
 ## 開発経緯
 
@@ -127,25 +146,21 @@ Choc用キーキャップには、行ごとに高さの異なるプロファイ�
 そのとき、ふとした思いつきでJonesのキーキャップを部分的に背の高いものに入れ替えたところ、思いのほか打鍵しやすくなることに気がつきました。  
 
 ![Jonesのキーキャップを部分的に背の高いものに入れ替えたテスト機](/assets/README/jones_key_height_test.jpeg)  
-Jonesのキーキャップを部分的に背の高いものに入れ替えたテスト機  
 奥：通常のJones，手前：一部のキーを入れ替えたJones
-Cherryプロファイルをベースにして、`T` `Y`はSAプロファイル、`G`や`Q`などはKATプロファイルに交換しました。  
-`左右シフト`や`Z`をOEMプロファイルで少し高くしようとしていましたが、後にボツとなります。
+
+Cherryプロファイルをベースにして、`T` `Y`は倍ほどの高さのSAプロファイル、`G`や`Q`などは少しだけ背の高いKATプロファイルに交換しました。  
+この時点では`左右のシフト`などをOEMプロファイルでほんの少し高くしようとしていますが、後にボツとなります。
 
 これをきっかけとして、MXスイッチを使用するキーボード、[Jones](https://github.com/jpskenn/Jones)を改修する計画として復活することになりました。  
 
 ### ロードテスト
 
-中身はJonesのテスト機をSandyのv.0として、部分的にキーキャップを交換してどのキーを最適化の対象にするか、また、どの程度の段差が最適な高さになるのかを探っていきました。  
-
-![最終形のテスト機](/assets/README/IMG_4914.jpeg)  
-最終形のテスト機  
-数字行をSAプロファイルへ、また、`T` `Y`をさらに高くするためSAプロファイル1行目のキーに交換しました。
-
-テスト機を3ヶ月ほど使用し、日常的な使用で問題ないことを確認しました。
-
-また、すべて同じプロファイルのキーキャップにしたときの使用感を確認するため、スチレンボードにスイッチをのせたモックアップも作成しました。
+先ほどのテスト機を使い部分的にキーキャップを交換してどのキーを最適化の対象にするかを調べたり、スチレンボードにスイッチをのせたモックアップを作成して最適な高さを探ったりしました。（`0+2+2`は、ベースの0mmに対して、1段目が2mm、2段目も2mmの段差を意味するメモ）
 
 ![モックアップ](/assets/README/IMG_4881.jpeg)  
-モックアップ
-`0+2+2`は、ベースの0mmに対して、1段目が2mm、2段目も2mmの段差を意味するメモ。
+
+テスト機は、数字行をSAプロファイルへ、また、`T` `Y`をSAプロファイル1行目のキーに交換してさらに高くした最終形態になりました。  
+
+![最終形のテスト機](/assets/README/IMG_4914.jpeg)
+
+この形態をロードテストとして3ヶ月ほど使用し、日常的な使用で問題ないことを確認した上で基板の製作に取り掛かりました。
