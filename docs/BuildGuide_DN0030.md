@@ -82,7 +82,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 | 5 | Base用スイッチプレート | 1 | 捨て基板（プレート外側の枠）を切り離して使用 |
 | 6 | Top用スイッチプレート | 1 ||
 | 7 | ボトムプレート | 1 ||
-| 8 | JST SH 4pinケーブル<br>（いわゆるQwiicケーブル） | 6※ | ※1本をTop基板に取り付け済みの場合あり<br> [PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) |
+| 8 | SH 4pinケーブル<br>（いわゆるQwiicケーブル） | 6※ | ※1本をTop基板に取り付け済みの場合あり<br> [PRT-17260](https://www.digikey.jp/ja/products/detail/sparkfun-electronics/PRT-17260/13629028) |
 | 9 | スペーサー<br>両メネジ M2 3mm | 16 | [ヒロスギ ASB-2003E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
 | 10 | ナット<br>M2 2種 高さ1.6mm | 22 | [ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
 | 11 | ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | [ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
