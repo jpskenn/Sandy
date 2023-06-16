@@ -886,12 +886,15 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 | FUSE<br>0ZCJ0050AF2E | 1 ||
 | リセットスイッチ<br>RS-187R05A2-DSMTRT | 1 ||
 | SHコネクタ<br>JST SH ベース サイド型 4pin 面実装<br>[SM04B-SRSS-TB(LF)(SN)](https://www.lcsc.com/product-detail/_JST-Sales-America-_C160404.html) | 6 ||
+| SH 4pin ケーブル| 1 | |
 
 #### 基板セットアップ
 
-作業対象は基板Baseのみ。
+1. 基板Top：`J3（Top3）`へSH 4pin ケーブルを1本取り付ける
 
-1. SMTAしていない部品を取り付ける
+  初期ロット（DN0030）のみ。
+
+1. 基板Base：SMTAしていない部品を取り付ける
 
     1. 基板うら側`J7`へUSBコネクタを取り付ける
 
