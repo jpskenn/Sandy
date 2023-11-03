@@ -57,6 +57,14 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
   一部の写真はDN0030のものを掲載しています。  
   パーツ位置や表記が異なるだけで、基本的には同じです。
 
+- ファームウェアについて
+
+  出荷時に書き込み済みのファームウェアは、QMKバージョン 0.18.17です。  
+  [Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)で、キーの割り当てを変更することができます。  
+  ロータリーエンコーダへのキー割り当てをおこなうには、Remapで定義ファイル`sandy_v01_via.json`をインポートしてください。
+
+  QMKバージョン 0.22.14のファームウェアに書き換えると、[Remap](https://remap-keys.app/)で、ロータリーエンコーダを含むキーの割り当てを変更できるようになります。
+
 ## 部品リスト
 
 このキットを組み立てるためには、[キット内容](#キット内容)に加え、[別途用意が必要な部品](#別途用意が必要な部品)が必要です。  
@@ -182,6 +190,8 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
       システムレポート → USBに”Sandy”が表示されていること
 
 1. [Remap](https://remap-keys.app/)を開く
+
+    💡ヒント：出荷時のファームウェアを書き換えていない場合は、[Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)を開きます。
 
 1. "START REMAP FOR YOUR KEYBOARD"をクリックし、キーボード”Sandy”を接続する
 
@@ -539,14 +549,28 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 このキーボードに関連するファイルです。  
 
+- ビルド済みファームウェア（QMKバージョン 0.22.14）： sandy_dn0020_qmk_0.22.14_via.hex  
+[Sandy_DN0020_files2](https://gist.github.com/jpskenn/3fba73c5b541e13f96ebbfbdbcda088c)（Zipファイルをダウンロードして展開）
+
+    2023年9月11日に更新されたRemap（QMKバージョン 0.22.2以降版）に対応するファームウェアです。  
+    機能的な変更はありません。
+
 - ビルド済みファームウェア： sandy_dn0020_via.hex  
   [Sandy_DN0020_files](https://gist.github.com/jpskenn/f1980616959f451fd799d8fc0f839c91)（Zipファイルをダウンロードして展開）
 
-- ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン0.18.17から派生した[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0020`に配置しています。  
-  Sandy DN0020のファームウェアは、[Sandy_DN0020タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0020)を参照してください。
+    出荷時に書き込み済みのファームウェアです。  
+    [Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)で、キーの割り当てを変更することができます。  
+    ロータリーエンコーダへのキー割り当てをおこなうには、Remapで定義ファイル`sandy_v01_via.json`をインポートしてください。
 
-- 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0020タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0020)にまとめてあります。
+- ファームウェアのソース
+
+    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。  
+
+    このブランチは、QMKバージョン 0.18.17から派生し、後にQMKバージョン 0.22.14をマージしています。
+
+  - Tags
+    - [Sandy_QMK_0.22.14](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.22.14)
+    - [Sandy_QMK_0.18](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.18)
 
 ### 資料：QMK Toolboxを使用して、ファームウェアを書き込む方法
 
