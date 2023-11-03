@@ -788,8 +788,15 @@ Sandyはそれ自体にキーの段差が組み込まれているため、キー
     [Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)で、キーの割り当てを変更することができます。  
     ロータリーエンコーダへのキー割り当てをおこなうには、Remapで定義ファイル`sandy_v01_via.json`をインポートしてください。
 
-- ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン 0.18.17から派生し、後にQMKバージョン 0.22.14をマージした[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。
+- ファームウェアのソース
+
+    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。  
+
+    このブランチは、QMKバージョン 0.18.17から派生し、後にQMKバージョン 0.22.14をマージしています。
+
+  - Tags
+    - [Sandy_QMK_0.22.14](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.22.14)
+    - [Sandy_QMK_0.18](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.18)
 
 - 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0030タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0030)にまとめてあります。
 
