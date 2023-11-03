@@ -776,7 +776,7 @@ Sandyはそれ自体にキーの段差が組み込まれているため、キー
 <summary>《《《 詳しい説明 》》》</summary>
 
 - ビルド済みファームウェア（QMKバージョン 0.22.14）： sandy_dn0030_qmk_0.22.14_via.hex  
-[Sandy_DN0030_files2](〓TODO リンク変更〓)（Zipファイルをダウンロードして展開）
+[Sandy_DN0030_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
 
     2023年9月11日に更新されたRemap（QMKバージョン 0.22.2以降版）に対応するファームウェアです。  
     機能的な変更はありません。
