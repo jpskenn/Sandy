@@ -539,7 +539,7 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
 
 このキーボードに関連するファイルです。  
 
-- ビルド済みファームウェア： sandy_v01_via.hex  
+- ビルド済みファームウェア： sandy_dn0020_via.hex  
   [Sandy_DN0020_files](https://gist.github.com/jpskenn/f1980616959f451fd799d8fc0f839c91)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース  

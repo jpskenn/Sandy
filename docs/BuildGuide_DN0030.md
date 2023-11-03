@@ -769,7 +769,7 @@ Sandyはそれ自体にキーの段差が組み込まれているため、キー
 <details>
 <summary>《《《 詳しい説明 》》》</summary>
 
-- ビルド済みファームウェア： sandy_v01_via.hex  
+- ビルド済みファームウェア： sandy_dn0030_via.hex  
 [Sandy_DN0030_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース  
