@@ -45,9 +45,13 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
   - 3行目左右端（1.5uのキーを使用する場合）
   - 4行目左端
 
-- ファームウェアはQMKバージョン0.18.17を使用しています
+- ファームウェアについて
 
-  QMKのバージョン0.19以降を使用すると[Remap](https://remap-keys.app/)によるキーカスタマイズが[意図した結果にならない](https://github.com/remap-keys/remap/issues/751)ため、正常にキーカスタマイズできるようバージョン0.18.17を使用しています。
+  出荷時に書き込み済みのファームウェアは、QMKバージョン 0.18.17です。  
+  [Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)で、キーの割り当てを変更することができます。  
+  ロータリーエンコーダへのキー割り当てをおこなうには、Remapで定義ファイル`sandy_v01_via.json`をインポートしてください。
+
+  QMKバージョン 0.22.14のファームウェアに書き換えると、[Remap](https://remap-keys.app/)で、ロータリーエンコーダを含むキーの割り当てを変更できるようになります。
 
 ## 組み立て難易度
 
@@ -207,6 +211,8 @@ Sandyのコンセプトや特徴、ビルド例などについては、こちら
     ”Sandy”が表示されていること
 
 1. [Remap](https://remap-keys.app/)を、対応するブラウザ（ChromeやEdgeなど）で開く
+
+    💡ヒント：出荷時のファームウェアを書き換えていない場合は、[Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)を開きます。
 
 1. キーボードをRemapに接続する
 
@@ -769,12 +775,28 @@ Sandyはそれ自体にキーの段差が組み込まれているため、キー
 <details>
 <summary>《《《 詳しい説明 》》》</summary>
 
-- ビルド済みファームウェア： sandy_v01_via.hex  
+- ビルド済みファームウェア（QMKバージョン 0.22.14）： sandy_dn0030_qmk_0.22.14_via.hex  
+[Sandy_DN0030_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
+
+    2023年9月11日に更新されたRemap（QMKバージョン 0.22.2以降版）に対応するファームウェアです。  
+    機能的な変更はありません。
+
+- ビルド済みファームウェア（QMKバージョン 0.18.17）： sandy_dn0030_via.hex  
 [Sandy_DN0030_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
 
-- ファームウェアのソース  
-  私がQMKからフォークしたリポジトリ [https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、QMKバージョン0.18.17から派生した[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。  
-  Sandy DN0030のファームウェアは、[Sandy_DN0030タグ](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_DN0030)を参照してください。
+    出荷時に書き込み済みのファームウェアです。  
+    [Remap for QMK Firmware 0.18.17 or lower](https://qmk018.remap-keys.app)で、キーの割り当てを変更することができます。  
+    ロータリーエンコーダへのキー割り当てをおこなうには、Remapで定義ファイル`sandy_v01_via.json`をインポートしてください。
+
+- ファームウェアのソース
+
+    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/dn0030`に配置しています。  
+
+    このブランチは、QMKバージョン 0.18.17から派生し、後にQMKバージョン 0.22.14をマージしています。
+
+  - Tags
+    - [Sandy_QMK_0.22.14](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.22.14)
+    - [Sandy_QMK_0.18](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.18)
 
 - 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[Sandyリポジトリ](https://github.com/jpskenn/Sandy)の[DN0030タグ](https://github.com/jpskenn/Sandy/releases/tag/DN0030)にまとめてあります。
 
