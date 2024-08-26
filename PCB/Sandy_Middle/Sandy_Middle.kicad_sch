@@ -7204,7 +7204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
 			(at 257.81 69.85 0)
 			(effects
 				(font
@@ -10984,7 +10984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1.5U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
 			(at 43.18 69.85 0)
 			(effects
 				(font
