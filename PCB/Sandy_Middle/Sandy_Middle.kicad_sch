@@ -1471,22 +1471,10 @@
 		(uuid "0fa7e225-d3cf-4d21-adf2-def5684ea42f")
 	)
 	(junction
-		(at 316.23 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14245f02-72cc-45c4-9e5f-216fd2cbfca5")
-	)
-	(junction
 		(at 147.32 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "146be9dc-c88d-4568-989e-b845d7644e0c")
-	)
-	(junction
-		(at 334.01 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a113be4-92ab-4380-8500-6fe8e35f4e2c")
 	)
 	(junction
 		(at 28.575 261.62)
@@ -1505,24 +1493,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "254fecd4-8afd-429a-bf3b-22d0586c900e")
-	)
-	(junction
-		(at 308.61 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "29c072f9-aea9-4741-8049-e54a04447437")
-	)
-	(junction
-		(at 308.61 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2aab82c3-2715-448e-ac99-dfe373980b5d")
-	)
-	(junction
-		(at 387.35 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d3c2cec-ae1f-4320-8990-9352435ecd10")
 	)
 	(junction
 		(at 48.26 83.82)
@@ -1573,28 +1543,10 @@
 		(uuid "4c9fb9ce-8139-47b2-9f12-1a2369f9ea37")
 	)
 	(junction
-		(at 369.57 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "51a97d81-5d45-4325-bf4f-20a1643ca464")
-	)
-	(junction
 		(at 163.83 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bb7536c-de05-4991-931b-372879991459")
-	)
-	(junction
-		(at 334.01 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "641975c2-a78b-4c12-8e1c-459293752d2d")
-	)
-	(junction
-		(at 308.61 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "67d2fa3d-1f4a-4d4b-bf05-e1d2866e5234")
 	)
 	(junction
 		(at 262.89 86.36)
@@ -1613,12 +1565,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7136caa6-c9af-4744-b21e-09e23dbf14fd")
-	)
-	(junction
-		(at 351.79 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72a78cd6-b74d-4ab2-968c-aa8d5de7081c")
 	)
 	(junction
 		(at 46.355 261.62)
@@ -1643,12 +1589,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84e296b2-75f3-4ff0-950e-a32cf42730ee")
-	)
-	(junction
-		(at 342.9 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85474eda-aef2-48bc-a555-45e3561debb0")
 	)
 	(junction
 		(at 246.38 83.82)
@@ -1699,12 +1639,6 @@
 		(uuid "a3691d7c-4603-4661-8ccd-e19ae80fb6b3")
 	)
 	(junction
-		(at 316.23 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6f3f402-57f0-4a57-9010-bb5c7c9cf9e7")
-	)
-	(junction
 		(at 147.32 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1723,12 +1657,6 @@
 		(uuid "ad88ab83-4648-4430-a622-44c8cae2b63c")
 	)
 	(junction
-		(at 351.79 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af626e98-ed32-4f51-94ab-4a0c922d2d9c")
-	)
-	(junction
 		(at 71.12 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1739,18 +1667,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b60e1da3-6058-4f40-90ad-9aa8b3484846")
-	)
-	(junction
-		(at 308.61 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b98797cb-f9f1-481c-b9c8-dccf8ce49754")
-	)
-	(junction
-		(at 308.61 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc194cd9-7c43-4533-a25c-31feabdaf0cb")
 	)
 	(junction
 		(at 120.65 106.68)
@@ -1813,24 +1729,6 @@
 		(uuid "e0a03248-c090-4489-b040-d109cc78a0e7")
 	)
 	(junction
-		(at 351.79 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e15cce7f-7ef3-4f3f-b270-10e0bcc625b9")
-	)
-	(junction
-		(at 351.79 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e2464dda-8e64-4a9f-851d-01346c6063b8")
-	)
-	(junction
-		(at 342.9 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee1f8147-50c7-4f04-a84f-169f96ca4eb3")
-	)
-	(junction
 		(at 147.955 259.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1861,18 +1759,6 @@
 		(uuid "f9784e75-944e-40a5-8a3c-0b7ff1149ebc")
 	)
 	(junction
-		(at 316.23 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f9e032c5-40d5-4cd5-80d5-46bd7dcbc4e1")
-	)
-	(junction
-		(at 369.57 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fae90fa6-813b-4ed2-a404-a233b6caa6ac")
-	)
-	(junction
 		(at 198.12 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1889,16 +1775,6 @@
 	(no_connect
 		(at 145.415 279.4)
 		(uuid "d0d87be6-6dad-4ed0-8c2c-603b5b8a80cb")
-	)
-	(wire
-		(pts
-			(xy 351.79 138.43) (xy 369.57 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0188cfdb-c7b7-4a29-a8d8-103e727ba7c1")
 	)
 	(wire
 		(pts
@@ -1982,16 +1858,6 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 172.72) (xy 316.23 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "069e94ba-0cd4-4692-a61f-7a373365cf72")
-	)
-	(wire
-		(pts
 			(xy 31.115 279.4) (xy 46.355 261.62)
 		)
 		(stroke
@@ -2022,16 +1888,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 153.67) (xy 308.61 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "113bd68d-81b5-4cfa-8447-f231593312f9")
-	)
-	(wire
-		(pts
 			(xy 246.38 83.82) (xy 279.4 83.82)
 		)
 		(stroke
@@ -2039,16 +1895,6 @@
 			(type default)
 		)
 		(uuid "116f4421-ea6a-461f-b2ca-b18300472560")
-	)
-	(wire
-		(pts
-			(xy 387.35 144.78) (xy 316.23 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1301eab2-7991-49c5-b7de-1e5701493933")
 	)
 	(wire
 		(pts
@@ -2079,16 +1925,6 @@
 			(type default)
 		)
 		(uuid "1355b5be-eb0e-48ef-a017-8171408589bc")
-	)
-	(wire
-		(pts
-			(xy 342.9 147.32) (xy 308.61 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14c23b26-6633-4653-83c5-1747cd328ee6")
 	)
 	(wire
 		(pts
@@ -2200,26 +2036,6 @@
 		)
 		(uuid "2ece3fcb-8606-4577-9bbe-b4a98f63599b")
 	)
-	(wire
-		(pts
-			(xy 369.57 166.37) (xy 351.79 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f639fcf-387e-4b6b-8ee2-e5be4357b9d4")
-	)
-	(wire
-		(pts
-			(xy 369.57 172.72) (xy 387.35 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "306af7e4-46da-46ad-a3a0-fd4d67f7ac8e")
-	)
 	(polyline
 		(pts
 			(xy 195.58 265.43) (xy 195.58 281.94)
@@ -2290,16 +2106,6 @@
 		)
 		(uuid "3f9a3bb6-135a-472b-a682-6dc910401683")
 	)
-	(wire
-		(pts
-			(xy 308.61 179.07) (xy 351.79 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ff53490-f63c-4b72-bc4f-145a4e249bf3")
-	)
 	(polyline
 		(pts
 			(xy 22.225 281.94) (xy 195.58 281.94)
@@ -2342,16 +2148,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 153.67) (xy 342.9 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4896030e-f74c-4e88-807f-7cbd79af0a2c")
-	)
-	(wire
-		(pts
 			(xy 81.28 236.22) (xy 78.74 217.17)
 		)
 		(stroke
@@ -2369,16 +2165,6 @@
 			(type default)
 		)
 		(uuid "4a64c53b-5bfa-4101-944f-6148117a42f4")
-	)
-	(wire
-		(pts
-			(xy 316.23 172.72) (xy 308.61 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b28ac88-438d-498b-8609-8b0fe0f0d897")
 	)
 	(wire
 		(pts
@@ -2499,16 +2285,6 @@
 			(type default)
 		)
 		(uuid "5f541964-80c9-440c-a2c2-025bdc9caa9d")
-	)
-	(wire
-		(pts
-			(xy 351.79 172.72) (xy 334.01 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "624abbe3-17e2-4fbd-9924-e05d0b627048")
 	)
 	(wire
 		(pts
@@ -2682,16 +2458,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 179.07) (xy 308.61 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7aa3a45a-daa3-424d-ac20-e79f00a23338")
-	)
-	(wire
-		(pts
 			(xy 93.98 214.63) (xy 96.52 214.63)
 		)
 		(stroke
@@ -2739,16 +2505,6 @@
 			(type default)
 		)
 		(uuid "8513bc3d-10b4-40dc-b1ae-78755380ecfc")
-	)
-	(wire
-		(pts
-			(xy 387.35 172.72) (xy 405.13 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86b7e9a1-650a-4691-aab7-19c4137fa833")
 	)
 	(wire
 		(pts
@@ -2882,16 +2638,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 138.43) (xy 387.35 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e1d43fa-3022-4c78-9a8b-7802aba23990")
-	)
-	(wire
-		(pts
 			(xy 236.22 74.93) (xy 236.22 151.13)
 		)
 		(stroke
@@ -2972,26 +2718,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 147.32) (xy 342.9 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8beb994-ca4a-4c35-af86-8ca569c5e01e")
-	)
-	(wire
-		(pts
-			(xy 351.79 179.07) (xy 369.57 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a96fb922-10d3-48a0-a4aa-65af256f7e32")
-	)
-	(wire
-		(pts
 			(xy 79.375 259.08) (xy 81.915 259.08)
 		)
 		(stroke
@@ -3009,16 +2735,6 @@
 			(type default)
 		)
 		(uuid "aff4f74e-cedb-4d06-bd37-46e1ee61dc26")
-	)
-	(wire
-		(pts
-			(xy 342.9 153.67) (xy 308.61 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0e2000e-0dd2-4aa6-a78d-17ad994982cc")
 	)
 	(wire
 		(pts
@@ -3099,16 +2815,6 @@
 			(type default)
 		)
 		(uuid "bdfe024e-49db-4785-9cb9-147dadddf7c6")
-	)
-	(wire
-		(pts
-			(xy 308.61 144.78) (xy 308.61 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "beabd7e5-ff02-47a2-8e28-14f032537aff")
 	)
 	(wire
 		(pts
@@ -3252,16 +2958,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 138.43) (xy 334.01 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d19e04e6-81ba-4fec-b2fe-ac54fb7b5f40")
-	)
-	(wire
-		(pts
 			(xy 252.73 31.75) (xy 252.73 74.93)
 		)
 		(stroke
@@ -3279,16 +2975,6 @@
 			(type default)
 		)
 		(uuid "d6438c63-c0ab-445b-9e9a-ffafd5e326d8")
-	)
-	(wire
-		(pts
-			(xy 308.61 166.37) (xy 308.61 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6549bfc-8409-443c-b81e-d74cdfa12f66")
 	)
 	(wire
 		(pts
@@ -3382,16 +3068,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 172.72) (xy 369.57 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0ac1c79-87b0-4085-9faa-1a7884825035")
-	)
-	(wire
-		(pts
 			(xy 81.915 279.4) (xy 97.155 261.62)
 		)
 		(stroke
@@ -3472,16 +3148,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 144.78) (xy 308.61 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9af826d-cbcb-4fb1-8a5d-6aed4cd1ee1f")
-	)
-	(wire
-		(pts
 			(xy 196.85 82.55) (xy 196.85 86.36)
 		)
 		(stroke
@@ -3489,16 +3155,6 @@
 			(type default)
 		)
 		(uuid "ea67b0c4-9a5f-47de-8152-3480a7b07ca7")
-	)
-	(wire
-		(pts
-			(xy 308.61 138.43) (xy 316.23 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eafd4ea8-c280-4281-82c8-f32bc4638ebe")
 	)
 	(wire
 		(pts
@@ -3592,16 +3248,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 147.32) (xy 308.61 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7927c6a-b3f2-4a0b-8e47-5270c4f99456")
-	)
-	(wire
-		(pts
 			(xy 137.16 31.75) (xy 137.16 106.68)
 		)
 		(stroke
@@ -3662,16 +3308,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 172.72) (xy 308.61 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe5176de-a563-4725-a9eb-e920718154d9")
-	)
-	(wire
-		(pts
 			(xy 34.925 147.32) (xy 147.32 147.32)
 		)
 		(stroke
@@ -3679,26 +3315,6 @@
 			(type default)
 		)
 		(uuid "febaf5fb-9a58-4366-980a-47b172b4031c")
-	)
-	(wire
-		(pts
-			(xy 334.01 138.43) (xy 351.79 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fef96c2e-eb9c-4a3f-9932-5a0a30089979")
-	)
-	(wire
-		(pts
-			(xy 351.79 166.37) (xy 308.61 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff5cc8aa-eed9-4106-8bab-88a0c57f8333")
 	)
 	(text "コピペ手順\n\n1. Baseの回路図から \"Panel CONNECTOR\" の箇所をまるごとコピペ\n2. Baseのコネクタ（J6,7,8,9.10,15）の頭に \"#\" をつけて仮想シンボル化\n　　例： J6 → #J6"
 		(exclude_from_sim no)
@@ -3822,7 +3438,7 @@
 	)
 	(text "SCREWS to Bottom"
 		(exclude_from_sim no)
-		(at 310.515 130.81 0)
+		(at 309.88 107.95 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3835,7 +3451,7 @@
 	)
 	(text "SCREWS to Top"
 		(exclude_from_sim no)
-		(at 310.515 160.655 0)
+		(at 309.88 153.035 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3860,7 +3476,7 @@
 	)
 	(text "Mid → Top にネジ穴を2個追すれば、Topまで繋がる"
 		(exclude_from_sim no)
-		(at 419.608 185.166 0)
+		(at 418.465 205.74 0)
 		(effects
 			(font
 				(size 4 4)
@@ -3931,7 +3547,7 @@
 	)
 	(text "Bottom → Mid にネジ穴を4個追すれば、Topへ繋げる可能性が出てくる"
 		(exclude_from_sim no)
-		(at 416.56 124.714 0)
+		(at 393.7 90.805 0)
 		(effects
 			(font
 				(size 4 4)
@@ -4625,37 +4241,6 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 23.9527 149.7806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Mid_GND"
-		(shape input)
-		(at 308.61 179.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4b6d3c35-a8e2-412c-b416-7120fb601061")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -8.255 3.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 298.2425 179.1494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7041,7 +6626,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 360.68 151.13 0)
+		(at 372.11 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7049,7 +6634,7 @@
 		(dnp no)
 		(uuid "1152219a-b410-4100-b381-2f3a0b461169")
 		(property "Reference" "H11"
-			(at 363.22 149.9616 0)
+			(at 374.65 132.1816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7058,7 +6643,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 363.22 152.273 0)
+			(at 374.65 134.493 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7067,7 +6652,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 360.68 151.13 0)
+			(at 372.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7076,7 +6661,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 360.68 151.13 0)
+			(at 372.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7085,7 +6670,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.68 151.13 0)
+			(at 372.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7401,7 +6986,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 342.9 144.78 0)
+		(at 354.33 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7409,7 +6994,7 @@
 		(dnp no)
 		(uuid "1bec3d7b-eb45-4204-90db-3fbef0aaf3a6")
 		(property "Reference" "H8"
-			(at 345.44 143.6116 0)
+			(at 356.87 125.8316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7418,7 +7003,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 345.44 145.923 0)
+			(at 356.87 128.143 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7427,7 +7012,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 342.9 144.78 0)
+			(at 354.33 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7436,7 +7021,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 342.9 144.78 0)
+			(at 354.33 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7030,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.9 144.78 0)
+			(at 354.33 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7712,7 +7297,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 387.35 135.89 0)
+		(at 398.78 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7720,7 +7305,7 @@
 		(dnp no)
 		(uuid "22ca2913-7b67-447d-82d9-a8074612dd38")
 		(property "Reference" "H5"
-			(at 389.89 134.7216 0)
+			(at 401.32 116.9416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7729,7 +7314,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 389.89 137.033 0)
+			(at 401.32 119.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,7 +7323,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 387.35 135.89 0)
+			(at 398.78 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7747,7 +7332,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 387.35 135.89 0)
+			(at 398.78 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7756,7 +7341,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 387.35 135.89 0)
+			(at 398.78 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8014,7 +7599,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 316.23 135.89 0)
+		(at 327.66 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8022,7 +7607,7 @@
 		(dnp no)
 		(uuid "27dcd968-bced-41dd-95b2-59a32141e9f5")
 		(property "Reference" "H1"
-			(at 318.77 134.7216 0)
+			(at 330.2 116.9416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8031,7 +7616,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 318.77 137.033 0)
+			(at 330.2 119.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8040,7 +7625,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 316.23 135.89 0)
+			(at 327.66 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8049,7 +7634,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 316.23 135.89 0)
+			(at 327.66 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,7 +7643,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 135.89 0)
+			(at 327.66 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8213,15 +7798,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 369.57 176.53 0)
+		(at 415.925 173.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2e731e24-f776-4c1e-a934-9e06d10f03d9")
-		(property "Reference" "H21"
-			(at 372.11 175.3616 0)
+		(property "Reference" "H_top_10"
+			(at 418.465 172.1866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8230,7 +7815,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 372.11 177.673 0)
+			(at 418.465 174.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8239,7 +7824,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 369.57 176.53 0)
+			(at 415.925 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8248,7 +7833,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 369.57 176.53 0)
+			(at 415.925 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8257,7 +7842,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 369.57 176.53 0)
+			(at 415.925 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8271,7 +7856,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H21")
+					(reference "H_top_10")
 					(unit 1)
 				)
 			)
@@ -8603,15 +8188,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 351.79 163.83 0)
+		(at 361.95 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4317de3a-ea5b-4ae7-8954-713f3cd474dc")
-		(property "Reference" "H12"
-			(at 354.33 162.6616 0)
+		(property "Reference" "H_top_2"
+			(at 364.49 161.3916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8620,7 +8205,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 354.33 164.973 0)
+			(at 364.49 163.703 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8629,7 +8214,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 351.79 163.83 0)
+			(at 361.95 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8638,7 +8223,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 351.79 163.83 0)
+			(at 361.95 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8647,7 +8232,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 351.79 163.83 0)
+			(at 361.95 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8661,7 +8246,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H12")
+					(reference "H_top_2")
 					(unit 1)
 				)
 			)
@@ -8669,15 +8254,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 387.35 170.18 0)
+		(at 384.175 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "462a98ab-8400-4c31-87c8-d90863c496e4")
-		(property "Reference" "H18"
-			(at 389.89 169.0116 0)
+		(property "Reference" "H_top_8"
+			(at 386.715 169.0116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8686,7 +8271,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 389.89 171.323 0)
+			(at 386.715 171.323 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8695,7 +8280,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 387.35 170.18 0)
+			(at 384.175 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8704,7 +8289,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 387.35 170.18 0)
+			(at 384.175 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8713,7 +8298,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 387.35 170.18 0)
+			(at 384.175 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8727,7 +8312,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H18")
+					(reference "H_top_8")
 					(unit 1)
 				)
 			)
@@ -8867,15 +8452,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 351.79 170.18 0)
+		(at 337.82 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4cd2bda1-8276-4383-9e34-9ff668353727")
-		(property "Reference" "H16"
-			(at 354.33 169.0116 0)
+		(property "Reference" "H_top_6"
+			(at 340.36 169.0116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8884,7 +8469,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 354.33 171.323 0)
+			(at 340.36 171.323 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8893,7 +8478,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 351.79 170.18 0)
+			(at 337.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8902,7 +8487,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 351.79 170.18 0)
+			(at 337.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +8496,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 351.79 170.18 0)
+			(at 337.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8925,7 +8510,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H16")
+					(reference "H_top_6")
 					(unit 1)
 				)
 			)
@@ -9086,7 +8671,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 351.79 135.89 0)
+		(at 363.22 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9094,7 +8679,7 @@
 		(dnp no)
 		(uuid "590bd5cf-fc55-4b45-b935-e6e72fcf641f")
 		(property "Reference" "H3"
-			(at 354.33 134.7216 0)
+			(at 365.76 116.9416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9103,7 +8688,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 354.33 137.033 0)
+			(at 365.76 119.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9112,7 +8697,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 351.79 135.89 0)
+			(at 363.22 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9121,7 +8706,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 351.79 135.89 0)
+			(at 363.22 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9130,7 +8715,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 351.79 135.89 0)
+			(at 363.22 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9152,7 +8737,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 360.68 144.78 0)
+		(at 372.11 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9160,7 +8745,7 @@
 		(dnp no)
 		(uuid "5ab23b03-7ca7-404d-9bf8-b2d124886abe")
 		(property "Reference" "H9"
-			(at 363.22 143.6116 0)
+			(at 374.65 125.8316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9169,7 +8754,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 363.22 145.923 0)
+			(at 374.65 128.143 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9178,7 +8763,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 360.68 144.78 0)
+			(at 372.11 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9187,7 +8772,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 360.68 144.78 0)
+			(at 372.11 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9196,7 +8781,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.68 144.78 0)
+			(at 372.11 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9648,15 +9233,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 316.23 170.18 0)
+		(at 326.39 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "830fff99-e96e-4e84-af0c-10af7c2663c2")
-		(property "Reference" "H14"
-			(at 318.77 169.0116 0)
+		(property "Reference" "H_top_1"
+			(at 328.93 161.3916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9665,7 +9250,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 318.77 171.323 0)
+			(at 328.93 163.703 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9674,7 +9259,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 316.23 170.18 0)
+			(at 326.39 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9683,7 +9268,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 316.23 170.18 0)
+			(at 326.39 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9692,7 +9277,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 170.18 0)
+			(at 326.39 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9706,7 +9291,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H14")
+					(reference "H_top_1")
 					(unit 1)
 				)
 			)
@@ -9780,7 +9365,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 334.01 135.89 0)
+		(at 345.44 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9788,7 +9373,7 @@
 		(dnp no)
 		(uuid "8ea2263b-5e4b-4753-a6fa-003d58e2e18a")
 		(property "Reference" "H2"
-			(at 336.55 134.7216 0)
+			(at 347.98 116.9416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9797,7 +9382,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 336.55 137.033 0)
+			(at 347.98 119.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9806,7 +9391,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 334.01 135.89 0)
+			(at 345.44 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9815,7 +9400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 334.01 135.89 0)
+			(at 345.44 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9824,7 +9409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 334.01 135.89 0)
+			(at 345.44 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,6 +9579,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 361.95 180.975 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9632de37-4517-47e0-bb4b-599d753fbef6")
+		(property "Reference" "H_top_11"
+			(at 364.49 179.8066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 364.49 182.118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+			(at 361.95 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 361.95 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 361.95 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cec9b12c-e1a0-4329-837e-728e1d52e341")
+		)
+		(instances
+			(project "Sandy_Middle"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_top_11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 48.26 78.74 90)
 		(unit 1)
@@ -10084,6 +9735,72 @@
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 379.73 180.975 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "99120b49-4bb9-435c-9f45-3ad3bcc87ed4")
+		(property "Reference" "H_top_12"
+			(at 382.27 179.8066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 382.27 182.118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+			(at 379.73 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 379.73 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e90c5b1f-2f7f-46ef-aa39-daea06a59cdb")
+		)
+		(instances
+			(project "Sandy_Middle"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_top_12")
 					(unit 1)
 				)
 			)
@@ -10357,15 +10074,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 405.13 170.18 0)
+		(at 401.955 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ad1f9f76-df18-4fc2-8a34-bd6cd1a68296")
-		(property "Reference" "H19"
-			(at 407.67 169.0116 0)
+		(property "Reference" "H_top_9"
+			(at 404.495 169.0116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10374,7 +10091,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 407.67 171.323 0)
+			(at 404.495 171.323 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,7 +10100,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 405.13 170.18 0)
+			(at 401.955 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10392,7 +10109,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 405.13 170.18 0)
+			(at 401.955 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,7 +10118,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 405.13 170.18 0)
+			(at 401.955 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10415,7 +10132,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H19")
+					(reference "H_top_9")
 					(unit 1)
 				)
 			)
@@ -10623,15 +10340,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 369.57 170.18 0)
+		(at 355.6 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bcbe9064-6ae3-4401-bb85-436ef3d1c781")
-		(property "Reference" "H17"
-			(at 372.11 169.0116 0)
+		(property "Reference" "H_top_7"
+			(at 358.14 169.0116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10640,7 +10357,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 372.11 171.323 0)
+			(at 358.14 171.323 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10649,7 +10366,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 369.57 170.18 0)
+			(at 355.6 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10658,7 +10375,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 369.57 170.18 0)
+			(at 355.6 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10667,7 +10384,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 369.57 170.18 0)
+			(at 355.6 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10681,7 +10398,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H17")
+					(reference "H_top_7")
 					(unit 1)
 				)
 			)
@@ -10829,7 +10546,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 369.57 135.89 0)
+		(at 381 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10837,7 +10554,7 @@
 		(dnp no)
 		(uuid "ca3c18e3-107e-41b2-bb9b-803f34c27e08")
 		(property "Reference" "H4"
-			(at 372.11 134.7216 0)
+			(at 383.54 116.9416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10846,7 +10563,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 372.11 137.033 0)
+			(at 383.54 119.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10855,7 +10572,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 369.57 135.89 0)
+			(at 381 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10864,7 +10581,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 369.57 135.89 0)
+			(at 381 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10873,7 +10590,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 369.57 135.89 0)
+			(at 381 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10895,15 +10612,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 369.57 163.83 0)
+		(at 379.73 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cdc04eb7-bef6-4b17-aab3-52da709ebbcf")
-		(property "Reference" "H13"
-			(at 372.11 162.6616 0)
+		(property "Reference" "H_top_3"
+			(at 382.27 161.3916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10912,7 +10629,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 372.11 164.973 0)
+			(at 382.27 163.703 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10921,7 +10638,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 369.57 163.83 0)
+			(at 379.73 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10930,7 +10647,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 369.57 163.83 0)
+			(at 379.73 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10939,7 +10656,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 369.57 163.83 0)
+			(at 379.73 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +10670,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H13")
+					(reference "H_top_3")
 					(unit 1)
 				)
 			)
@@ -11188,15 +10905,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 351.79 176.53 0)
+		(at 415.925 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d6eb3615-1b94-4984-97ad-49aab0716112")
-		(property "Reference" "H20"
-			(at 354.33 175.3616 0)
+		(property "Reference" "H_top_4"
+			(at 418.465 161.3916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11205,7 +10922,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 354.33 177.673 0)
+			(at 418.465 163.703 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11214,7 +10931,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 351.79 176.53 0)
+			(at 415.925 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11223,7 +10940,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 351.79 176.53 0)
+			(at 415.925 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11232,7 +10949,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 351.79 176.53 0)
+			(at 415.925 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11246,7 +10963,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H20")
+					(reference "H_top_4")
 					(unit 1)
 				)
 			)
@@ -11254,7 +10971,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 342.9 151.13 0)
+		(at 354.33 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11262,7 +10979,7 @@
 		(dnp no)
 		(uuid "d99a7e69-f323-442c-9344-5af7ea975b39")
 		(property "Reference" "H10"
-			(at 345.44 149.9616 0)
+			(at 356.87 132.1816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11271,7 +10988,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 345.44 152.273 0)
+			(at 356.87 134.493 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11280,7 +10997,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 342.9 151.13 0)
+			(at 354.33 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11289,7 +11006,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 342.9 151.13 0)
+			(at 354.33 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11298,7 +11015,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 342.9 151.13 0)
+			(at 354.33 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11320,7 +11037,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 316.23 142.24 0)
+		(at 327.66 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11328,7 +11045,7 @@
 		(dnp no)
 		(uuid "dfd19c1a-e659-426a-9e1a-1e2349182f94")
 		(property "Reference" "H6"
-			(at 318.77 141.0716 0)
+			(at 330.2 123.2916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11337,7 +11054,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 318.77 143.383 0)
+			(at 330.2 125.603 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11346,7 +11063,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 316.23 142.24 0)
+			(at 327.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11355,7 +11072,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 316.23 142.24 0)
+			(at 327.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11364,7 +11081,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 142.24 0)
+			(at 327.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11452,7 +11169,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 387.35 142.24 0)
+		(at 398.78 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11460,7 +11177,7 @@
 		(dnp no)
 		(uuid "e61aad3c-ce82-46e8-a5ab-e1176c7391b8")
 		(property "Reference" "H7"
-			(at 389.89 141.0716 0)
+			(at 401.32 123.2916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11469,7 +11186,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 389.89 143.383 0)
+			(at 401.32 125.603 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11478,7 +11195,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 387.35 142.24 0)
+			(at 398.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11487,7 +11204,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 387.35 142.24 0)
+			(at 398.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11496,7 +11213,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 387.35 142.24 0)
+			(at 398.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11754,15 +11471,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 334.01 170.18 0)
+		(at 326.39 173.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ed47c009-7ff3-418a-b853-68c5d4ff8993")
-		(property "Reference" "H15"
-			(at 336.55 169.0116 0)
+		(property "Reference" "H_top_5"
+			(at 328.93 172.1866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11771,7 +11488,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 336.55 171.323 0)
+			(at 328.93 174.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11780,7 +11497,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 334.01 170.18 0)
+			(at 326.39 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11789,7 +11506,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 334.01 170.18 0)
+			(at 326.39 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11798,7 +11515,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 334.01 170.18 0)
+			(at 326.39 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11812,7 +11529,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H15")
+					(reference "H_top_5")
 					(unit 1)
 				)
 			)
