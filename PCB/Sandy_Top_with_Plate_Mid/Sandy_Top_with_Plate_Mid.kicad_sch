@@ -318,203 +318,6 @@
 				)
 			)
 		)
-		(symbol "Connector_Generic:Conn_02x02_Row_Letter_Last"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 1.27 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_02x02_Row_Letter_Last"
-				(at 1.27 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, double row, 02x02, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_2x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_02x02_Row_Letter_Last_1_1"
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 1.27)
-					(end 3.81 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 3.81 -2.413)
-					(end 2.54 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 0.127)
-					(end 2.54 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1a"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1a"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "Pin_1b"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1b"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2a"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2a"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 3.81)
-					(name "Pin_2b"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2b"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector_Generic:Conn_02x04_Row_Letter_Last"
 			(pin_names
 				(offset 1.016) hide)
@@ -1675,12 +1478,6 @@
 		(uuid "608e4ce8-7f82-4e8a-9508-aa6442aa8160")
 	)
 	(junction
-		(at 170.18 274.955)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "64c826d7-adae-4a1b-930e-2650100f72cc")
-	)
-	(junction
 		(at 72.39 48.895)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1895,10 +1692,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff20a307-c605-4477-b2af-92c6b90c7bf6")
-	)
-	(no_connect
-		(at 150.495 125.095)
-		(uuid "328fe08a-72ee-4a2c-8bd6-e325479d309d")
 	)
 	(wire
 		(pts
@@ -3142,16 +2935,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.355 272.415) (xy 170.18 272.415)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c99a048c-b6e7-42a4-ae50-f49e56ecdc2b")
-	)
-	(wire
-		(pts
 			(xy 99.695 258.445) (xy 102.235 258.445)
 		)
 		(stroke
@@ -3199,16 +2982,6 @@
 			(type default)
 		)
 		(uuid "cda7e14b-45a2-4a14-920a-5ead59d47266")
-	)
-	(wire
-		(pts
-			(xy 173.355 274.955) (xy 170.18 274.955)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cec3cebd-8a88-4761-aca1-0696975e299c")
 	)
 	(wire
 		(pts
@@ -3369,16 +3142,6 @@
 			(type default)
 		)
 		(uuid "e6842724-4158-446c-8b73-d28480f2a038")
-	)
-	(wire
-		(pts
-			(xy 170.18 272.415) (xy 170.18 274.955)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e78127f1-482c-4b86-bd9d-855851d04b32")
 	)
 	(wire
 		(pts
@@ -3646,7 +3409,7 @@
 	)
 	(text "Mid to Top: require 12 pins ( = 4 row + 7 col + GND )"
 		(exclude_from_sim no)
-		(at 15.875 146.05 0)
+		(at 15.24 153.67 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -3874,6 +3637,69 @@
 			)
 		)
 	)
+	(global_label "Top_col0"
+		(shape input)
+		(at 219.075 114.935 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1ee33129-d9c4-44a0-bdb8-3b31124a5263")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.08 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 208.4051 114.8556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_GND"
+		(shape input)
+		(at 277.495 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1fba511a-a73d-4b2c-99d7-4e061e2f291a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 267.0603 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 277.495 126.2952 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col0"
 		(shape input)
 		(at 152.4 216.535 0)
@@ -3932,6 +3758,70 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_col3"
+		(shape input)
+		(at 249.555 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "272a0b79-b63a-4e25-8be4-d9d1d21fd2c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 238.8785 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 249.555 126.2952 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_GND"
+		(shape input)
+		(at 147.955 278.765 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "31b79538-4cf9-4d9a-9fc3-4bac82f883bb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.3897 278.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 147.955 280.6002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4051,37 +3941,6 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 57.3878 271.0656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Mid_GND"
-		(shape input)
-		(at 186.055 272.415 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39be8225-8357-4b84-a197-4fe5607cc462")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 196.4225 272.3356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4308,6 +4167,38 @@
 			)
 		)
 	)
+	(global_label "Top_GND"
+		(shape input)
+		(at 150.495 125.095 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "50fb9d74-6b19-4360-bdb9-d91a780cece0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.9297 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 150.495 126.9302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Top_col1"
 		(shape input)
 		(at 86.995 125.095 180)
@@ -4397,6 +4288,37 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_row0"
+		(shape input)
+		(at 219.075 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "681b7089-2781-45e8-a1d5-8f1c32251a36")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 12.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 208.0422 134.5406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4618,6 +4540,38 @@
 			)
 		)
 	)
+	(global_label "Top_row6"
+		(shape input)
+		(at 271.145 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "827e4aa3-9f93-4c7a-b209-d77c44f1d51d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 260.1056 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 271.145 141.5352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Top_col2"
 		(shape input)
 		(at 105.41 33.655 90)
@@ -4773,6 +4727,68 @@
 			)
 		)
 	)
+	(global_label "Top_row5"
+		(shape input)
+		(at 309.245 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9b1bcabf-ba5b-46d7-945e-566dbe392050")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.05 9.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 298.2122 134.5406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_col5"
+		(shape input)
+		(at 298.45 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bd218c7-daa7-4ea4-9e04-110a7703d5ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.655 -0.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 287.7801 124.3806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row8"
 		(shape input)
 		(at 180.34 216.535 180)
@@ -4804,6 +4820,37 @@
 			)
 		)
 	)
+	(global_label "Top_col4"
+		(shape input)
+		(at 272.415 114.935 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0d7a67a-e017-431f-a059-10eaa4d97f12")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.62 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 261.7451 114.8556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Top_row0"
 		(shape input)
 		(at 36.195 122.555 180)
@@ -4826,6 +4873,38 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 25.1622 122.4756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_col2"
+		(shape input)
+		(at 254.635 114.935 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a5378c75-c26b-4dc3-92f7-f33584fc741f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.9585 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 254.635 116.7702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4897,6 +4976,38 @@
 			)
 		)
 	)
+	(global_label "Top_col6"
+		(shape input)
+		(at 309.245 114.935 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9ab1f69-6644-4fb8-ae91-69cbfb4ffcb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 298.5685 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 309.245 116.7702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Top_col5"
 		(shape input)
 		(at 147.955 276.225 0)
@@ -4950,6 +5061,37 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 72.9384 258.3656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_col1"
+		(shape input)
+		(at 231.775 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b059da67-64ba-4f9d-a557-b4c9d75b976c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 144.78 -0.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 221.1051 124.3806 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5331,37 +5473,6 @@
 			)
 		)
 	)
-	(global_label "Top_col7"
-		(shape input)
-		(at 147.955 278.765 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d0ac88a8-a74c-4389-94d0-19d92d8d3e99")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 158.6249 278.6856 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "row7"
 		(shape input)
 		(at 129.54 216.535 180)
@@ -5672,37 +5783,6 @@
 			)
 		)
 	)
-	(global_label "Top_GND"
-		(shape input)
-		(at 186.055 274.955 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e41571d9-0f71-424d-86e7-50ea86173ac6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 196.483 274.8756 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Top_col0"
 		(shape input)
 		(at 97.155 271.145 0)
@@ -5827,9 +5907,41 @@
 			)
 		)
 	)
+	(global_label "Top_row1"
+		(shape input)
+		(at 255.905 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff3f9898-dbb5-4ed9-841d-ae2ee3ec4ee7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 244.8656 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 255.905 141.5352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 219.075 127 0)
+		(at 219.075 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5837,7 +5949,7 @@
 		(dnp no)
 		(uuid "0813e740-c84d-4af5-8118-fb61f96bdad3")
 		(property "Reference" "H5"
-			(at 221.615 125.8316 0)
+			(at 221.615 130.9116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5846,7 +5958,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 221.615 128.143 0)
+			(at 221.615 133.223 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5855,7 +5967,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 219.075 127 0)
+			(at 219.075 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5864,7 +5976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.075 127 0)
+			(at 219.075 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5873,7 +5985,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 219.075 127 0)
+			(at 219.075 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6095,80 +6207,6 @@
 			(project "Sandy_Top"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "EXT_TC4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_02x02_Row_Letter_Last")
-		(at 178.435 272.415 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1132d033-eb35-4c3d-9d03-8edc4327df96")
-		(property "Reference" "#J10"
-			(at 179.705 267.4452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_02x02_Row_Letter_Last"
-			(at 179.705 269.9821 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 178.435 272.415 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 178.435 272.415 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 178.435 272.415 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1a"
-			(uuid "f2b9c645-d37b-4c9f-b8e9-b946845ff658")
-		)
-		(pin "1b"
-			(uuid "b5ee053e-b018-4c5d-9b57-dde58f10ccae")
-		)
-		(pin "2a"
-			(uuid "8eee553f-4ef5-4f39-b734-429ff7268eb3")
-		)
-		(pin "2b"
-			(uuid "6292030f-241f-4f68-a379-3ee5516767a2")
-		)
-		(instances
-			(project "Sandy_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#J10")
 					(unit 1)
 				)
 			)
@@ -6432,7 +6470,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 254.635 115.57 0)
+		(at 254.635 112.395 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6440,7 +6478,7 @@
 		(dnp no)
 		(uuid "1ad52181-c67b-44ed-94ee-1b73d11d6dfd")
 		(property "Reference" "H2"
-			(at 257.175 114.4016 0)
+			(at 257.175 111.2266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6449,7 +6487,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 257.175 116.713 0)
+			(at 257.175 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6458,7 +6496,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 254.635 115.57 0)
+			(at 254.635 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6467,7 +6505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254.635 115.57 0)
+			(at 254.635 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6476,7 +6514,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254.635 115.57 0)
+			(at 254.635 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6661,7 +6699,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 272.415 115.57 0)
+		(at 272.415 112.395 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6669,7 +6707,7 @@
 		(dnp no)
 		(uuid "213867ec-2f9a-45d4-8200-66c4b9ad051a")
 		(property "Reference" "H3"
-			(at 274.955 114.4016 0)
+			(at 274.955 111.2266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6678,7 +6716,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 274.955 116.713 0)
+			(at 274.955 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6687,7 +6725,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 272.415 115.57 0)
+			(at 272.415 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6696,7 +6734,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 272.415 115.57 0)
+			(at 272.415 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6705,7 +6743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 272.415 115.57 0)
+			(at 272.415 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7673,7 +7711,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 309.245 127 0)
+		(at 309.245 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7681,7 +7719,7 @@
 		(dnp no)
 		(uuid "55a834be-42b7-4c35-bb7b-5f808b69c495")
 		(property "Reference" "H10"
-			(at 311.785 125.8316 0)
+			(at 311.785 130.9116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7690,7 +7728,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 311.785 128.143 0)
+			(at 311.785 133.223 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7699,7 +7737,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 309.245 127 0)
+			(at 309.245 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7708,7 +7746,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 309.245 127 0)
+			(at 309.245 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7717,7 +7755,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 309.245 127 0)
+			(at 309.245 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7892,7 +7930,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 257.175 132.08 0)
+		(at 255.905 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7900,7 +7938,7 @@
 		(dnp no)
 		(uuid "59ac3036-5047-4922-bc79-6741dfe16fb3")
 		(property "Reference" "H11"
-			(at 259.715 130.9116 0)
+			(at 260.35 135.9916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7909,7 +7947,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 259.715 133.223 0)
+			(at 260.35 138.303 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7918,7 +7956,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 257.175 132.08 0)
+			(at 255.905 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7927,7 +7965,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.175 132.08 0)
+			(at 255.905 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7936,7 +7974,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.175 132.08 0)
+			(at 255.905 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8108,7 +8146,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 219.075 115.57 0)
+		(at 219.075 112.395 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8116,7 +8154,7 @@
 		(dnp no)
 		(uuid "6565db0b-98f1-4c3d-9845-602b00a9ed84")
 		(property "Reference" "H1"
-			(at 221.615 114.4016 0)
+			(at 221.615 111.2266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8125,7 +8163,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 221.615 116.713 0)
+			(at 221.615 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8134,7 +8172,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 219.075 115.57 0)
+			(at 219.075 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8143,7 +8181,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.075 115.57 0)
+			(at 219.075 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8152,7 +8190,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 219.075 115.57 0)
+			(at 219.075 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9107,6 +9145,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 153.035 260.985 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94d9dcd8-0e2f-40b1-9ea8-09bdcb675bb6")
+		(property "Reference" "#PWR03"
+			(at 153.035 267.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 153.035 265.1181 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.035 260.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.035 260.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 153.035 260.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "662559b2-bd65-4cec-ab49-e96293a90891")
+		)
+		(instances
+			(project "Sandy_Top_with_Plate_Mid"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 231.14 52.705 90)
 		(unit 1)
@@ -9553,7 +9657,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 309.245 115.57 0)
+		(at 309.245 112.395 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9561,7 +9665,7 @@
 		(dnp no)
 		(uuid "a958ddb9-1c73-4448-9a4c-f931fc8b14eb")
 		(property "Reference" "H4"
-			(at 311.785 114.4016 0)
+			(at 311.785 111.2266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9570,7 +9674,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 311.785 116.713 0)
+			(at 311.785 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9579,7 +9683,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 309.245 115.57 0)
+			(at 309.245 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9692,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 309.245 115.57 0)
+			(at 309.245 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9597,7 +9701,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 309.245 115.57 0)
+			(at 309.245 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9708,72 +9812,6 @@
 			(project "Sandy_Top"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 170.18 274.955 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aec5d4ce-0145-4c53-8abb-31ba304217e5")
-		(property "Reference" "#PWR02"
-			(at 170.18 281.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.18 279.0881 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 274.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 274.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 274.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5d9429b4-3f38-4525-949c-60418d151d90")
-		)
-		(instances
-			(project ""
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -10445,7 +10483,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 269.24 132.08 0)
+		(at 271.145 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10453,7 +10491,7 @@
 		(dnp no)
 		(uuid "d21dec29-b9df-4d53-95c3-a2ca843f747b")
 		(property "Reference" "H12"
-			(at 271.78 130.9116 0)
+			(at 273.685 135.9916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10462,7 +10500,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 271.78 133.223 0)
+			(at 273.685 138.303 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10471,7 +10509,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 269.24 132.08 0)
+			(at 271.145 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10480,7 +10518,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 132.08 0)
+			(at 271.145 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10489,7 +10527,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 269.24 132.08 0)
+			(at 271.145 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
