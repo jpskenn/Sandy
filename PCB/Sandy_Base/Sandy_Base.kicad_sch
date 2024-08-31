@@ -18753,7 +18753,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 274.32 234.315 0)
+		(at 248.285 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18761,7 +18761,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b084c7")
 		(property "Reference" "H1"
-			(at 276.86 233.1466 0)
+			(at 250.825 232.5116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18770,7 +18770,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 276.86 235.458 0)
+			(at 250.825 234.823 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18779,7 +18779,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 274.32 234.315 0)
+			(at 248.285 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18788,7 +18788,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 274.32 234.315 0)
+			(at 248.285 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18797,7 +18797,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 274.32 234.315 0)
+			(at 248.285 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18816,7 +18816,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 274.32 239.395 0)
+		(at 266.065 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18824,7 +18824,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b084cd")
 		(property "Reference" "H2"
-			(at 276.86 238.2266 0)
+			(at 268.605 232.5116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18833,7 +18833,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 276.86 240.538 0)
+			(at 268.605 234.823 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18842,7 +18842,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 274.32 239.395 0)
+			(at 266.065 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18851,7 +18851,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 274.32 239.395 0)
+			(at 266.065 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18860,7 +18860,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 274.32 239.395 0)
+			(at 266.065 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18879,7 +18879,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 294.64 234.315 0)
+		(at 283.845 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18887,7 +18887,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b084d3")
 		(property "Reference" "H3"
-			(at 297.18 233.1466 0)
+			(at 286.385 232.5116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18896,7 +18896,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 297.18 235.458 0)
+			(at 286.385 234.823 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18905,7 +18905,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 294.64 234.315 0)
+			(at 283.845 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18914,7 +18914,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 294.64 234.315 0)
+			(at 283.845 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18923,7 +18923,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 294.64 234.315 0)
+			(at 283.845 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19668,7 +19668,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 294.64 239.395 0)
+		(at 301.625 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19676,7 +19676,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f24724")
 		(property "Reference" "H4"
-			(at 297.18 238.2266 0)
+			(at 304.165 232.5116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19685,7 +19685,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 297.18 240.538 0)
+			(at 304.165 234.823 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19694,7 +19694,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 294.64 239.395 0)
+			(at 301.625 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19703,7 +19703,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 294.64 239.395 0)
+			(at 301.625 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19712,7 +19712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 294.64 239.395 0)
+			(at 301.625 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20867,7 +20867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "082eab63-1d50-4cd6-92cd-cc44599ab572")
-		(property "Reference" "H5"
+		(property "Reference" "H9"
 			(at 204.47 254.1016 0)
 			(effects
 				(font
@@ -20918,7 +20918,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H5")
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -21923,7 +21923,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1fe031a1-e0e1-4eb8-b6be-2e8de072aace")
-		(property "Reference" "H6"
+		(property "Reference" "H10"
 			(at 222.25 254.1016 0)
 			(effects
 				(font
@@ -21974,7 +21974,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H6")
+					(reference "H10")
 					(unit 1)
 				)
 			)
@@ -22065,7 +22065,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21f0be1d-b94c-456c-9610-b79b26fd5501")
-		(property "Reference" "H7"
+		(property "Reference" "H11"
 			(at 240.03 254.1016 0)
 			(effects
 				(font
@@ -22116,7 +22116,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H7")
+					(reference "H11")
 					(unit 1)
 				)
 			)
@@ -22217,7 +22217,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "243304bd-3d66-4b80-904e-d5b11f231f1e")
-		(property "Reference" "H11"
+		(property "Reference" "H15"
 			(at 219.075 262.3566 0)
 			(effects
 				(font
@@ -22268,7 +22268,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H11")
+					(reference "H15")
 					(unit 1)
 				)
 			)
@@ -22642,7 +22642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "368c3a7f-02fc-425c-bda7-e8565b2a72b0")
-		(property "Reference" "H13"
+		(property "Reference" "H17"
 			(at 264.16 262.3566 0)
 			(effects
 				(font
@@ -22693,7 +22693,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H13")
+					(reference "H17")
 					(unit 1)
 				)
 			)
@@ -23090,6 +23090,69 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 266.065 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "425da99e-8037-4ea9-94a2-f9354cb5e32f")
+		(property "Reference" "H6"
+			(at 268.605 237.5916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 268.605 239.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 266.065 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.065 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 266.065 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
 		(at 293.37 77.47 0)
 		(unit 1)
@@ -23297,6 +23360,69 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 301.625 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "488ed0aa-702f-4d28-bc67-d3f085bc3341")
+		(property "Reference" "H8"
+			(at 304.165 237.5916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 304.165 239.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 301.625 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 301.625 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 301.625 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -24705,7 +24831,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "603b57cc-4c5f-41f2-96ed-06493a03e140")
-		(property "Reference" "H15"
+		(property "Reference" "H19"
 			(at 204.47 269.9766 0)
 			(effects
 				(font
@@ -24756,7 +24882,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H15")
+					(reference "H19")
 					(unit 1)
 				)
 			)
@@ -24845,7 +24971,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62222b9e-afb4-466c-8547-94e9967413c8")
-		(property "Reference" "H17"
+		(property "Reference" "H21"
 			(at 268.605 269.9766 0)
 			(effects
 				(font
@@ -24896,7 +25022,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H17")
+					(reference "H21")
 					(unit 1)
 				)
 			)
@@ -25500,7 +25626,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "71961194-a5ba-4fe9-a0b1-836107abf69c")
-		(property "Reference" "H10"
+		(property "Reference" "H14"
 			(at 293.37 254.1016 0)
 			(effects
 				(font
@@ -25551,7 +25677,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H10")
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -26211,7 +26337,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86f5933c-bad6-47c8-acbb-faaf715f9665")
-		(property "Reference" "H16"
+		(property "Reference" "H20"
 			(at 227.965 269.9766 0)
 			(effects
 				(font
@@ -26262,7 +26388,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H16")
+					(reference "H20")
 					(unit 1)
 				)
 			)
@@ -26403,6 +26529,69 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 248.285 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "88c8bac8-6f95-4e92-98af-290f62a2b538")
+		(property "Reference" "H5"
+			(at 250.825 237.5916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 250.825 239.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 248.285 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.285 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 248.285 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 176.53 177.8 0)
 		(unit 1)
@@ -26478,7 +26667,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a98323f-a98f-4080-a100-256e2b015549")
-		(property "Reference" "H14"
+		(property "Reference" "H18"
 			(at 279.4 262.3566 0)
 			(effects
 				(font
@@ -26529,7 +26718,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H14")
+					(reference "H18")
 					(unit 1)
 				)
 			)
@@ -26981,7 +27170,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b489c59-1fe3-4ebb-b7cb-2255aa7fc069")
-		(property "Reference" "H19"
+		(property "Reference" "H23"
 			(at 240.03 277.5966 0)
 			(effects
 				(font
@@ -27032,7 +27221,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H19")
+					(reference "H23")
 					(unit 1)
 				)
 			)
@@ -27114,7 +27303,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a21c0f7b-5e4e-4e45-9a55-639ae8f55007")
-		(property "Reference" "H18"
+		(property "Reference" "H22"
 			(at 293.37 269.9766 0)
 			(effects
 				(font
@@ -27165,7 +27354,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H18")
+					(reference "H22")
 					(unit 1)
 				)
 			)
@@ -28681,7 +28870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d302c175-bdbe-4806-904b-2ef7b3261bb9")
-		(property "Reference" "H20"
+		(property "Reference" "H24"
 			(at 257.81 277.5966 0)
 			(effects
 				(font
@@ -28732,7 +28921,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H20")
+					(reference "H24")
 					(unit 1)
 				)
 			)
@@ -29034,7 +29223,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3342c26-b82e-4b51-8d80-e2672d1b61d2")
-		(property "Reference" "H9"
+		(property "Reference" "H13"
 			(at 275.59 254.1016 0)
 			(effects
 				(font
@@ -29085,7 +29274,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H9")
+					(reference "H13")
 					(unit 1)
 				)
 			)
@@ -29589,7 +29778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec18aed7-adad-4151-92a7-2a6f57e05a20")
-		(property "Reference" "H8"
+		(property "Reference" "H12"
 			(at 257.81 254.1016 0)
 			(effects
 				(font
@@ -29640,7 +29829,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H8")
+					(reference "H12")
 					(unit 1)
 				)
 			)
@@ -29717,6 +29906,69 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 283.845 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ecb0a6c9-e36b-4ce2-bfcd-dbf2bb12bc34")
+		(property "Reference" "H7"
+			(at 286.385 237.5916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 286.385 239.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 283.845 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.845 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 283.845 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -30279,7 +30531,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc4f3aaa-12bb-49fa-a729-0c46882a849b")
-		(property "Reference" "H12"
+		(property "Reference" "H16"
 			(at 232.41 262.3566 0)
 			(effects
 				(font
@@ -30330,7 +30582,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H12")
+					(reference "H16")
 					(unit 1)
 				)
 			)
