@@ -1717,6 +1717,18 @@
 		(color 0 0 0 0)
 		(uuid "ff20a307-c605-4477-b2af-92c6b90c7bf6")
 	)
+	(no_connect
+		(at 191.77 137.795)
+		(uuid "10985779-e8ca-4d1f-b6b2-d8d5c512184d")
+	)
+	(no_connect
+		(at 191.77 140.335)
+		(uuid "4b23c31a-c888-4d9b-b223-431f260042f6")
+	)
+	(no_connect
+		(at 179.07 140.335)
+		(uuid "ce28921d-f9b5-40cd-b81b-60dc3dbd19b0")
+	)
 	(wire
 		(pts
 			(xy 132.08 216.535) (xy 134.62 216.535)
@@ -3481,7 +3493,17 @@
 		)
 		(uuid "d8ccd095-757b-496d-9edf-b5613ed34dd9")
 	)
-	(text "Mid to Top: require 12 pins ( = 4 row + 7 col + GND )"
+	(text "4個目のコネクタは実際に配置していないのでダミー"
+		(exclude_from_sim no)
+		(at 186.055 130.175 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dd780760-6855-475c-a611-924ba077c7da")
+	)
+	(text "Mid to Top: require 13 pins ( = 5 row + 7 col + GND )"
 		(exclude_from_sim no)
 		(at 15.24 153.67 0)
 		(effects
@@ -5601,6 +5623,38 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 122.7406 216.4556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_row2"
+		(shape input)
+		(at 179.07 137.795 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d1873a1e-c47d-4dda-8b51-c66621289eb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.0306 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 179.07 139.6302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11763,6 +11817,89 @@
 			(project "Sandy_Top"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "SW_4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
+		(at 184.15 137.795 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebfed99a-93a4-4659-b618-e3b8c1d7c3ff")
+		(property "Reference" "#J99"
+			(at 185.42 132.3805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x02_Top_Bottom"
+			(at 185.42 134.8048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin"
+			(at 184.15 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C371510"
+			(at 184.15 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83d827e6-cf6f-4a50-b0be-726370ff2f93")
+		)
+		(pin "2"
+			(uuid "158cee26-26c6-4e81-a1ae-2953e106b108")
+		)
+		(pin "3"
+			(uuid "5d15d2f2-0de3-4814-a85f-a5e0b90fac91")
+		)
+		(pin "4"
+			(uuid "160ed8be-3933-43e4-82c6-56726a258292")
+		)
+		(instances
+			(project "Sandy_Top_with_Plate_Mid"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#J99")
 					(unit 1)
 				)
 			)
