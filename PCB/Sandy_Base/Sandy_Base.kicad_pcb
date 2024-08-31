@@ -222,21 +222,13 @@
 	(net 102 "unconnected-(H14-Pad1)")
 	(net 103 "unconnected-(H15-Pad1)")
 	(net 104 "unconnected-(H16-Pad1)")
-	(net 105 "unconnected-(H17-Pad1)")
-	(net 106 "unconnected-(H18-Pad1)")
-	(net 107 "unconnected-(H19-Pad1)")
-	(net 108 "unconnected-(H20-Pad1)")
-	(net 109 "Net-(#J7-Pin_4a)")
-	(net 110 "Net-(#J5-Pin_4a)")
-	(net 111 "unconnected-(H9-Pad1)")
-	(net 112 "unconnected-(H8-Pad1)")
-	(net 113 "unconnected-(H7-Pad1)")
-	(net 114 "unconnected-(H6-Pad1)")
-	(net 115 "unconnected-(H5-Pad1)")
-	(net 116 "unconnected-(H21-Pad1)")
-	(net 117 "unconnected-(H22-Pad1)")
-	(net 118 "unconnected-(H23-Pad1)")
-	(net 119 "unconnected-(H24-Pad1)")
+	(net 105 "Net-(#J7-Pin_4a)")
+	(net 106 "Net-(#J5-Pin_4a)")
+	(net 107 "unconnected-(H9-Pad1)")
+	(net 108 "unconnected-(H8-Pad1)")
+	(net 109 "unconnected-(H7-Pad1)")
+	(net 110 "unconnected-(H6-Pad1)")
+	(net 111 "unconnected-(H5-Pad1)")
 	(footprint "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000604df6f2")
@@ -16836,7 +16828,7 @@
 			(size 0.6 1.55)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 110 "Net-(#J5-Pin_4a)")
+			(net 106 "Net-(#J5-Pin_4a)")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "65530aaf-ffe8-416d-a906-fdf31b4486b5")
@@ -16847,7 +16839,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 110 "Net-(#J5-Pin_4a)")
+			(net 106 "Net-(#J5-Pin_4a)")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "cd0087a1-28dc-43b1-900a-f985ac5954ef")
@@ -23063,7 +23055,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 114 "unconnected-(H6-Pad1)")
+			(net 110 "unconnected-(H6-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "fa418747-80d4-4a2a-b0d7-9d2530a6bff0")
@@ -24032,7 +24024,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 115 "unconnected-(H5-Pad1)")
+			(net 111 "unconnected-(H5-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "2fb8b2cc-c6a8-4abd-9476-46fe2fe6ac16")
@@ -33170,7 +33162,7 @@
 		)
 		(fp_arc
 			(start 44.626167 18.880416)
-			(mid 45.182656 17.536891)
+			(mid 45.182644 17.536891)
 			(end 46.526167 16.980416)
 			(stroke
 				(width 0.12)
@@ -33302,7 +33294,7 @@
 		)
 		(fp_arc
 			(start 51.326167 18.880416)
-			(mid 50.769662 20.223897)
+			(mid 50.769668 20.223932)
 			(end 49.426167 20.780416)
 			(stroke
 				(width 0.12)
@@ -35890,7 +35882,7 @@
 		)
 		(fp_arc
 			(start 27.975 -8.360826)
-			(mid 28.56078 -9.775044)
+			(mid 28.560782 -9.775045)
 			(end 29.975 -10.360826)
 			(stroke
 				(width 0.3)
@@ -35901,7 +35893,7 @@
 		)
 		(fp_arc
 			(start 27.975 6.770746)
-			(mid 27.38922 8.184964)
+			(mid 27.389218 8.184965)
 			(end 25.975 8.770746)
 			(stroke
 				(width 0.3)
@@ -35923,7 +35915,7 @@
 		)
 		(fp_arc
 			(start 37.475 -12.370826)
-			(mid 36.889206 -10.956621)
+			(mid 36.88921 -10.956614)
 			(end 35.475 -10.370826)
 			(stroke
 				(width 0.3)
@@ -37193,7 +37185,7 @@
 		)
 		(fp_arc
 			(start 112.175001 -36.724998)
-			(mid 112.12484 -37.375065)
+			(mid 112.124891 -37.375108)
 			(end 112.774999 -37.424996)
 			(stroke
 				(width 0.15)
@@ -37226,7 +37218,7 @@
 		)
 		(fp_arc
 			(start 114.574999 -35.624996)
-			(mid 114.624839 -34.975067)
+			(mid 114.624889 -34.97511)
 			(end 113.975001 -34.924998)
 			(stroke
 				(width 0.15)
@@ -37281,7 +37273,7 @@
 		)
 		(fp_arc
 			(start 120.425001 -41.325001)
-			(mid 120.374842 -41.975064)
+			(mid 120.374893 -41.975106)
 			(end 121.024999 -42.024999)
 			(stroke
 				(width 0.15)
@@ -37314,7 +37306,7 @@
 		)
 		(fp_arc
 			(start 122.824999 -40.224999)
-			(mid 122.87484 -39.575066)
+			(mid 122.874891 -39.575108)
 			(end 122.225001 -39.525001)
 			(stroke
 				(width 0.15)
@@ -39755,7 +39747,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 111 "unconnected-(H9-Pad1)")
+			(net 107 "unconnected-(H9-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "7336d0a2-4fbb-4818-9d24-af2dbf8e331f")
@@ -47709,7 +47701,7 @@
 		)
 		(fp_arc
 			(start 14.2875 -1.190583)
-			(mid 13.590051 0.493216)
+			(mid 13.590046 0.49321)
 			(end 11.90625 1.190667)
 			(stroke
 				(width 0.15)
@@ -51005,7 +50997,7 @@
 			(size 0.6 1.55)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 109 "Net-(#J7-Pin_4a)")
+			(net 105 "Net-(#J7-Pin_4a)")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "0a8902b3-d009-4109-9c81-b4164262b310")
@@ -51016,7 +51008,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 109 "Net-(#J7-Pin_4a)")
+			(net 105 "Net-(#J7-Pin_4a)")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "8264d942-450e-4229-8ba1-09f656acf0d0")
@@ -54295,7 +54287,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 113 "unconnected-(H7-Pad1)")
+			(net 109 "unconnected-(H7-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "5c230c91-3fa5-43ab-96c8-95a297acced6")
@@ -55048,7 +55040,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 112 "unconnected-(H8-Pad1)")
+			(net 108 "unconnected-(H8-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "b65d8778-08b1-4607-9d42-dc6d47df5333")
@@ -58221,7 +58213,7 @@
 		(at 298.47406 20.554655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H14"
+		(property "Reference" "H_mid_6"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -58341,7 +58333,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 102 "unconnected-(H14-Pad1)")
+			(net 62 "col6")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "39fe479c-2bb6-41b4-9555-481e8245dc70")
@@ -59954,7 +59946,7 @@
 		(at 92.495935 32.96353 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H16"
+		(property "Reference" "H_mid_8"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -60074,7 +60066,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 104 "unconnected-(H16-Pad1)")
+			(net 27 "col2")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "8823c3e2-dc38-4c5a-b6e0-bf72befd2b63")
@@ -61367,7 +61359,7 @@
 		(at 244.895935 20.554655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H13"
+		(property "Reference" "H_mid_5"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -61484,7 +61476,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 101 "unconnected-(H13-Pad1)")
+			(net 37 "row6")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "2c5694d2-b5a0-495e-8ae0-3dedc0b11ce2")
@@ -66997,7 +66989,7 @@
 		(at 19.872407 20.561655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H9"
+		(property "Reference" "H_mid_1"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -67114,7 +67106,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 111 "unconnected-(H9-Pad1)")
+			(net 7 "col0")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "cb939c8a-e682-4526-bdb9-18754619fe16")
@@ -68205,7 +68197,7 @@
 		(at 60.34906 35.485405 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H15"
+		(property "Reference" "H_mid_7"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -68325,7 +68317,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 103 "unconnected-(H15-Pad1)")
+			(net 21 "col1")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "f94b7513-7d88-42ba-8c5a-f32b7bbf1287")
@@ -70990,7 +70982,7 @@
 		(at 130.600532 20.561655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H11"
+		(property "Reference" "H_mid_3"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -71107,7 +71099,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 99 "unconnected-(H11-Pad1)")
+			(net 44 "col3")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "ba3e20d0-01f1-4acc-a6b7-14f81223b42d")
@@ -72370,7 +72362,7 @@
 		(at 73.450532 20.561655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H10"
+		(property "Reference" "H_mid_2"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -72487,7 +72479,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 98 "unconnected-(H10-Pad1)")
+			(net 36 "row1")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "a7f77d45-ead2-4e0a-a9d1-d095dc373b90")
@@ -72499,7 +72491,7 @@
 		(at 187.745934 52.053405 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H21"
+		(property "Reference" "H_mid_13"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -72616,7 +72608,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 116 "unconnected-(H21-Pad1)")
+			(net 39 "row7")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "92a90b73-23de-4717-99a5-db3526809657")
@@ -73214,7 +73206,7 @@
 		(at 225.845935 33.097155 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H17"
+		(property "Reference" "H_mid_9"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -73334,7 +73326,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 105 "unconnected-(H17-Pad1)")
+			(net 61 "col5")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "c2eea551-7f5d-46f5-b85a-0f1d14b5ce92")
@@ -77338,7 +77330,7 @@
 		(at 134.16781 74.628405 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H23"
+		(property "Reference" "H_mid_15"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -77455,7 +77447,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 118 "unconnected-(H23-Pad1)")
+			(net 56 "row3")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "9c01cef5-e0de-458a-bc1f-619f59fab6d5")
@@ -77467,7 +77459,7 @@
 		(at 187.745935 20.554655)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H12"
+		(property "Reference" "H_mid_4"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -77584,7 +77576,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 100 "unconnected-(H12-Pad1)")
+			(net 57 "col4")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "2cd55dcf-bca1-48ee-a7a7-4b643589f61c")
@@ -77709,7 +77701,7 @@
 		(at 257.99281 35.485405 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H18"
+		(property "Reference" "H_mid_10"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -77829,7 +77821,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 106 "unconnected-(H18-Pad1)")
+			(net 65 "row5")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "ef41da86-828b-4cc4-9ca9-7786eef74521")
@@ -77841,7 +77833,7 @@
 		(at 130.595934 52.00653 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H20"
+		(property "Reference" "H_mid_12"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -77958,7 +77950,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 108 "unconnected-(H20-Pad1)")
+			(net 41 "row2")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "065234e0-d270-47b0-8c80-77c12e86e96d")
@@ -80077,7 +80069,7 @@
 		(at 19.86781 52.00653 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H19"
+		(property "Reference" "H_mid_11"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -80194,7 +80186,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 107 "unconnected-(H19-Pad1)")
+			(net 64 "row0")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "4aa6d615-6a20-4dbd-ae00-4ad3d3d8d01a")
@@ -92521,7 +92513,7 @@
 		(at 298.47406 52.022905 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H22"
+		(property "Reference" "H_mid_14"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -92638,7 +92630,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 117 "unconnected-(H22-Pad1)")
+			(net 67 "GND")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "013fc907-015b-498c-b59d-2b6f2ef6c374")
@@ -92650,7 +92642,7 @@
 		(at 184.17406 74.628405 180)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H24"
+		(property "Reference" "H_mid_16"
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -92767,7 +92759,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 119 "unconnected-(H24-Pad1)")
+			(net 51 "row8")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "f3df7c08-0de6-4a1a-8b39-1926b5e29ead")
