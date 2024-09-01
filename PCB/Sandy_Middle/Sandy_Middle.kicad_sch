@@ -7444,7 +7444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side1-guide"
 			(at 257.81 69.85 0)
 			(effects
 				(font
