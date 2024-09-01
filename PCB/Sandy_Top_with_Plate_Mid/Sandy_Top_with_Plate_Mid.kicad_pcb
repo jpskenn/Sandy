@@ -78,7 +78,7 @@
 		(pad_to_mask_clearance 0.2)
 		(allow_soldermask_bridges_in_footprints no)
 		(aux_axis_origin 15.10531 17.478405)
-		(grid_origin 136.16781 33.003405)
+		(grid_origin 15.10531 17.478405)
 		(pcbplotparams
 			(layerselection 0x00310fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -5086,7 +5086,7 @@
 		)
 		(fp_arc
 			(start 93.875 -20.001612)
-			(mid 95.289182 -19.41582)
+			(mid 95.289189 -19.415797)
 			(end 95.875 -18.001612)
 			(stroke
 				(width 0.3)
@@ -22651,7 +22651,7 @@
 	(footprint "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin"
 		(layer "B.Cu")
 		(uuid "c2a39297-1a76-4cf7-a51f-70ef7447724c")
-		(at 117.11781 33.003405 -90)
+		(at 122.26156 32.95653 -90)
 		(descr "JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH top entry")
 		(property "Reference" "J3"
@@ -25549,7 +25549,7 @@
 		)
 	)
 	(gr_text "Top 3"
-		(at 119.49906 37.878405 0)
+		(at 124.64281 37.83153 0)
 		(layer "B.SilkS" knockout)
 		(uuid "85ba7f45-b4d6-4b6a-a54a-638296d5d248")
 		(effects
@@ -25766,7 +25766,7 @@
 		)
 	)
 	(gr_text "to Base"
-		(at 123.452185 32.95653 90)
+		(at 128.595935 32.909655 90)
 		(layer "Eco2.User")
 		(uuid "cdeea5b9-7fc5-4a39-90ac-76ad54d89fd0")
 		(effects
