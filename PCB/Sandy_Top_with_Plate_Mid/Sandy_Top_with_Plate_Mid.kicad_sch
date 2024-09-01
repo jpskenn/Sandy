@@ -7132,7 +7132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side3-guide"
 			(at 77.47 39.37 0)
 			(effects
 				(font
@@ -7429,7 +7429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side1-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side3-guide"
 			(at 143.51 39.37 0)
 			(effects
 				(font
@@ -7925,7 +7925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side1-guide"
 			(at 259.08 39.37 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side3-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
 			(at 209.55 39.37 0)
 			(effects
 				(font
@@ -8278,7 +8278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side2-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -10167,7 +10167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side3-guide"
 			(at 242.57 39.37 0)
 			(effects
 				(font
@@ -11780,7 +11780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side1-guide"
 			(at 110.49 39.37 0)
 			(effects
 				(font
@@ -12490,7 +12490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-screw-hole-side2-guide"
 			(at 176.53 39.37 0)
 			(effects
 				(font
