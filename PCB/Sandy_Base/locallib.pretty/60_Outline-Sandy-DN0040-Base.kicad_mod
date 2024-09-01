@@ -13366,6 +13366,7 @@
 		(drill 2.4994)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 1.5)
 		(uuid "45485c90-b87b-4a77-af29-71ca11134ce2")
 	)
 	(pad "1" thru_hole circle
@@ -13452,8 +13453,9 @@
 		(at 117.525 -38.47504)
 		(size 7.4 4.6)
 		(drill oval 5.2 2.4)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 1.7)
 		(uuid "320e8943-cd9c-4e81-b2f3-e85f4faf6b51")
 	)
 	(pad "1" thru_hole circle
