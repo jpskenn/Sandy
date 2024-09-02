@@ -29570,6 +29570,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C78284"
+			(at 291.465 180.975 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "473f5774-cd21-4f0f-87b7-0883a996eb3e")
 		)
