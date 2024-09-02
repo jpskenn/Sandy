@@ -1406,6 +1406,12 @@
 		(uuid "19b3be11-2574-4715-8da2-0acb6c1e7975")
 	)
 	(junction
+		(at 171.45 93.345)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ecc7f3e-6e3d-4c13-bd49-5d936b323ed2")
+	)
+	(junction
 		(at 98.425 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1458,12 +1464,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3fb58534-bbac-40b4-8886-d14d2c114312")
-	)
-	(junction
-		(at 161.29 100.965)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4631dec2-fccd-4494-a683-f8a73afb110c")
 	)
 	(junction
 		(at 148.59 53.34)
@@ -1554,12 +1554,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8695e34d-a7ad-4747-a538-9349f53b8808")
-	)
-	(junction
-		(at 171.45 93.345)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "884da364-b029-47fa-8445-d2341d3e6cc0")
 	)
 	(junction
 		(at 154.94 44.45)
@@ -1698,6 +1692,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e33e9505-9455-43f8-93b5-9938930a94de")
+	)
+	(junction
+		(at 181.61 100.965)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eaee8e14-1fb5-49a9-83e9-7326dd41b305")
 	)
 	(junction
 		(at 48.26 208.28)
@@ -2161,16 +2161,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 100.965) (xy 271.78 100.965)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57a6ad8a-fc5a-4f8a-837a-c858ea9c179f")
-	)
-	(wire
-		(pts
 			(xy 90.805 255.27) (xy 88.265 255.27)
 		)
 		(stroke
@@ -2218,16 +2208,6 @@
 			(type default)
 		)
 		(uuid "5eeb034f-0b54-4a75-88ff-fcf3538c9f6e")
-	)
-	(wire
-		(pts
-			(xy 171.45 69.215) (xy 171.45 93.345)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fbd47ac-65fb-45eb-bf82-9771a9db0d46")
 	)
 	(wire
 		(pts
@@ -2558,6 +2538,16 @@
 			(type default)
 		)
 		(uuid "907ee3f4-068e-4697-887e-669750904bb3")
+	)
+	(wire
+		(pts
+			(xy 171.45 93.345) (xy 171.45 107.315)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90968a16-f558-4d02-af88-3ceb67e432bf")
 	)
 	(wire
 		(pts
@@ -3071,7 +3061,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.965) (xy 161.29 100.965)
+			(xy 148.59 100.965) (xy 181.61 100.965)
 		)
 		(stroke
 			(width 0)
@@ -3171,6 +3161,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 100.965) (xy 271.78 100.965)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e11c582d-4374-4db3-b49c-2c4e7f4b4bd7")
+	)
+	(wire
+		(pts
 			(xy 39.37 33.02) (xy 39.37 44.45)
 		)
 		(stroke
@@ -3211,7 +3211,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 93.345) (xy 171.45 107.315)
+			(xy 171.45 69.215) (xy 171.45 93.345)
 		)
 		(stroke
 			(width 0)
@@ -6429,7 +6429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 171.45 112.395 0)
 			(effects
 				(font
@@ -7144,7 +7144,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 93.345 0)
+		(at 176.53 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7152,7 +7152,7 @@
 		(dnp no)
 		(uuid "271fec16-82a6-4c14-9dc9-35edda4471c0")
 		(property "Reference" "SW_'1"
-			(at 166.37 86.106 0)
+			(at 176.53 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7160,7 +7160,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 88.4174 0)
+			(at 176.53 88.4174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7168,7 +7168,7 @@
 			)
 		)
 		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
-			(at 166.37 88.265 0)
+			(at 176.53 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7177,7 +7177,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 88.265 0)
+			(at 176.53 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7186,7 +7186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 93.345 0)
+			(at 176.53 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7399,7 +7399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 237.49 112.395 0)
 			(effects
 				(font
@@ -7465,7 +7465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 39.37 112.395 0)
 			(effects
 				(font
@@ -8689,7 +8689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 276.86 53.34 0)
 			(effects
 				(font
@@ -8755,7 +8755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 276.86 100.965 0)
 			(effects
 				(font
@@ -8821,7 +8821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 276.86 55.88 0)
 			(effects
 				(font
@@ -9769,7 +9769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 204.47 112.395 0)
 			(effects
 				(font
@@ -10017,7 +10017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 105.41 112.395 0)
 			(effects
 				(font
@@ -10424,7 +10424,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 161.29 97.155 90)
+		(at 181.61 97.155 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10432,7 +10432,7 @@
 		(dnp no)
 		(uuid "aa54af66-8099-45a5-88d6-63a8a8e85085")
 		(property "Reference" "D20"
-			(at 163.322 95.9866 90)
+			(at 183.642 95.9866 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10441,7 +10441,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 163.322 98.298 90)
+			(at 183.642 98.298 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10450,7 +10450,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line"
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10459,7 +10459,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10468,7 +10468,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10477,7 +10477,7 @@
 			)
 		)
 		(property "LCSC" "C81598"
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10486,7 +10486,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10495,7 +10495,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 161.29 97.155 0)
+			(at 181.61 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11899,7 +11899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 276.86 80.645 0)
 			(effects
 				(font
@@ -12307,7 +12307,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 138.43 112.395 0)
 			(effects
 				(font
@@ -12373,7 +12373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 276.86 78.105 0)
 			(effects
 				(font
@@ -12535,7 +12535,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 72.39 112.395 0)
 			(effects
 				(font
