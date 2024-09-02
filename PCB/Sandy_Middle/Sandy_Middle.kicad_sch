@@ -7892,7 +7892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin"
+		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin_courtyard"
 			(at 168.275 175.26 0)
 			(effects
 				(font
@@ -8193,7 +8193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin"
+		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin_courtyard"
 			(at 125.095 175.26 0)
 			(effects
 				(font
@@ -10175,7 +10175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin"
+		(property "Footprint" "locallib:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_wCable_housing_spare_pin_courtyard"
 			(at 81.915 175.26 0)
 			(effects
 				(font
