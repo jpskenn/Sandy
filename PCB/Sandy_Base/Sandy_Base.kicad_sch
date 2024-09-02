@@ -19675,7 +19675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 59.69 0)
 			(effects
 				(font
@@ -19741,7 +19741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 62.23 0)
 			(effects
 				(font
@@ -19807,7 +19807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 91.44 0)
 			(effects
 				(font
@@ -19873,7 +19873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 93.98 0)
 			(effects
 				(font
@@ -20128,7 +20128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 123.19 0)
 			(effects
 				(font
@@ -20194,7 +20194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 125.73 0)
 			(effects
 				(font
@@ -20260,7 +20260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 154.94 0)
 			(effects
 				(font
@@ -20326,7 +20326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 157.48 0)
 			(effects
 				(font
@@ -20392,7 +20392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 186.69 0)
 			(effects
 				(font
@@ -20458,7 +20458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.905 189.23 0)
 			(effects
 				(font
@@ -20524,7 +20524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 22.86 196.85 0)
 			(effects
 				(font
@@ -20590,7 +20590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 55.88 196.85 0)
 			(effects
 				(font
@@ -20656,7 +20656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 88.9 196.85 0)
 			(effects
 				(font
@@ -20722,7 +20722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 121.92 196.85 0)
 			(effects
 				(font
@@ -20788,7 +20788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 154.94 196.85 0)
 			(effects
 				(font
@@ -20917,7 +20917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 187.96 196.85 0)
 			(effects
 				(font
@@ -20983,7 +20983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 220.98 196.85 0)
 			(effects
 				(font
@@ -25513,7 +25513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 360.68 22.86 0)
 			(effects
 				(font
