@@ -348,7 +348,7 @@
 	)
 	(fp_line
 		(start 4.572 -6.35)
-		(end 7.112 -6.35)
+		(end 6.817 -6.35)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -367,7 +367,27 @@
 		(uuid "64fe9b75-5de0-4390-827f-9feeb07e05e2")
 	)
 	(fp_line
-		(start 7.112 -6.35)
+		(start 6.817 -5.705)
+		(end 6.817 -6.35)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.CrtYd")
+		(uuid "8c67e41c-deb5-487e-a98c-ec2bbfd069b3")
+	)
+	(fp_line
+		(start 7.112 -4.83)
+		(end 6.817 -5.705)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.CrtYd")
+		(uuid "6114b721-6464-46ec-9a72-553a9b0c3a7e")
+	)
+	(fp_line
+		(start 7.112 -4.83)
 		(end 7.112 -3.81)
 		(stroke
 			(width 0.15)
@@ -473,13 +493,13 @@
 		(primitives
 			(gr_poly
 				(pts
-					(xy -1.25 -1.25) (xy 1 -1.25) (xy 1 -0.75) (xy 1.25 -0.2) (xy 1.25 1.25) (xy -1.25 1.25)
+					(xy -1.25 -1.25) (xy 0.95 -1.25) (xy 0.95 -0.65) (xy 1.25 0.25) (xy 1.25 1.25) (xy -1.25 1.25)
 				)
 				(width 0.12)
 				(fill yes)
 			)
 		)
-		(uuid "9bd9a6cb-104b-462e-82b2-38d78412ca13")
+		(uuid "f6b8631e-9c92-49bd-8ab2-de5291e89ebd")
 	)
 	(model "${KIPRJMOD}/locallib.pretty/mx-switch.step"
 		(offset

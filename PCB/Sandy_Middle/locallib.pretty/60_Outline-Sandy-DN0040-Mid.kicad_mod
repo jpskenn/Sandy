@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 40.48125 0)
+		(at 0 4.25 0)
 		(layer "Edge.Cuts")
 		(hide yes)
 		(uuid "0ea41dd6-08ee-409f-9bca-32fe9348bdb7")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "60_Outline"
-		(at 0 38.98125 0)
+		(at 0 2.25 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "17d27e07-358c-4793-97a2-7530cbec240e")
