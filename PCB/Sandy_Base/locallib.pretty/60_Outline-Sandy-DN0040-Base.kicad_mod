@@ -11232,36 +11232,6 @@
 		(uuid "2773971f-08ad-4d4c-ad4c-0560f7ce4c40")
 	)
 	(fp_line
-		(start -49.925001 -61.689261)
-		(end -49.925001 -64.375041)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "c8d76c2f-cf59-420a-9634-e0ce6c64a90f")
-	)
-	(fp_line
-		(start -47.925001 -59.689261)
-		(end -46.925 -59.689261)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "5cfaaaa7-8e9f-47ee-9ec9-0a242c6d2123")
-	)
-	(fp_line
-		(start -44.925 -64.37504)
-		(end -44.925 -61.689261)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "2bf45616-c932-42d4-afdd-9612fd893e5d")
-	)
-	(fp_line
 		(start -37.475 -12.30004)
 		(end -37.475 -27.37504)
 		(stroke
@@ -11343,43 +11313,13 @@
 	)
 	(fp_line
 		(start 43.375 -66.37504)
-		(end -42.925 -66.37504)
+		(end -51.925001 -66.375041)
 		(stroke
 			(width 0.3)
 			(type solid)
 		)
 		(layer "Eco1.User")
 		(uuid "b452c379-f57d-46e8-a94d-eda1d9cf33df")
-	)
-	(fp_line
-		(start 45.375 -61.67504)
-		(end 45.375 -64.37504)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "fa43f2e9-8af6-4d3b-b727-b19123fe1edb")
-	)
-	(fp_line
-		(start 47.375 -59.67504)
-		(end 48.375001 -59.67504)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "95bf4447-8916-4ff7-bc48-eaa850a0b5cc")
-	)
-	(fp_line
-		(start 50.375001 -64.375039)
-		(end 50.375001 -61.67504)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "20d7df74-00c1-4170-96fb-80e6b4fc12a0")
 	)
 	(fp_line
 		(start 56.555 -31.512398)
@@ -11443,7 +11383,7 @@
 	)
 	(fp_line
 		(start 140.475 -66.37504)
-		(end 52.375001 -66.375039)
+		(end 43.375 -66.37504)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -11526,50 +11466,6 @@
 		)
 		(layer "Eco1.User")
 		(uuid "5754dec4-269c-408f-8665-dc64a84f8bff")
-	)
-	(fp_arc
-		(start -51.925001 -66.375041)
-		(mid -50.510787 -65.789255)
-		(end -49.925001 -64.375041)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "71b48f5a-f7fe-436e-a76a-82ebf66688c5")
-	)
-	(fp_arc
-		(start -47.925001 -59.689261)
-		(mid -49.339212 -60.27505)
-		(end -49.925001 -61.689261)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "69cfcc94-c744-4036-abed-9097d94b93f4")
-	)
-	(fp_arc
-		(start -44.925 -64.37504)
-		(mid -44.339214 -65.789254)
-		(end -42.925 -66.37504)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "0a4ecd27-9d8c-4ba5-bf5a-757ea2fb7d8e")
-	)
-	(fp_arc
-		(start -44.925 -61.689261)
-		(mid -45.510779 -60.27504)
-		(end -46.925 -59.689261)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "f1ed5e50-0c3a-4c6f-b4f9-c42741c0f65d")
 	)
 	(fp_arc
 		(start -39.475 -29.37504)
@@ -11658,50 +11554,6 @@
 		)
 		(layer "Eco1.User")
 		(uuid "d6d38023-b4a8-4a7c-9be7-b343e49c67ad")
-	)
-	(fp_arc
-		(start 43.375 -66.37504)
-		(mid 44.789214 -65.789254)
-		(end 45.375 -64.37504)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "4b920150-4f22-43c3-9858-1e83416c7df1")
-	)
-	(fp_arc
-		(start 47.375 -59.67504)
-		(mid 45.960786 -60.260826)
-		(end 45.375 -61.67504)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "462d39fa-077e-4d6a-bfe7-29bcf46275cd")
-	)
-	(fp_arc
-		(start 50.375001 -64.375039)
-		(mid 50.960787 -65.789253)
-		(end 52.375001 -66.375039)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "390b7bcc-86f2-4c25-99b0-45feb7b64841")
-	)
-	(fp_arc
-		(start 50.375001 -61.67504)
-		(mid 49.789215 -60.260826)
-		(end 48.375001 -59.67504)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "ff9071ed-1df3-4a38-9fa6-28731fce33a1")
 	)
 	(fp_arc
 		(start 56.555 -46.587398)
@@ -11845,28 +11697,6 @@
 		(fill none)
 		(layer "Eco1.User")
 		(uuid "81041dcb-7f69-46cb-afe6-a974df3b30bf")
-	)
-	(fp_circle
-		(center -47.625 -62.12504)
-		(end -45.425 -62.12504)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(fill none)
-		(layer "Eco1.User")
-		(uuid "66634bca-d385-4641-8765-23e851b32aa9")
-	)
-	(fp_circle
-		(center 47.625 -62.12504)
-		(end 49.825 -62.12504)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(fill none)
-		(layer "Eco1.User")
-		(uuid "cfe910b8-3994-4d89-a443-51de41498264")
 	)
 	(fp_line
 		(start -142.525 -11.67504)
