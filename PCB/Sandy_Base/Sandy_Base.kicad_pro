@@ -558,15 +558,15 @@
         "pattern": "Net-(JP1-A)"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "VBUS"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "+3V3"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "+1V1"
       }
     ]
