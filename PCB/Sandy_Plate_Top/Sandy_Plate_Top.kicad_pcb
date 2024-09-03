@@ -75,7 +75,7 @@
 			(copper_finish "None")
 			(dielectric_constraints no)
 		)
-		(pad_to_mask_clearance 0.2)
+		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(aux_axis_origin 15.10531 17.478405)
 		(grid_origin 15.10531 17.478405)
@@ -3313,7 +3313,7 @@
 		)
 		(fp_arc
 			(start 18.325 20.271492)
-			(mid 18.745535 19.256282)
+			(mid 18.745534 19.256278)
 			(end 19.760746 18.835746)
 			(stroke
 				(width 0.3)
@@ -3335,7 +3335,7 @@
 		)
 		(fp_arc
 			(start 37.375 1.221492)
-			(mid 37.795526 0.206288)
+			(mid 37.795535 0.206282)
 			(end 38.810746 -0.214254)
 			(stroke
 				(width 0.3)
@@ -3357,7 +3357,7 @@
 		)
 		(fp_arc
 			(start 140.475 -18.75004)
-			(mid 141.889257 -18.164285)
+			(mid 141.889222 -18.164279)
 			(end 142.475 -16.75004)
 			(stroke
 				(width 0.3)
@@ -3368,7 +3368,7 @@
 		)
 		(fp_arc
 			(start 142.475 -2.214254)
-			(mid 141.889197 -0.80007)
+			(mid 141.889203 -0.800035)
 			(end 140.475 -0.214254)
 			(stroke
 				(width 0.3)

@@ -94,15 +94,15 @@
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
-        "npth_inside_courtyard": "warning",
+        "npth_inside_courtyard": "ignore",
         "padstack": "error",
-        "pth_inside_courtyard": "warning",
+        "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "ignore",
+        "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
@@ -462,7 +462,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2032,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -470,6 +470,23 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2032,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default2",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
@@ -490,7 +507,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.381,
-        "via_diameter": 0.6,
+        "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
       }
@@ -507,27 +524,11 @@
       },
       {
         "netclass": "Power",
-        "pattern": "D+"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "D-"
-      },
-      {
-        "netclass": "Power",
         "pattern": "GND"
       },
       {
         "netclass": "Power",
         "pattern": "Mid_GND"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(C2-Pad1)"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(C3-Pad1)"
       },
       {
         "netclass": "Power",
@@ -551,14 +552,6 @@
       },
       {
         "netclass": "Power",
-        "pattern": "Net-(J10-Pin_2)"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(JP1-A)"
-      },
-      {
-        "netclass": "Power",
         "pattern": "VBUS"
       },
       {
@@ -568,6 +561,10 @@
       {
         "netclass": "Power",
         "pattern": "+1V1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VDD"
       }
     ]
   },

@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -139.025 31.42496 0)
-		(layer "Edge.Cuts")
+		(layer "F.SilkS")
 		(hide yes)
 		(uuid "0ea41dd6-08ee-409f-9bca-32fe9348bdb7")
 		(effects
