@@ -33214,7 +33214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
+		(property "Footprint" "locallib:RP2040-QFN-56"
 			(at 374.65 133.35 0)
 			(effects
 				(font

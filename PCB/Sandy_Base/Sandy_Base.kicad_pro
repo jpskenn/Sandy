@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.25,
-          "width": 0.7
+          "height": 3.8,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -129,7 +129,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 1,
+        "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -187,6 +187,7 @@
         0.0,
         0.2,
         0.254,
+        0.3,
         0.381,
         0.5
       ],
@@ -479,24 +480,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2032,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Default2",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
-        "via_diameter": 0.6,
-        "via_drill": 0.4,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2032,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -523,15 +507,15 @@
         "pattern": "+5V"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "GND"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "Mid_GND"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "Top_GND"
       },
       {
@@ -539,15 +523,15 @@
         "pattern": "VCC"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "LED"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "Net-*DOUT)"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "Net-*DIN)"
       },
       {
