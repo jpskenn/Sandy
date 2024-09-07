@@ -65,26 +65,92 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start 292.053125 76.2)
-		(end 297.65625 95.25)
+		(start 4.7625 61.9125)
+		(end 17.859375 64.29375)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill solid)
 		(layer "B.Mask")
-		(uuid "94984b90-932b-4e1f-8003-0caeaf54a3df")
+		(uuid "b4db7082-05fb-469c-8fab-de944b6f7edf")
 	)
 	(fp_rect
-		(start 292.053125 76.2)
-		(end 297.65625 95.25)
+		(start 4.7625 69.05625)
+		(end 17.859375 71.4375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.Mask")
+		(uuid "b2ce7974-3921-482d-8cea-c30c014559d5")
+	)
+	(fp_rect
+		(start 267.890625 61.9125)
+		(end 280.9875 64.29375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.Mask")
+		(uuid "9ebaf9e3-e80d-40a5-8d21-6ec45d2ceaad")
+	)
+	(fp_rect
+		(start 267.890625 69.05625)
+		(end 280.9875 71.4375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.Mask")
+		(uuid "7ede97e4-88d8-4288-9881-49726ae24115")
+	)
+	(fp_rect
+		(start 4.7625 61.9125)
+		(end 17.859375 64.29375)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill solid)
 		(layer "F.Mask")
-		(uuid "c848a2ed-5b95-4681-9c5e-6b93ff36b574")
+		(uuid "43e30e43-d544-4d08-81a6-a20ddb3ab160")
+	)
+	(fp_rect
+		(start 4.7625 69.05625)
+		(end 17.859375 71.4375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "cd70db4b-dbf7-4cf0-9bff-8c44c6828fd1")
+	)
+	(fp_rect
+		(start 267.890625 61.9125)
+		(end 280.9875 64.29375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "750c72e5-323f-4b25-a492-28d90d98b36c")
+	)
+	(fp_rect
+		(start 267.890625 69.05625)
+		(end 280.9875 71.4375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "e61ec1b4-51a4-421e-a9bb-cca19bba7587")
 	)
 	(fp_line
 		(start 0 0)
@@ -9986,6 +10052,50 @@
 		(layer "Dwgs.User")
 		(uuid "19a9f8ae-e756-445b-9ecd-42298039581e")
 	)
+	(fp_rect
+		(start 4.7625 61.9125)
+		(end 17.859375 64.29375)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "8746e1b8-123d-4258-9a7f-4b8f3d35ae7f")
+	)
+	(fp_rect
+		(start 4.7625 69.05625)
+		(end 17.859375 71.4375)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "9f4cb6de-4499-41f1-93cb-3f3dd4ef7050")
+	)
+	(fp_rect
+		(start 267.890625 61.9125)
+		(end 280.9875 64.29375)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "e3850766-596d-47da-b760-9dc92bd08915")
+	)
+	(fp_rect
+		(start 267.890625 69.05625)
+		(end 280.9875 71.4375)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "98c268cd-0b82-49a0-aa46-031bfd05da6e")
+	)
 	(fp_arc
 		(start 4.15 54.89996)
 		(mid 5.493503 55.456457)
@@ -17349,7 +17459,7 @@
 		(net 0)
 		(net_name "")
 		(layers "F&B.Cu")
-		(uuid "1cbc091e-88ff-481f-83a1-484926812729")
+		(uuid "7080b6f0-a3db-4758-a7b8-3e5a19c884d2")
 		(hatch edge 0.508)
 		(connect_pads
 			(clearance 0)
@@ -17369,7 +17479,91 @@
 		)
 		(polygon
 			(pts
-				(xy 298.15625 95.93454) (xy 292.048589 95.93454) (xy 292.048589 76.656072) (xy 298.15625 76.656072)
+				(xy 17.859375 64.29375) (xy 4.7625 64.29375) (xy 4.7625 61.9125) (xy 17.859375 61.9125)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F&B.Cu")
+		(uuid "c5d656d1-6af5-4701-b0e9-a7265d56f37a")
+		(hatch edge 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 17.859375 71.4375) (xy 4.7625 71.4375) (xy 4.7625 69.05625) (xy 17.859375 69.05625)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F&B.Cu")
+		(uuid "660fe25c-00b8-41cc-9905-fb3b23eb2c3e")
+		(hatch edge 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 280.9875 64.29375) (xy 267.890625 64.29375) (xy 267.890625 61.9125) (xy 280.9875 61.9125)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F&B.Cu")
+		(uuid "895043f9-3756-4aa1-b21f-236ca302695d")
+		(hatch edge 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 280.9875 71.4375) (xy 267.890625 71.4375) (xy 267.890625 69.05625) (xy 280.9875 69.05625)
 			)
 		)
 	)
@@ -17402,9 +17596,27 @@
 		)
 	)
 	(group ""
-		(uuid "10370eca-7167-4622-8c89-3781520a979a")
-		(members "1cbc091e-88ff-481f-83a1-484926812729" "94984b90-932b-4e1f-8003-0caeaf54a3df"
-			"c848a2ed-5b95-4681-9c5e-6b93ff36b574"
+		(uuid "3fc0a552-c10e-40be-a787-d696ad54910c")
+		(members "7ede97e4-88d8-4288-9881-49726ae24115" "895043f9-3756-4aa1-b21f-236ca302695d"
+			"98c268cd-0b82-49a0-aa46-031bfd05da6e" "e61ec1b4-51a4-421e-a9bb-cca19bba7587"
+		)
+	)
+	(group ""
+		(uuid "7d88ff2d-057a-4e54-9e4d-5deb422d556a")
+		(members "660fe25c-00b8-41cc-9905-fb3b23eb2c3e" "750c72e5-323f-4b25-a492-28d90d98b36c"
+			"9ebaf9e3-e80d-40a5-8d21-6ec45d2ceaad" "e3850766-596d-47da-b760-9dc92bd08915"
+		)
+	)
+	(group ""
+		(uuid "a94d477d-5669-4853-aefc-2c103f159288")
+		(members "9f4cb6de-4499-41f1-93cb-3f3dd4ef7050" "b2ce7974-3921-482d-8cea-c30c014559d5"
+			"c5d656d1-6af5-4701-b0e9-a7265d56f37a" "cd70db4b-dbf7-4cf0-9bff-8c44c6828fd1"
+		)
+	)
+	(group ""
+		(uuid "d9f2f1cd-4600-4fcb-a57d-64c79ad16711")
+		(members "43e30e43-d544-4d08-81a6-a20ddb3ab160" "7080b6f0-a3db-4758-a7b8-3e5a19c884d2"
+			"8746e1b8-123d-4258-9a7f-4b8f3d35ae7f" "b4db7082-05fb-469c-8fab-de944b6f7edf"
 		)
 	)
 	(group ""
