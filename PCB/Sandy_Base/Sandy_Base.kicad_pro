@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.8,
-          "width": 2.0
+          "height": 1.8,
+          "width": 1.15
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -124,7 +124,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.075,
+        "min_copper_edge_clearance": 0.15,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -186,6 +186,7 @@
       "track_widths": [
         0.0,
         0.2,
+        0.25,
         0.254,
         0.3,
         0.381,
