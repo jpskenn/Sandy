@@ -2241,6 +2241,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.915 137.795) (xy 213.36 137.795)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "675cc090-12cc-4a37-ae92-3fff4528498c")
+	)
+	(wire
+		(pts
 			(xy 138.43 29.21) (xy 138.43 33.02)
 		)
 		(stroke
@@ -3840,6 +3850,38 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 25.1622 55.8006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Top_GND"
+		(shape input)
+		(at 208.915 137.795 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24acc341-e84f-4a7e-9b52-6908741fb3a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.4803 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 208.915 139.6302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8076,7 +8118,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "56f02483-d58e-4597-af6b-ace7c4c55cb6")
 		(property "Reference" "#PWR02"
 			(at 151.765 217.17 0)
@@ -9641,6 +9682,71 @@
 			(project "Sandy_Top_with_Plate_Mid"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 213.36 137.795 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90cfa123-9356-415c-8204-aa7e22e188ca")
+		(property "Reference" "#PWR03"
+			(at 213.36 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 213.36 141.9281 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 213.36 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8287845-42fb-479f-bf44-843a42c0b038")
+		)
+		(instances
+			(project "Sandy_Top_with_Plate_Mid"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
