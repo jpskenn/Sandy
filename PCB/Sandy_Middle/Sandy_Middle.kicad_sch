@@ -2539,6 +2539,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 177.8) (xy 200.66 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bba69dfe-997a-462b-866c-c849751b6eeb")
+	)
+	(wire
+		(pts
 			(xy 236.22 31.75) (xy 236.22 74.93)
 		)
 		(stroke
@@ -3772,6 +3782,38 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Mid_GND"
+		(shape input)
+		(at 198.12 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1cff825f-8a39-4ecc-8db1-b32ab3665d38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.7457 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 198.12 179.6352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5055,6 +5097,38 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Mid_GND"
+		(shape input)
+		(at 175.895 177.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9310d929-923e-4dc8-9ad3-86be1cfb0b53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.2693 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 175.895 179.6352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -9593,7 +9667,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 175.895 177.8 0)
+		(at 200.66 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9602,7 +9676,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f05701f-4421-451f-ac69-e5ff91f0e2cb")
 		(property "Reference" "#PWR03"
-			(at 175.895 184.15 0)
+			(at 200.66 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9611,7 +9685,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.895 181.9331 0)
+			(at 200.66 181.9331 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9619,7 +9693,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.895 177.8 0)
+			(at 200.66 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9628,7 +9702,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.895 177.8 0)
+			(at 200.66 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9637,7 +9711,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.895 177.8 0)
+			(at 200.66 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
