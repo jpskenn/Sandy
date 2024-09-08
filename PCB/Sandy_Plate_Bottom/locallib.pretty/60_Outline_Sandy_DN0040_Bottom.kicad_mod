@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -139 50.5 0)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(hide yes)
 		(uuid "6e37b305-7f94-4b42-a44c-d48040a2ee6d")
 		(effects
@@ -95,46 +95,6 @@
 		(uuid "04e175cb-c586-430a-899a-034b41d1d5a0")
 	)
 	(fp_line
-		(start -15.75 -2.15)
-		(end -12.85 -2.15)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "771f8d40-3524-435a-a806-76f34f9becca")
-	)
-	(fp_line
-		(start -15.75 1.65)
-		(end -12.85 1.65)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "baf6c2aa-2fac-4d10-b2c8-23177962e585")
-	)
-	(fp_line
-		(start 46.55 36)
-		(end 49.45 36)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "f5e763f2-6be0-450e-a32a-414196ba63c4")
-	)
-	(fp_line
-		(start 46.55 39.8)
-		(end 49.45 39.8)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "4cc45090-229e-42e0-80a0-5366ec0203a3")
-	)
-	(fp_line
 		(start 116.1 -21.3)
 		(end 119 -21.3)
 		(stroke
@@ -195,94 +155,6 @@
 		)
 		(layer "Dwgs.User")
 		(uuid "0c7d6a79-8567-483c-91cd-8e2a562f75e8")
-	)
-	(fp_arc
-		(start -17.65 -0.25)
-		(mid -17.093503 -1.593503)
-		(end -15.75 -2.15)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "116389df-e27d-45dd-81d1-5562f6d293c2")
-	)
-	(fp_arc
-		(start -15.75 1.65)
-		(mid -17.093503 1.093503)
-		(end -17.65 -0.25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "7359007a-a86b-4c3e-bbfa-6afabe32a61c")
-	)
-	(fp_arc
-		(start -12.85 -2.15)
-		(mid -11.506497 -1.593503)
-		(end -10.95 -0.25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "fdff0e46-ec7e-404a-9275-5d93a59d4595")
-	)
-	(fp_arc
-		(start -10.95 -0.25)
-		(mid -11.506497 1.093503)
-		(end -12.85 1.65)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "4cd9b4f5-d95b-4974-81a5-d880c4d90507")
-	)
-	(fp_arc
-		(start 44.65 37.9)
-		(mid 45.206497 36.556497)
-		(end 46.55 36)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "328dc58b-c594-4006-b00d-71ddea328f02")
-	)
-	(fp_arc
-		(start 46.55 39.8)
-		(mid 45.206497 39.243503)
-		(end 44.65 37.9)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "b66012d0-e96b-4c03-8320-97335c57e502")
-	)
-	(fp_arc
-		(start 49.45 36)
-		(mid 50.793503 36.556497)
-		(end 51.35 37.9)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "99de259c-efe9-4c0e-bc46-0a3050eadf1c")
-	)
-	(fp_arc
-		(start 51.35 37.9)
-		(mid 50.793503 39.243503)
-		(end 49.45 39.8)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "71911e80-3b6a-4069-a7bb-bcd5e86100b0")
 	)
 	(fp_arc
 		(start 114.2 -19.4)
@@ -676,31 +548,9 @@
 		)
 	)
 	(fp_text user "Screw Head"
-		(at 48.05 39.45 0)
-		(layer "Dwgs.User")
-		(uuid "9db65007-2f9e-448e-971f-dabae753ae99")
-		(effects
-			(font
-				(size 0.4 0.4)
-				(thickness 0.08)
-			)
-		)
-	)
-	(fp_text user "Screw Head"
 		(at 140.2 7.65 180)
 		(layer "Dwgs.User")
 		(uuid "b9e9a781-9620-49ed-b2c8-4bc4783d3df0")
-		(effects
-			(font
-				(size 0.4 0.4)
-				(thickness 0.08)
-			)
-		)
-	)
-	(fp_text user "Screw Head"
-		(at -14.3 1.25 0)
-		(layer "Dwgs.User")
-		(uuid "d09b25bb-eef0-4985-9e5b-1506bfe36e8e")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -743,20 +593,6 @@
 		(drill 2.4994)
 		(layers "*.Cu" "*.Mask")
 		(uuid "ddf8e68f-e2aa-4050-922a-b59b1f3fc04e")
-	)
-	(pad "" np_thru_hole oval
-		(at -14.3 -0.3)
-		(size 5.2 2.4)
-		(drill oval 5.2 2.4)
-		(layers "*.Cu" "*.Mask")
-		(uuid "85a527fe-ce52-4b0d-b799-a755d5f00ee4")
-	)
-	(pad "" np_thru_hole oval
-		(at 48 37.9)
-		(size 5.2 2.4)
-		(drill oval 5.2 2.4)
-		(layers "*.Cu" "*.Mask")
-		(uuid "70a68dba-c9c5-4c04-b616-bd435cc1ab8b")
 	)
 	(pad "" np_thru_hole oval
 		(at 117.55 -19.4)
