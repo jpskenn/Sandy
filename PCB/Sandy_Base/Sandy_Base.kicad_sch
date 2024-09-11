@@ -16444,7 +16444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 242.57 135.89 0)
 			(effects
 				(font
@@ -16511,7 +16511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 77.47 167.64 0)
 			(effects
 				(font
@@ -16674,7 +16674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 209.55 167.64 0)
 			(effects
 				(font
@@ -16837,7 +16837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 60.96 167.64 0)
 			(effects
 				(font
@@ -17000,7 +17000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -17163,7 +17163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 77.47 72.39 0)
 			(effects
 				(font
@@ -17326,7 +17326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 209.55 72.39 0)
 			(effects
 				(font
@@ -17489,7 +17489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 193.04 72.39 0)
 			(effects
 				(font
@@ -17748,7 +17748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 44.45 104.14 0)
 			(effects
 				(font
@@ -17911,7 +17911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -18074,7 +18074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 77.47 104.14 0)
 			(effects
 				(font
@@ -18237,7 +18237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -18400,7 +18400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 209.55 104.14 0)
 			(effects
 				(font
@@ -18563,7 +18563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 176.53 104.14 0)
 			(effects
 				(font
@@ -18726,7 +18726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 193.04 104.14 0)
 			(effects
 				(font
@@ -18985,7 +18985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 27.94 135.89 0)
 			(effects
 				(font
@@ -19148,7 +19148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 44.45 135.89 0)
 			(effects
 				(font
@@ -19311,7 +19311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 60.96 135.89 0)
 			(effects
 				(font
@@ -19474,7 +19474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 77.47 135.89 0)
 			(effects
 				(font
@@ -19637,7 +19637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 226.06 135.89 0)
 			(effects
 				(font
@@ -19800,7 +19800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 176.53 135.89 0)
 			(effects
 				(font
@@ -19963,7 +19963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 193.04 135.89 0)
 			(effects
 				(font
@@ -20222,7 +20222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 209.55 135.89 0)
 			(effects
 				(font
@@ -20577,7 +20577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 193.04 167.64 0)
 			(effects
 				(font
@@ -20740,7 +20740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1.25U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 93.98 167.64 0)
 			(effects
 				(font
@@ -20891,7 +20891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 27.94 104.14 0)
 			(effects
 				(font
@@ -22549,7 +22549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 242.57 104.14 0)
 			(effects
 				(font
@@ -22976,7 +22976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 226.06 104.14 0)
 			(effects
 				(font
@@ -23471,7 +23471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 93.98 135.89 0)
 			(effects
 				(font
@@ -25586,7 +25586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-on-RE-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 127 167.64 0)
 			(effects
 				(font
@@ -26301,7 +26301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 110.49 167.64 0)
 			(effects
 				(font
@@ -29279,7 +29279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1.25U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 176.53 167.64 0)
 			(effects
 				(font
@@ -33351,7 +33351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 160.02 167.64 0)
 			(effects
 				(font
