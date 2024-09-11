@@ -817,4 +817,15 @@
 			(xyz 180 0 180)
 		)
 	)
+	(model "${KIPRJMOD}/locallib.pretty/Kailh_PG1353.STEP"
+		(offset
+			(xyz 0 0 2.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )
