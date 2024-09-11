@@ -13109,7 +13109,7 @@
 	)
 	(global_label "RE_Base1_A"
 		(shape input)
-		(at 394.335 123.19 0)
+		(at 394.335 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13119,7 +13119,7 @@
 		)
 		(uuid "3fe4dbeb-3a32-4fee-b61c-ebb7403bd5e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 407.854 123.19 0)
+			(at 407.854 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13129,7 +13129,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 394.335 125.0252 0)
+			(at 394.335 127.5652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14605,7 +14605,7 @@
 	)
 	(global_label "RE_Base1_B"
 		(shape input)
-		(at 394.335 125.73 0)
+		(at 394.335 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14615,7 +14615,7 @@
 		)
 		(uuid "99ce3b32-49ea-4955-92cf-0b1c15df910c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 408.0354 125.73 0)
+			(at 408.0354 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14625,7 +14625,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 394.335 127.5652 0)
+			(at 394.335 125.0252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
