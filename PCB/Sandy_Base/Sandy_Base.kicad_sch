@@ -12555,38 +12555,6 @@
 			)
 		)
 	)
-	(global_label "Mid_GND"
-		(shape input)
-		(at 143.51 238.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1b2d9cce-986d-4b00-937f-bfc514a43174")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.8843 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 143.51 240.5952 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col4"
 		(shape input)
 		(at 154.94 32.385 90)
@@ -12999,6 +12967,38 @@
 			)
 		)
 	)
+	(global_label "Mid_row5"
+		(shape input)
+		(at 143.51 236.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "385dfd2c-246d-4982-a074-7b9e473afcc7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.489 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 143.51 238.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_BOOT"
 		(shape input)
 		(at 290.83 85.725 180)
@@ -13185,6 +13185,38 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row5"
+		(shape input)
+		(at 125.73 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4450d625-2b74-4776-8b99-abd879f46a1b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.9238 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 125.73 219.0052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14630,38 +14662,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Mid_GND"
-		(shape input)
-		(at 143.51 236.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a201bc0b-aead-4119-897b-5dd5130cebfb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.8843 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 143.51 238.0552 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -22800,72 +22800,6 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 125.73 217.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "033e4d59-9a7d-48bd-aa29-9a701253e4a3")
-		(property "Reference" "#PWR059"
-			(at 125.73 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 125.73 221.3031 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "205a994f-6ca8-4b7f-a9e4-cd336d4e305f")
-		)
-		(instances
-			(project "Sandy_Base"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -31063,6 +30997,72 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "LS2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 143.51 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9ae99f3-a8a5-415d-8952-08a1ac6f6f2e")
+		(property "Reference" "#PWR059"
+			(at 143.51 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 143.51 242.8931 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 143.51 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 143.51 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62e76a80-4918-4605-8f3b-bef9b8eebc7d")
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
