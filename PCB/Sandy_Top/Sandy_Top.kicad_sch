@@ -1555,26 +1555,6 @@
 		(color 0 0 0 0)
 		(uuid "fae22169-20b0-4760-a8bd-89e55d025dd4")
 	)
-	(no_connect
-		(at 271.145 153.67)
-		(uuid "41d213d2-d614-45bd-941c-d6a9a78f8287")
-	)
-	(no_connect
-		(at 283.845 163.195)
-		(uuid "6693d434-aef7-452e-89a9-a4a69fa37dea")
-	)
-	(no_connect
-		(at 378.46 153.67)
-		(uuid "812e5a47-5edd-4dc1-afd5-c5702ec82fb5")
-	)
-	(no_connect
-		(at 346.71 163.195)
-		(uuid "84c2696d-5f5d-4acb-a50a-f709e884c3a3")
-	)
-	(no_connect
-		(at 323.85 185.42)
-		(uuid "d1fc767e-4a63-4818-abdd-ce1e34786783")
-	)
 	(wire
 		(pts
 			(xy 132.08 80.645) (xy 165.1 80.645)
@@ -5434,72 +5414,6 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 323.85 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "211b2f15-a035-4c1c-a983-6e1bb89c1b84")
-		(property "Reference" "H13"
-			(at 326.39 181.7116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 326.39 184.023 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 323.85 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 323.85 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 323.85 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ebf089c-26c9-44f5-9189-7e3d99d0abfa")
-		)
-		(instances
-			(project "Sandy_Top_with_Plate_Mid"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
 		(at 341.63 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5656,7 +5570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 160.02 90.805 0)
 			(effects
 				(font
@@ -5723,7 +5637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 143.51 88.265 0)
 			(effects
 				(font
@@ -5790,7 +5704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 127 64.135 0)
 			(effects
 				(font
@@ -6107,72 +6021,6 @@
 			(project "Sandy_Top"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 271.145 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6565db0b-98f1-4c3d-9845-602b00a9ed84")
-		(property "Reference" "H1"
-			(at 273.685 149.9616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 273.685 152.273 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 271.145 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.145 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.145 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5a4eb5be-cc84-49ba-b2d9-315156ea1462")
-		)
-		(instances
-			(project "Sandy_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -6501,7 +6349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 176.53 64.135 0)
 			(effects
 				(font
@@ -7198,7 +7046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 143.51 64.135 0)
 			(effects
 				(font
@@ -7318,72 +7166,6 @@
 			(project "Sandy_Top_with_Plate_Mid"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 378.46 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a958ddb9-1c73-4448-9a4c-f931fc8b14eb")
-		(property "Reference" "H4"
-			(at 381 149.9616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 381 152.273 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 378.46 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 378.46 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 378.46 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e421798d-4d24-4315-8595-633dffd8b90c")
-		)
-		(instances
-			(project "Sandy_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -7728,72 +7510,6 @@
 			(project "Sandy_Top_with_Plate_Mid"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 283.845 160.655 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d19d1db6-69ff-444d-b4d2-a4cb1e90a353")
-		(property "Reference" "H5"
-			(at 286.385 159.4866 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 286.385 161.798 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 283.845 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 283.845 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 283.845 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c38a2193-4dcb-48ca-8900-aacf9885214e")
-		)
-		(instances
-			(project "Sandy_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -8190,72 +7906,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 346.71 160.655 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "df280cae-6bdc-480f-85d3-02a7abe4474c")
-		(property "Reference" "H7"
-			(at 349.25 159.4866 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 349.25 161.798 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
-			(at 346.71 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 346.71 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 346.71 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "48113355-7c1b-47ab-8055-1eaf6e071dee")
-		)
-		(instances
-			(project "Sandy_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 396.24 26.035 0)
 		(unit 1)
@@ -8346,7 +7996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MXOnly-1U-Hotswap-guide"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2"
 			(at 160.02 64.135 0)
 			(effects
 				(font
