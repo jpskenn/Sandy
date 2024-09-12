@@ -7733,19 +7733,19 @@
 		(members "row0" "row5" "col0" "col1")
 	)
 	(junction
-		(at 33.02 118.11)
+		(at 33.02 86.995)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02641cdd-3c0d-4068-9617-a143d89591fd")
 	)
 	(junction
-		(at 198.12 86.36)
+		(at 198.12 55.245)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02669c77-bcc6-41cf-a71d-75723255ffe6")
 	)
 	(junction
-		(at 247.65 152.4)
+		(at 247.65 121.285)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "034dd9ad-6d8c-447e-aa35-115161e42732")
@@ -7763,7 +7763,7 @@
 		(uuid "0fa7e225-d3cf-4d21-adf2-def5684ea42f")
 	)
 	(junction
-		(at 33.02 149.86)
+		(at 33.02 118.745)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11fe80d4-5ed6-4eae-b87d-3c845f254f30")
@@ -7775,13 +7775,13 @@
 		(uuid "19b8cfeb-bf77-4d28-91f4-5fb97691e726")
 	)
 	(junction
-		(at 214.63 120.65)
+		(at 214.63 89.535)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ab2d4bc-8be3-43f6-92a0-cd3e6a210849")
 	)
 	(junction
-		(at 66.04 181.61)
+		(at 66.04 150.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b5b686b-94df-468b-b0cd-863eb5f2b220")
@@ -7799,7 +7799,7 @@
 		(uuid "1d5295ea-7381-4ae7-8023-6eac0e00b0b8")
 	)
 	(junction
-		(at 165.1 181.61)
+		(at 165.1 150.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f22267e-1ac3-4f70-9b31-9fc7656376be")
@@ -7811,13 +7811,13 @@
 		(uuid "20d1350b-810d-46f1-a00b-33f86f446e0f")
 	)
 	(junction
-		(at 204.47 140.97)
+		(at 204.47 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "233cd7cd-cc61-4498-a009-a4839467dac3")
 	)
 	(junction
-		(at 198.12 149.86)
+		(at 198.12 118.745)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23c3d95a-a523-4535-9608-da6327aacf4b")
@@ -7829,7 +7829,7 @@
 		(uuid "244cdad4-b483-4f69-8007-87ede07464e9")
 	)
 	(junction
-		(at 154.94 34.29)
+		(at 154.94 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2477eda7-d420-4483-91a0-7db94528d655")
@@ -7859,7 +7859,7 @@
 		(uuid "27705035-de1b-429d-b5f5-e12dfd15c1f2")
 	)
 	(junction
-		(at 55.88 109.22)
+		(at 55.88 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29cbbfe4-af33-4f7c-b9c9-700752be3dc9")
@@ -7871,7 +7871,7 @@
 		(uuid "2bb7ef9e-408c-400f-92e6-cbf01800d444")
 	)
 	(junction
-		(at 39.37 109.22)
+		(at 39.37 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d0f5abc-5870-46b6-bed8-1aa967c7e6aa")
@@ -7889,7 +7889,7 @@
 		(uuid "30c232a3-91b0-414b-9704-430e7897bb8a")
 	)
 	(junction
-		(at 99.06 118.11)
+		(at 99.06 86.995)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "317f1847-dd28-444e-8aad-1bf978b5fc39")
@@ -7907,7 +7907,7 @@
 		(uuid "32533491-afdf-4b8a-8968-00bfd7ef464b")
 	)
 	(junction
-		(at 181.61 120.65)
+		(at 181.61 89.535)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "331dcabe-a33d-4bbb-a82d-be1ece410817")
@@ -7943,43 +7943,43 @@
 		(uuid "3c8cc028-b0b8-4553-84a7-553a64b3eddc")
 	)
 	(junction
-		(at 198.12 118.11)
+		(at 198.12 86.995)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3dde698e-651a-44a6-bda1-54a6eb2f9ccd")
 	)
 	(junction
-		(at 187.96 140.97)
+		(at 187.96 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3df7dd72-32b8-4774-bd17-6c09cc8eed96")
 	)
 	(junction
-		(at 220.98 140.97)
+		(at 220.98 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "429dc9f4-1894-46b0-a40b-6dcff033ec16")
 	)
 	(junction
-		(at 171.45 109.22)
+		(at 171.45 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4642ac8a-ae9a-461c-865a-553da41a9484")
 	)
 	(junction
-		(at 88.9 34.29)
+		(at 88.9 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47c4c378-2898-4050-89f3-b51493209af3")
 	)
 	(junction
-		(at 132.08 172.72)
+		(at 132.08 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b1eeec7-8f33-4617-b93f-66416dd7dfee")
 	)
 	(junction
-		(at 181.61 152.4)
+		(at 181.61 121.285)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c7869e5-57b0-4047-97d2-cd9f57f09ddf")
@@ -7991,7 +7991,7 @@
 		(uuid "4e3c19da-8f8b-4641-8443-0e776e184e24")
 	)
 	(junction
-		(at 171.45 140.97)
+		(at 171.45 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e843e72-f36e-4425-9be5-4061494de1c3")
@@ -8009,37 +8009,37 @@
 		(uuid "56d2aa9c-41ee-4fd8-be07-ae2996c13727")
 	)
 	(junction
-		(at 55.88 34.29)
+		(at 55.88 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58330877-e894-41b2-87ab-253a597b9331")
 	)
 	(junction
-		(at 187.96 172.72)
+		(at 187.96 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5882a8a2-d2c9-4c89-9506-1b2d6b1330ab")
 	)
 	(junction
-		(at 214.63 88.9)
+		(at 214.63 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "596a3be3-bd41-4c44-a524-f1873d5a0fd5")
 	)
 	(junction
-		(at 115.57 184.15)
+		(at 115.57 153.035)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b9b0e4b-7750-4932-a878-4a9810ec57bf")
 	)
 	(junction
-		(at 214.63 184.15)
+		(at 214.63 153.035)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c04dedc-e3d9-4e92-8f7f-42224eeb94a0")
 	)
 	(junction
-		(at 49.53 120.65)
+		(at 49.53 89.535)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e200e3f-5fc4-4d7d-a9c5-c7e49a17e5cd")
@@ -8051,19 +8051,19 @@
 		(uuid "5fb51326-4d46-4d53-9b19-f566600bc48a")
 	)
 	(junction
-		(at 82.55 184.15)
+		(at 82.55 153.035)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5fff8cd0-c62d-44a4-a7ed-b51db1771739")
 	)
 	(junction
-		(at 154.94 172.72)
+		(at 154.94 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61315b05-6321-4320-ba2f-02f58fdcf81c")
 	)
 	(junction
-		(at 66.04 86.36)
+		(at 66.04 55.245)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "62f53fe0-fa51-4489-afe2-7867a10543c8")
@@ -8093,19 +8093,19 @@
 		(uuid "6b12d286-057d-4011-b103-737d18e69896")
 	)
 	(junction
-		(at 82.55 120.65)
+		(at 82.55 89.535)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e9c7823-9ae3-4b3c-871a-11b0a9deb2ea")
 	)
 	(junction
-		(at 55.88 140.97)
+		(at 55.88 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fa2de2a-e590-41ae-a2d2-6649e6ae7141")
 	)
 	(junction
-		(at 237.49 140.97)
+		(at 237.49 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70384a77-df3f-4e95-b42e-0e78d3e005ef")
@@ -8117,13 +8117,13 @@
 		(uuid "7136caa6-c9af-4744-b21e-09e23dbf14fd")
 	)
 	(junction
-		(at 121.92 166.37)
+		(at 121.92 135.255)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73c01e5f-5232-4d21-a578-5d52f64dc275")
 	)
 	(junction
-		(at 121.92 172.72)
+		(at 121.92 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75c9df2f-a1b1-4580-9834-8c75c7cdb0bf")
@@ -8135,7 +8135,7 @@
 		(uuid "76802597-de6d-4bb1-ac31-5c4869437392")
 	)
 	(junction
-		(at 231.14 118.11)
+		(at 231.14 86.995)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76bc66b1-f9c2-4774-93b0-86ddb1c18767")
@@ -8147,13 +8147,13 @@
 		(uuid "7d52dbf8-304d-4735-be18-75f50058ef57")
 	)
 	(junction
-		(at 220.98 34.29)
+		(at 220.98 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ea996d5-ab3a-4512-932b-e93f7a53fd93")
 	)
 	(junction
-		(at 132.08 181.61)
+		(at 132.08 150.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8040aeef-1dbb-4008-a0d3-5af35b35f39c")
@@ -8165,7 +8165,7 @@
 		(uuid "81827777-202a-41d4-bf0d-6441189cca2a")
 	)
 	(junction
-		(at 66.04 149.86)
+		(at 66.04 118.745)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84f9de41-386b-49b0-9249-52cce2a1c121")
@@ -8177,7 +8177,7 @@
 		(uuid "8583de58-2a31-4dcc-bdc9-18859d5379e8")
 	)
 	(junction
-		(at 82.55 152.4)
+		(at 82.55 121.285)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8efa36df-3756-431b-9639-b856156d4d74")
@@ -8195,7 +8195,7 @@
 		(uuid "9899a7bd-d2f8-47e4-87b4-dba5aba835b3")
 	)
 	(junction
-		(at 99.06 149.86)
+		(at 99.06 118.745)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9940d39e-76fe-4976-88a5-2e5c6be4c3d9")
@@ -8225,13 +8225,13 @@
 		(uuid "a0a891c2-9587-46c0-b22c-fee994c9d810")
 	)
 	(junction
-		(at 247.65 120.65)
+		(at 247.65 89.535)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a11ea8d7-8cd4-422c-ab57-0f0b5a3e0f80")
 	)
 	(junction
-		(at 181.61 184.15)
+		(at 181.61 153.035)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5056c69-90f4-4d3c-9580-f9454b4b73b8")
@@ -8255,37 +8255,37 @@
 		(uuid "ad88ab83-4648-4430-a622-44c8cae2b63c")
 	)
 	(junction
-		(at 204.47 109.22)
+		(at 204.47 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "adbd085b-cb60-4466-b2bd-49dd7abea268")
 	)
 	(junction
-		(at 72.39 77.47)
+		(at 72.39 46.355)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b068978f-2d26-49a7-aee5-70bf284fbb20")
 	)
 	(junction
-		(at 237.49 109.22)
+		(at 237.49 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3f20e64-0ffb-45f3-a2f7-7935abee0a67")
 	)
 	(junction
-		(at 49.53 152.4)
+		(at 49.53 121.285)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4943b61-45b8-44fc-81d2-ef8d24b21a86")
 	)
 	(junction
-		(at 231.14 149.86)
+		(at 231.14 118.745)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5e8108a-e881-41e4-b141-fc3829a32701")
 	)
 	(junction
-		(at 220.98 109.22)
+		(at 220.98 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6787a6c-77a1-4726-a958-9917d3374fd1")
@@ -8303,13 +8303,13 @@
 		(uuid "ba11d382-3d5f-4987-8c0e-c6c963d75b10")
 	)
 	(junction
-		(at 22.86 140.97)
+		(at 22.86 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba274dcc-ae96-4e98-b263-178298003d51")
 	)
 	(junction
-		(at 88.9 109.22)
+		(at 88.9 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c00df3c4-9586-484f-8b39-13dd0959ec62")
@@ -8321,7 +8321,7 @@
 		(uuid "c0c0d485-8cf2-4cae-b088-8a1be279639e")
 	)
 	(junction
-		(at 55.88 172.72)
+		(at 55.88 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0ea746c-31ff-4a03-ace7-909e845f1b9a")
@@ -8345,7 +8345,7 @@
 		(uuid "c6e62c7d-3c68-4b63-9cca-5f0475bf4bae")
 	)
 	(junction
-		(at 204.47 77.47)
+		(at 204.47 46.355)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "caf8ded8-c2e7-4dcf-86e0-0175ac3e3280")
@@ -8363,13 +8363,13 @@
 		(uuid "ccee4855-bd93-49bc-858b-5bcfd61f0f96")
 	)
 	(junction
-		(at 72.39 140.97)
+		(at 72.39 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd7f594b-14d0-4d97-abb1-86798fb6beaa")
 	)
 	(junction
-		(at 88.9 140.97)
+		(at 88.9 109.855)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf35cfe8-6ed8-4c15-8e26-c44c8fbe1c36")
@@ -8393,7 +8393,7 @@
 		(uuid "d4af932e-fed2-4de1-924b-0c50ec006db0")
 	)
 	(junction
-		(at 187.96 34.29)
+		(at 187.96 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7d840d5-e263-4928-9d1f-b3b424ef61e4")
@@ -8411,7 +8411,7 @@
 		(uuid "db3517e6-ed52-497d-91e4-bccef6b1cdd7")
 	)
 	(junction
-		(at 82.55 88.9)
+		(at 82.55 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddbdf8f4-1099-433b-bc59-1dfcfbb98961")
@@ -8429,61 +8429,61 @@
 		(uuid "e0a03248-c090-4489-b040-d109cc78a0e7")
 	)
 	(junction
-		(at 214.63 152.4)
+		(at 214.63 121.285)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e167443a-ca64-461e-9d4e-04efa89a1f17")
 	)
 	(junction
-		(at 198.12 181.61)
+		(at 198.12 150.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e491f3c0-d725-49db-9a4b-8017030c3e23")
 	)
 	(junction
-		(at 66.04 118.11)
+		(at 66.04 86.995)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4e9fcf3-4542-44bb-831a-2f35868cfcbf")
 	)
 	(junction
-		(at 187.96 77.47)
+		(at 187.96 46.355)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e65c915c-0c6d-4dd1-a47e-01e38aca4155")
 	)
 	(junction
-		(at 187.96 109.22)
+		(at 187.96 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7d112c2-1b5d-4d91-b5a4-a473ca32c46c")
 	)
 	(junction
-		(at 99.06 181.61)
+		(at 99.06 150.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7f012ca-a95b-4150-8d84-e713ab1cdda4")
 	)
 	(junction
-		(at 72.39 109.22)
+		(at 72.39 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e96a38f8-a23a-45e2-b2f5-31105a7966b8")
 	)
 	(junction
-		(at 22.86 109.22)
+		(at 22.86 78.105)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec0366d8-52ae-4db1-994b-aac75a7db5ac")
 	)
 	(junction
-		(at 55.88 77.47)
+		(at 55.88 46.355)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec1a132e-da4e-45e1-b435-192127273066")
 	)
 	(junction
-		(at 88.9 172.72)
+		(at 88.9 141.605)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edf3820f-7435-4d96-93ba-0e90f4547eec")
@@ -8507,7 +8507,7 @@
 		(uuid "f5e50f6c-3202-4838-830b-c17f373a6ab2")
 	)
 	(junction
-		(at 121.92 34.29)
+		(at 121.92 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f62e4a4a-9899-458b-9733-9e07296d3400")
@@ -8525,7 +8525,7 @@
 		(uuid "f9784e75-944e-40a5-8a3c-0b7ff1149ebc")
 	)
 	(junction
-		(at 22.86 34.29)
+		(at 22.86 36.195)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9c2ecf1-ba3d-4d0a-989e-31f2177634d3")
@@ -8548,9 +8548,13 @@
 		(at 365.125 239.395)
 		(uuid "9125e070-d229-47cb-a83c-160241a75389")
 	)
+	(no_connect
+		(at 242.57 281.94)
+		(uuid "bea0caad-4d79-42e1-af23-02fe805488b1")
+	)
 	(wire
 		(pts
-			(xy 19.685 181.61) (xy 66.04 181.61)
+			(xy 19.685 150.495) (xy 66.04 150.495)
 		)
 		(stroke
 			(width 0)
@@ -8560,7 +8564,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 172.72) (xy 154.94 186.69)
+			(xy 154.94 141.605) (xy 154.94 155.575)
 		)
 		(stroke
 			(width 0)
@@ -8570,7 +8574,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 85.09) (xy 198.12 86.36)
+			(xy 198.12 53.975) (xy 198.12 55.245)
 		)
 		(stroke
 			(width 0)
@@ -8590,7 +8594,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 166.37) (xy 132.08 172.72)
+			(xy 132.08 135.255) (xy 132.08 141.605)
 		)
 		(stroke
 			(width 0)
@@ -8640,7 +8644,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 88.9) (xy 214.63 88.9)
+			(xy 82.55 57.785) (xy 214.63 57.785)
 		)
 		(stroke
 			(width 0)
@@ -8650,7 +8654,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 184.15) (xy 82.55 184.15)
+			(xy 19.685 153.035) (xy 82.55 153.035)
 		)
 		(stroke
 			(width 0)
@@ -8670,7 +8674,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 30.48) (xy 22.86 34.29)
+			(xy 22.86 32.385) (xy 22.86 36.195)
 		)
 		(stroke
 			(width 0)
@@ -8690,7 +8694,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 148.59) (xy 99.06 149.86)
+			(xy 99.06 117.475) (xy 99.06 118.745)
 		)
 		(stroke
 			(width 0)
@@ -8760,7 +8764,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 118.11) (xy 99.06 118.11)
+			(xy 66.04 86.995) (xy 99.06 86.995)
 		)
 		(stroke
 			(width 0)
@@ -8790,7 +8794,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 184.15) (xy 181.61 180.34)
+			(xy 181.61 153.035) (xy 181.61 149.225)
 		)
 		(stroke
 			(width 0)
@@ -8820,7 +8824,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 34.29) (xy 39.37 34.29)
+			(xy 22.86 36.195) (xy 39.37 36.195)
 		)
 		(stroke
 			(width 0)
@@ -8840,7 +8844,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 181.61) (xy 198.12 181.61)
+			(xy 165.1 150.495) (xy 198.12 150.495)
 		)
 		(stroke
 			(width 0)
@@ -8860,7 +8864,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 34.29) (xy 171.45 109.22)
+			(xy 171.45 36.195) (xy 171.45 78.105)
 		)
 		(stroke
 			(width 0)
@@ -8900,7 +8904,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 34.29) (xy 138.43 172.72)
+			(xy 138.43 36.195) (xy 138.43 141.605)
 		)
 		(stroke
 			(width 0)
@@ -8980,7 +8984,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 180.34) (xy 99.06 181.61)
+			(xy 99.06 149.225) (xy 99.06 150.495)
 		)
 		(stroke
 			(width 0)
@@ -9050,7 +9054,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 34.29) (xy 187.96 77.47)
+			(xy 187.96 36.195) (xy 187.96 46.355)
 		)
 		(stroke
 			(width 0)
@@ -9100,7 +9104,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 152.4) (xy 82.55 152.4)
+			(xy 49.53 121.285) (xy 82.55 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9120,7 +9124,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 77.47) (xy 72.39 109.22)
+			(xy 72.39 46.355) (xy 72.39 78.105)
 		)
 		(stroke
 			(width 0)
@@ -9150,7 +9154,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 140.97) (xy 204.47 172.72)
+			(xy 204.47 109.855) (xy 204.47 141.605)
 		)
 		(stroke
 			(width 0)
@@ -9160,7 +9164,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 109.22) (xy 72.39 140.97)
+			(xy 72.39 78.105) (xy 72.39 109.855)
 		)
 		(stroke
 			(width 0)
@@ -9180,16 +9184,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 57.15) (xy 250.825 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "331fca24-a910-4272-a41a-435fa0a13179")
-	)
-	(wire
-		(pts
 			(xy 273.05 240.03) (xy 275.59 240.03)
 		)
 		(stroke
@@ -9200,7 +9194,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 34.29) (xy 237.49 109.22)
+			(xy 237.49 36.195) (xy 237.49 78.105)
 		)
 		(stroke
 			(width 0)
@@ -9230,7 +9224,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 118.11) (xy 198.12 118.11)
+			(xy 99.06 86.995) (xy 198.12 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9270,7 +9264,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 120.65) (xy 82.55 120.65)
+			(xy 49.53 89.535) (xy 82.55 89.535)
 		)
 		(stroke
 			(width 0)
@@ -9280,7 +9274,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 172.72) (xy 121.92 186.69)
+			(xy 121.92 141.605) (xy 121.92 155.575)
 		)
 		(stroke
 			(width 0)
@@ -9290,7 +9284,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 172.72) (xy 55.88 186.69)
+			(xy 55.88 141.605) (xy 55.88 155.575)
 		)
 		(stroke
 			(width 0)
@@ -9300,7 +9294,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 140.97) (xy 171.45 172.72)
+			(xy 171.45 109.855) (xy 171.45 141.605)
 		)
 		(stroke
 			(width 0)
@@ -9310,7 +9304,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 118.11) (xy 33.02 118.11)
+			(xy 19.685 86.995) (xy 33.02 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9320,7 +9314,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 140.97) (xy 237.49 172.72)
+			(xy 237.49 109.855) (xy 237.49 141.605)
 		)
 		(stroke
 			(width 0)
@@ -9330,7 +9324,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 147.32) (xy 129.54 151.13)
+			(xy 129.54 116.205) (xy 129.54 120.015)
 		)
 		(stroke
 			(width 0)
@@ -9350,7 +9344,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 172.72) (xy 187.96 186.69)
+			(xy 187.96 141.605) (xy 187.96 155.575)
 		)
 		(stroke
 			(width 0)
@@ -9370,7 +9364,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 118.11) (xy 250.825 118.11)
+			(xy 231.14 86.995) (xy 250.825 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9380,7 +9374,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 148.59) (xy 198.12 149.86)
+			(xy 198.12 117.475) (xy 198.12 118.745)
 		)
 		(stroke
 			(width 0)
@@ -9390,7 +9384,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 116.84) (xy 247.65 120.65)
+			(xy 247.65 85.725) (xy 247.65 89.535)
 		)
 		(stroke
 			(width 0)
@@ -9440,7 +9434,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 140.97) (xy 72.39 172.72)
+			(xy 72.39 109.855) (xy 72.39 141.605)
 		)
 		(stroke
 			(width 0)
@@ -9460,7 +9454,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 109.22) (xy 204.47 140.97)
+			(xy 204.47 78.105) (xy 204.47 109.855)
 		)
 		(stroke
 			(width 0)
@@ -9470,7 +9464,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 86.36) (xy 66.04 86.36)
+			(xy 19.685 55.245) (xy 66.04 55.245)
 		)
 		(stroke
 			(width 0)
@@ -9490,7 +9484,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 85.09) (xy 66.04 86.36)
+			(xy 66.04 53.975) (xy 66.04 55.245)
 		)
 		(stroke
 			(width 0)
@@ -9530,7 +9524,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 184.15) (xy 214.63 184.15)
+			(xy 181.61 153.035) (xy 214.63 153.035)
 		)
 		(stroke
 			(width 0)
@@ -9560,7 +9554,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 116.84) (xy 49.53 120.65)
+			(xy 49.53 85.725) (xy 49.53 89.535)
 		)
 		(stroke
 			(width 0)
@@ -9570,7 +9564,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 30.48) (xy 88.9 34.29)
+			(xy 88.9 32.385) (xy 88.9 36.195)
 		)
 		(stroke
 			(width 0)
@@ -9600,7 +9594,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 116.84) (xy 99.06 118.11)
+			(xy 99.06 85.725) (xy 99.06 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9630,7 +9624,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 152.4) (xy 181.61 152.4)
+			(xy 82.55 121.285) (xy 181.61 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9710,7 +9704,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 148.59) (xy 82.55 152.4)
+			(xy 82.55 117.475) (xy 82.55 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9720,7 +9714,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 152.4) (xy 214.63 152.4)
+			(xy 181.61 121.285) (xy 214.63 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9730,7 +9724,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 116.84) (xy 231.14 118.11)
+			(xy 231.14 85.725) (xy 231.14 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9750,7 +9744,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 34.29) (xy 55.88 34.29)
+			(xy 72.39 36.195) (xy 55.88 36.195)
 		)
 		(stroke
 			(width 0)
@@ -9770,7 +9764,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 181.61) (xy 99.06 181.61)
+			(xy 66.04 150.495) (xy 99.06 150.495)
 		)
 		(stroke
 			(width 0)
@@ -9780,7 +9774,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 109.22) (xy 55.88 140.97)
+			(xy 55.88 78.105) (xy 55.88 109.855)
 		)
 		(stroke
 			(width 0)
@@ -9790,7 +9784,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 149.86) (xy 198.12 149.86)
+			(xy 99.06 118.745) (xy 198.12 118.745)
 		)
 		(stroke
 			(width 0)
@@ -9810,7 +9804,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 152.4) (xy 49.53 152.4)
+			(xy 19.685 121.285) (xy 49.53 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9830,7 +9824,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 118.11) (xy 66.04 118.11)
+			(xy 33.02 86.995) (xy 66.04 86.995)
 		)
 		(stroke
 			(width 0)
@@ -9850,7 +9844,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 34.29) (xy 121.92 34.29)
+			(xy 138.43 36.195) (xy 121.92 36.195)
 		)
 		(stroke
 			(width 0)
@@ -9860,7 +9854,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 180.34) (xy 198.12 181.61)
+			(xy 198.12 149.225) (xy 198.12 150.495)
 		)
 		(stroke
 			(width 0)
@@ -9880,7 +9874,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 152.4) (xy 247.65 152.4)
+			(xy 214.63 121.285) (xy 247.65 121.285)
 		)
 		(stroke
 			(width 0)
@@ -9890,7 +9884,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 140.97) (xy 22.86 186.69)
+			(xy 22.86 109.855) (xy 22.86 155.575)
 		)
 		(stroke
 			(width 0)
@@ -9950,7 +9944,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 88.9) (xy 250.825 88.9)
+			(xy 214.63 57.785) (xy 250.825 57.785)
 		)
 		(stroke
 			(width 0)
@@ -9970,7 +9964,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 120.65) (xy 250.825 120.65)
+			(xy 247.65 89.535) (xy 250.825 89.535)
 		)
 		(stroke
 			(width 0)
@@ -10000,7 +9994,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 34.29) (xy 72.39 77.47)
+			(xy 72.39 36.195) (xy 72.39 46.355)
 		)
 		(stroke
 			(width 0)
@@ -10020,7 +10014,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 148.59) (xy 181.61 152.4)
+			(xy 181.61 117.475) (xy 181.61 121.285)
 		)
 		(stroke
 			(width 0)
@@ -10030,7 +10024,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 30.48) (xy 154.94 34.29)
+			(xy 154.94 32.385) (xy 154.94 36.195)
 		)
 		(stroke
 			(width 0)
@@ -10050,7 +10044,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 30.48) (xy 187.96 34.29)
+			(xy 187.96 32.385) (xy 187.96 36.195)
 		)
 		(stroke
 			(width 0)
@@ -10140,7 +10134,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 77.47) (xy 204.47 109.22)
+			(xy 204.47 46.355) (xy 204.47 78.105)
 		)
 		(stroke
 			(width 0)
@@ -10180,7 +10174,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 180.34) (xy 115.57 184.15)
+			(xy 115.57 149.225) (xy 115.57 153.035)
 		)
 		(stroke
 			(width 0)
@@ -10210,7 +10204,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 118.11) (xy 231.14 118.11)
+			(xy 198.12 86.995) (xy 231.14 86.995)
 		)
 		(stroke
 			(width 0)
@@ -10220,7 +10214,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 140.97) (xy 88.9 172.72)
+			(xy 88.9 109.855) (xy 88.9 141.605)
 		)
 		(stroke
 			(width 0)
@@ -10250,7 +10244,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 184.15) (xy 181.61 184.15)
+			(xy 115.57 153.035) (xy 181.61 153.035)
 		)
 		(stroke
 			(width 0)
@@ -10270,7 +10264,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 109.22) (xy 171.45 140.97)
+			(xy 171.45 78.105) (xy 171.45 109.855)
 		)
 		(stroke
 			(width 0)
@@ -10280,7 +10274,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 140.97) (xy 55.88 172.72)
+			(xy 55.88 109.855) (xy 55.88 141.605)
 		)
 		(stroke
 			(width 0)
@@ -10290,7 +10284,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 34.29) (xy 121.92 166.37)
+			(xy 121.92 36.195) (xy 121.92 135.255)
 		)
 		(stroke
 			(width 0)
@@ -10300,7 +10294,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 148.59) (xy 49.53 152.4)
+			(xy 49.53 117.475) (xy 49.53 121.285)
 		)
 		(stroke
 			(width 0)
@@ -10370,7 +10364,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 181.61) (xy 250.825 181.61)
+			(xy 198.12 150.495) (xy 250.825 150.495)
 		)
 		(stroke
 			(width 0)
@@ -10430,7 +10424,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 34.29) (xy 204.47 77.47)
+			(xy 204.47 36.195) (xy 204.47 46.355)
 		)
 		(stroke
 			(width 0)
@@ -10460,7 +10454,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 180.34) (xy 214.63 184.15)
+			(xy 214.63 149.225) (xy 214.63 153.035)
 		)
 		(stroke
 			(width 0)
@@ -10470,7 +10464,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 109.22) (xy 22.86 140.97)
+			(xy 22.86 78.105) (xy 22.86 109.855)
 		)
 		(stroke
 			(width 0)
@@ -10520,7 +10514,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 140.97) (xy 187.96 172.72)
+			(xy 187.96 109.855) (xy 187.96 141.605)
 		)
 		(stroke
 			(width 0)
@@ -10530,7 +10524,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 34.29) (xy 220.98 109.22)
+			(xy 220.98 36.195) (xy 220.98 78.105)
 		)
 		(stroke
 			(width 0)
@@ -10550,7 +10544,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 116.84) (xy 33.02 118.11)
+			(xy 33.02 85.725) (xy 33.02 86.995)
 		)
 		(stroke
 			(width 0)
@@ -10560,7 +10554,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 149.86) (xy 99.06 149.86)
+			(xy 66.04 118.745) (xy 99.06 118.745)
 		)
 		(stroke
 			(width 0)
@@ -10590,7 +10584,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 166.37) (xy 127 166.37)
+			(xy 121.92 135.255) (xy 127 135.255)
 		)
 		(stroke
 			(width 0)
@@ -10600,7 +10594,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 34.29) (xy 105.41 172.72)
+			(xy 105.41 36.195) (xy 105.41 141.605)
 		)
 		(stroke
 			(width 0)
@@ -10620,7 +10614,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 34.29) (xy 220.98 34.29)
+			(xy 237.49 36.195) (xy 220.98 36.195)
 		)
 		(stroke
 			(width 0)
@@ -10630,7 +10624,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 148.59) (xy 33.02 149.86)
+			(xy 33.02 117.475) (xy 33.02 118.745)
 		)
 		(stroke
 			(width 0)
@@ -10680,7 +10674,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 120.65) (xy 49.53 120.65)
+			(xy 19.685 89.535) (xy 49.53 89.535)
 		)
 		(stroke
 			(width 0)
@@ -10690,7 +10684,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 34.29) (xy 88.9 109.22)
+			(xy 88.9 36.195) (xy 88.9 78.105)
 		)
 		(stroke
 			(width 0)
@@ -10700,7 +10694,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 149.86) (xy 66.04 149.86)
+			(xy 33.02 118.745) (xy 66.04 118.745)
 		)
 		(stroke
 			(width 0)
@@ -10710,7 +10704,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 34.29) (xy 39.37 109.22)
+			(xy 39.37 36.195) (xy 39.37 78.105)
 		)
 		(stroke
 			(width 0)
@@ -10720,7 +10714,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 109.22) (xy 237.49 140.97)
+			(xy 237.49 78.105) (xy 237.49 109.855)
 		)
 		(stroke
 			(width 0)
@@ -10740,7 +10734,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 149.86) (xy 231.14 149.86)
+			(xy 198.12 118.745) (xy 231.14 118.745)
 		)
 		(stroke
 			(width 0)
@@ -10760,7 +10754,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 116.84) (xy 214.63 120.65)
+			(xy 214.63 85.725) (xy 214.63 89.535)
 		)
 		(stroke
 			(width 0)
@@ -10770,7 +10764,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 181.61) (xy 165.1 181.61)
+			(xy 132.08 150.495) (xy 165.1 150.495)
 		)
 		(stroke
 			(width 0)
@@ -10780,7 +10774,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 149.86) (xy 33.02 149.86)
+			(xy 19.685 118.745) (xy 33.02 118.745)
 		)
 		(stroke
 			(width 0)
@@ -10850,7 +10844,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 181.61) (xy 132.08 181.61)
+			(xy 99.06 150.495) (xy 132.08 150.495)
 		)
 		(stroke
 			(width 0)
@@ -10860,7 +10854,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 109.22) (xy 220.98 140.97)
+			(xy 220.98 78.105) (xy 220.98 109.855)
 		)
 		(stroke
 			(width 0)
@@ -10900,7 +10894,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.825 152.4) (xy 247.65 152.4)
+			(xy 250.825 121.285) (xy 247.65 121.285)
 		)
 		(stroke
 			(width 0)
@@ -10930,7 +10924,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 120.65) (xy 247.65 120.65)
+			(xy 214.63 89.535) (xy 247.65 89.535)
 		)
 		(stroke
 			(width 0)
@@ -10980,7 +10974,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 184.15) (xy 250.825 184.15)
+			(xy 214.63 153.035) (xy 250.825 153.035)
 		)
 		(stroke
 			(width 0)
@@ -11000,7 +10994,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.685 88.9) (xy 82.55 88.9)
+			(xy 19.685 57.785) (xy 82.55 57.785)
 		)
 		(stroke
 			(width 0)
@@ -11030,7 +11024,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 184.15) (xy 115.57 184.15)
+			(xy 82.55 153.035) (xy 115.57 153.035)
 		)
 		(stroke
 			(width 0)
@@ -11040,7 +11034,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 148.59) (xy 214.63 152.4)
+			(xy 214.63 117.475) (xy 214.63 121.285)
 		)
 		(stroke
 			(width 0)
@@ -11060,7 +11054,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 140.97) (xy 220.98 186.69)
+			(xy 220.98 109.855) (xy 220.98 155.575)
 		)
 		(stroke
 			(width 0)
@@ -11070,7 +11064,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 30.48) (xy 55.88 34.29)
+			(xy 55.88 32.385) (xy 55.88 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11110,7 +11104,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 109.22) (xy 187.96 140.97)
+			(xy 187.96 78.105) (xy 187.96 109.855)
 		)
 		(stroke
 			(width 0)
@@ -11137,16 +11131,6 @@
 			(type default)
 		)
 		(uuid "c36df7cb-2c3b-4614-8478-5f62cc5fc1fc")
-	)
-	(wire
-		(pts
-			(xy 19.685 54.61) (xy 250.825 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4d08caa-2144-47d4-974e-2a1fee68e039")
 	)
 	(wire
 		(pts
@@ -11190,7 +11174,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 109.22) (xy 88.9 140.97)
+			(xy 88.9 78.105) (xy 88.9 109.855)
 		)
 		(stroke
 			(width 0)
@@ -11200,7 +11184,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 34.29) (xy 154.94 34.29)
+			(xy 171.45 36.195) (xy 154.94 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11210,7 +11194,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 34.29) (xy 187.96 34.29)
+			(xy 204.47 36.195) (xy 187.96 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11260,7 +11244,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 120.65) (xy 214.63 120.65)
+			(xy 181.61 89.535) (xy 214.63 89.535)
 		)
 		(stroke
 			(width 0)
@@ -11280,7 +11264,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 116.84) (xy 181.61 120.65)
+			(xy 181.61 85.725) (xy 181.61 89.535)
 		)
 		(stroke
 			(width 0)
@@ -11320,7 +11304,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 180.34) (xy 132.08 181.61)
+			(xy 132.08 149.225) (xy 132.08 150.495)
 		)
 		(stroke
 			(width 0)
@@ -11430,7 +11414,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 180.34) (xy 66.04 181.61)
+			(xy 66.04 149.225) (xy 66.04 150.495)
 		)
 		(stroke
 			(width 0)
@@ -11440,7 +11424,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 148.59) (xy 66.04 149.86)
+			(xy 66.04 117.475) (xy 66.04 118.745)
 		)
 		(stroke
 			(width 0)
@@ -11450,7 +11434,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 148.59) (xy 247.65 152.4)
+			(xy 247.65 117.475) (xy 247.65 121.285)
 		)
 		(stroke
 			(width 0)
@@ -11460,7 +11444,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 34.29) (xy 88.9 34.29)
+			(xy 105.41 36.195) (xy 88.9 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11470,7 +11454,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 86.36) (xy 198.12 86.36)
+			(xy 66.04 55.245) (xy 198.12 55.245)
 		)
 		(stroke
 			(width 0)
@@ -11490,7 +11474,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 34.29) (xy 154.94 172.72)
+			(xy 154.94 36.195) (xy 154.94 141.605)
 		)
 		(stroke
 			(width 0)
@@ -11510,7 +11494,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 77.47) (xy 187.96 109.22)
+			(xy 187.96 46.355) (xy 187.96 78.105)
 		)
 		(stroke
 			(width 0)
@@ -11530,7 +11514,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 180.34) (xy 82.55 184.15)
+			(xy 82.55 149.225) (xy 82.55 153.035)
 		)
 		(stroke
 			(width 0)
@@ -11540,7 +11524,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 148.59) (xy 231.14 149.86)
+			(xy 231.14 117.475) (xy 231.14 118.745)
 		)
 		(stroke
 			(width 0)
@@ -11550,7 +11534,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 109.22) (xy 39.37 140.97)
+			(xy 39.37 78.105) (xy 39.37 109.855)
 		)
 		(stroke
 			(width 0)
@@ -11560,7 +11544,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 180.34) (xy 165.1 181.61)
+			(xy 165.1 149.225) (xy 165.1 150.495)
 		)
 		(stroke
 			(width 0)
@@ -11590,7 +11574,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 77.47) (xy 55.88 109.22)
+			(xy 55.88 46.355) (xy 55.88 78.105)
 		)
 		(stroke
 			(width 0)
@@ -11620,7 +11604,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 166.37) (xy 121.92 172.72)
+			(xy 121.92 135.255) (xy 121.92 141.605)
 		)
 		(stroke
 			(width 0)
@@ -11670,7 +11654,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 120.65) (xy 181.61 120.65)
+			(xy 82.55 89.535) (xy 181.61 89.535)
 		)
 		(stroke
 			(width 0)
@@ -11690,7 +11674,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 85.09) (xy 82.55 88.9)
+			(xy 82.55 53.975) (xy 82.55 57.785)
 		)
 		(stroke
 			(width 0)
@@ -11710,7 +11694,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 149.86) (xy 250.825 149.86)
+			(xy 231.14 118.745) (xy 250.825 118.745)
 		)
 		(stroke
 			(width 0)
@@ -11750,7 +11734,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 85.09) (xy 214.63 88.9)
+			(xy 214.63 53.975) (xy 214.63 57.785)
 		)
 		(stroke
 			(width 0)
@@ -11760,7 +11744,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 30.48) (xy 220.98 34.29)
+			(xy 220.98 32.385) (xy 220.98 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11780,7 +11764,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 116.84) (xy 66.04 118.11)
+			(xy 66.04 85.725) (xy 66.04 86.995)
 		)
 		(stroke
 			(width 0)
@@ -11790,7 +11774,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 34.29) (xy 22.86 109.22)
+			(xy 22.86 36.195) (xy 22.86 78.105)
 		)
 		(stroke
 			(width 0)
@@ -11800,7 +11784,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 30.48) (xy 121.92 34.29)
+			(xy 121.92 32.385) (xy 121.92 36.195)
 		)
 		(stroke
 			(width 0)
@@ -11810,7 +11794,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 86.36) (xy 250.825 86.36)
+			(xy 198.12 55.245) (xy 250.825 55.245)
 		)
 		(stroke
 			(width 0)
@@ -11820,7 +11804,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 116.84) (xy 198.12 118.11)
+			(xy 198.12 85.725) (xy 198.12 86.995)
 		)
 		(stroke
 			(width 0)
@@ -11840,7 +11824,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 172.72) (xy 88.9 186.69)
+			(xy 88.9 141.605) (xy 88.9 155.575)
 		)
 		(stroke
 			(width 0)
@@ -11850,7 +11834,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 34.29) (xy 55.88 77.47)
+			(xy 55.88 36.195) (xy 55.88 46.355)
 		)
 		(stroke
 			(width 0)
@@ -11870,7 +11854,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 116.84) (xy 82.55 120.65)
+			(xy 82.55 85.725) (xy 82.55 89.535)
 		)
 		(stroke
 			(width 0)
@@ -11918,17 +11902,6 @@
 		)
 		(uuid "feb061df-27f9-4f3f-8a3e-b45029456fb2")
 	)
-	(text "TopへはGNDも送りたいが、ピンが足りない。"
-		(exclude_from_sim no)
-		(at 44.45 251.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "08a8936e-77a0-4f82-97f4-603da18f0771")
-	)
 	(text "SCREWS to Mid"
 		(exclude_from_sim no)
 		(at 182.245 249.555 0)
@@ -11942,6 +11915,29 @@
 		)
 		(uuid "0fa6f235-af74-42f3-b3f0-eeeb8dcb0dda")
 	)
+	(text "コネクタとネジはWIP"
+		(exclude_from_sim no)
+		(at 71.12 196.215 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "12c7c0e1-c37f-4e46-957a-6260e8211792")
+	)
+	(text "Mid_GNDを仮につけている\n"
+		(exclude_from_sim no)
+		(at 168.275 236.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e64a78b-5bff-430c-aad4-9b05394d41b6")
+	)
 	(text "SCREWS\nto Bottom Plate"
 		(exclude_from_sim no)
 		(at 182.245 230.505 0)
@@ -11954,17 +11950,6 @@
 			(justify left bottom)
 		)
 		(uuid "2047de1d-d107-4a52-9b0e-f8aba56a9269")
-	)
-	(text "row2はMidで使用していないが、ピンが余っているので追加。"
-		(exclude_from_sim no)
-		(at 68.58 208.915 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "21e338e3-9866-4e45-a208-6eb4a0e46a1a")
 	)
 	(text "Speaker"
 		(exclude_from_sim no)
@@ -12233,40 +12218,9 @@
 			)
 		)
 	)
-	(global_label "row8"
-		(shape input)
-		(at 19.685 152.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "08649331-01ca-4ffc-949f-293808a41bcd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 152.3206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "row3"
 		(shape input)
-		(at 19.685 149.86 180)
+		(at 19.685 150.495 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12276,7 +12230,7 @@
 		)
 		(uuid "08c9d64c-cfc5-45bd-8a76-179995ecd5b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -4.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12285,12 +12239,34 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 149.7806 0)
+			(at 12.8856 150.4156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO14"
+		(shape input)
+		(at 394.335 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e328925-a586-4aeb-84c9-20699a9c1fab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 403.5603 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12328,7 +12304,7 @@
 	)
 	(global_label "col6"
 		(shape input)
-		(at 220.98 30.48 90)
+		(at 220.98 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12338,7 +12314,7 @@
 		)
 		(uuid "11c38ff4-6817-4486-87a4-0bfcd55815a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12347,7 +12323,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 220.9006 24.0434 90)
+			(at 220.9006 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12613,7 +12589,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 154.94 30.48 90)
+		(at 154.94 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12623,7 +12599,7 @@
 		)
 		(uuid "1c4a7156-4f4c-40b2-a128-41d8cd013d20")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12632,7 +12608,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 154.8606 24.0434 90)
+			(at 154.8606 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12824,6 +12800,28 @@
 		(uuid "2624ae63-ec70-4972-a8b5-8c61b2825554")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 402.3508 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO5"
+		(shape input)
+		(at 394.335 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "27f612c9-3f71-40a2-a20d-2a191bc38584")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 402.3508 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13078,7 +13076,7 @@
 	)
 	(global_label "row7"
 		(shape input)
-		(at 19.685 120.65 180)
+		(at 19.685 153.035 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13088,7 +13086,7 @@
 		)
 		(uuid "3fa66118-ff19-4872-a291-9f4f527cf6c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13097,7 +13095,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 120.5706 0)
+			(at 12.8856 152.9556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13533,7 +13531,7 @@
 	)
 	(global_label "row6"
 		(shape input)
-		(at 19.685 88.9 180)
+		(at 19.685 121.285 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13543,7 +13541,7 @@
 		)
 		(uuid "599278ad-2af0-4d4b-9091-a8f3c6749f18")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13552,7 +13550,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 88.8206 0)
+			(at 12.8856 121.2056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13776,7 +13774,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 88.9 30.48 90)
+		(at 88.9 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13786,7 +13784,7 @@
 		)
 		(uuid "62240837-deea-4099-b4a3-94eed9a858c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13795,38 +13793,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 88.8206 24.0434 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Mid_row8"
-		(shape input)
-		(at 143.51 236.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "64d355c9-c793-4165-bbca-76c46be323b2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -52.07 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 154.4823 236.1406 0)
+			(at 88.8206 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14101,7 +14068,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 19.685 118.11 180)
+		(at 19.685 118.745 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14111,7 +14078,7 @@
 		)
 		(uuid "76a031c6-8f13-481e-b777-4bfce4ecba17")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -4.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14120,7 +14087,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 118.0306 0)
+			(at 12.8856 118.6656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14194,7 +14161,7 @@
 	)
 	(global_label "RE_Base1_A"
 		(shape input)
-		(at 132.08 151.13 90)
+		(at 132.08 120.015 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14204,7 +14171,7 @@
 		)
 		(uuid "80a1e66c-8a20-4a6b-8895-4319126f0c74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.08 137.611 90)
+			(at 132.08 106.496 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14214,7 +14181,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 133.9152 151.13 90)
+			(at 133.9152 120.015 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14226,7 +14193,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 19.685 86.36 180)
+		(at 19.685 86.995 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14236,7 +14203,7 @@
 		)
 		(uuid "81a28a73-1336-4d97-a6e0-cc274e2d8c6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -4.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14245,7 +14212,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 86.2806 0)
+			(at 12.8856 86.9156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14299,37 +14266,6 @@
 		(uuid "84b21296-24f6-45d4-9950-16f94bb858bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 330.9619 128.1906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row9"
-		(shape input)
-		(at 19.685 184.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "866d73a4-9d4e-4647-934f-c04c451131a0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 184.0706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14666,37 +14602,6 @@
 			)
 		)
 	)
-	(global_label "row8"
-		(shape input)
-		(at 125.73 217.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9c16f8ee-596e-46ec-a0d1-4247b32bd6e3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -52.07 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 118.9306 217.0906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col5"
 		(shape input)
 		(at 252.095 263.525 180)
@@ -14729,9 +14634,41 @@
 			)
 		)
 	)
+	(global_label "Mid_GND"
+		(shape input)
+		(at 143.51 236.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a201bc0b-aead-4119-897b-5dd5130cebfb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.8843 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 143.51 238.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col5"
 		(shape input)
-		(at 187.96 30.48 90)
+		(at 187.96 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14741,7 +14678,7 @@
 		)
 		(uuid "a2676128-b6bb-4fbd-b6c3-b775182cf770")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14750,7 +14687,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 187.8806 24.0434 90)
+			(at 187.8806 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14837,7 +14774,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 22.86 30.48 90)
+		(at 22.86 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14847,7 +14784,7 @@
 		)
 		(uuid "a7b50c7b-09ae-4c74-a000-d0d6c218bf06")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14856,7 +14793,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 22.7806 24.0434 90)
+			(at 22.7806 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15006,7 +14943,7 @@
 	)
 	(global_label "row5"
 		(shape input)
-		(at 19.685 57.15 180)
+		(at 19.685 89.535 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15016,7 +14953,7 @@
 		)
 		(uuid "ae21a3e6-df71-420c-90b3-c1e1dc07cb5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,7 +14962,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 57.0706 0)
+			(at 12.8856 89.4556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15037,7 +14974,7 @@
 	)
 	(global_label "RE_Base1_B"
 		(shape input)
-		(at 127 151.13 90)
+		(at 127 120.015 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15047,7 +14984,7 @@
 		)
 		(uuid "aea6395e-6b6d-404c-91ca-a101847142bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127 137.4296 90)
+			(at 127 106.3146 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15057,7 +14994,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 128.8352 151.13 90)
+			(at 128.8352 120.015 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15164,7 +15101,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 55.88 30.48 90)
+		(at 55.88 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15174,7 +15111,7 @@
 		)
 		(uuid "b0f2df7d-31fc-4604-8745-a1699bfd2022")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15183,7 +15120,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 55.8006 24.0434 90)
+			(at 55.8006 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15492,99 +15429,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row4"
-		(shape input)
-		(at 19.685 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c0c79c84-8263-4f13-8772-e02f08810de6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 181.5306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row9"
-		(shape input)
-		(at 394.335 130.81 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c13805e9-38b7-4183-a0f1-8af28a86d23f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 5.08 17.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 401.1344 130.7306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row8"
-		(shape input)
-		(at 242.57 281.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c3de07be-3df0-436f-a2f0-f379eaa372f6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.615 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 235.7706 281.8606 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -15914,7 +15758,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 121.92 30.48 90)
+		(at 121.92 32.385 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15924,7 +15768,7 @@
 		)
 		(uuid "d8ff192e-468b-4ba0-a5f7-e3dfde0a7f5b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -3.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15933,7 +15777,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 121.8406 24.0434 90)
+			(at 121.8406 25.9484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16260,6 +16104,38 @@
 			)
 		)
 	)
+	(global_label "row4"
+		(shape input)
+		(at 19.685 57.785 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eceb29e0-d5f0-4226-8777-35a00eb81ef4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 12.8788 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
+			(at 19.685 59.6202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Top_row6"
 		(shape input)
 		(at 40.64 279.4 0)
@@ -16282,37 +16158,6 @@
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
 			(at 51.6728 279.3206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row8"
-		(shape input)
-		(at 394.335 143.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ee33e067-e685-4f4f-ae5f-fac29a19ff02")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 5.08 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 401.1344 143.4306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16346,7 +16191,7 @@
 	)
 	(global_label "row0"
 		(shape input)
-		(at 19.685 54.61 180)
+		(at 19.685 55.245 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16356,7 +16201,7 @@
 		)
 		(uuid "f2d39e49-4247-4136-bb7c-2b6338b32269")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -5.08 0)
+			(at -1.27 -4.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16365,7 +16210,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 12.8856 54.5306 0)
+			(at 12.8856 55.1656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16421,7 +16266,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 242.57 140.97 0)
+		(at 242.57 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16429,7 +16274,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005efede4b")
 		(property "Reference" "SW_/1"
-			(at 242.57 133.731 0)
+			(at 242.57 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16437,7 +16282,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 242.57 136.0424 0)
+			(at 242.57 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16445,7 +16290,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 242.57 135.89 0)
+			(at 242.57 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16454,7 +16299,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 242.57 135.89 0)
+			(at 242.57 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16463,7 +16308,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 242.57 140.97 0)
+			(at 242.57 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16488,7 +16333,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 172.72 0)
+		(at 77.47 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16496,7 +16341,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f0a9f06")
 		(property "Reference" "SW_LALTu1"
-			(at 77.47 165.481 0)
+			(at 77.47 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16504,7 +16349,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 77.47 167.7924 0)
+			(at 77.47 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16512,7 +16357,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 77.47 167.64 0)
+			(at 77.47 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16521,7 +16366,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 167.64 0)
+			(at 77.47 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16530,7 +16375,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 172.72 0)
+			(at 77.47 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16555,7 +16400,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 214.63 176.53 90)
+		(at 214.63 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16563,7 +16408,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f10665e")
 		(property "Reference" "D33"
-			(at 216.662 175.3616 90)
+			(at 216.662 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16572,7 +16417,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.662 177.673 90)
+			(at 216.662 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16581,7 +16426,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16590,7 +16435,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16599,7 +16444,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16608,7 +16453,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16617,7 +16462,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16626,7 +16471,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 214.63 176.53 0)
+			(at 214.63 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16651,7 +16496,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 209.55 172.72 0)
+		(at 209.55 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16659,7 +16504,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f106675")
 		(property "Reference" "SW_RWIN1"
-			(at 209.55 165.481 0)
+			(at 209.55 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16667,7 +16512,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 209.55 167.7924 0)
+			(at 209.55 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16675,7 +16520,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 209.55 167.64 0)
+			(at 209.55 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16684,7 +16529,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 167.64 0)
+			(at 209.55 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16693,7 +16538,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 172.72 0)
+			(at 209.55 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16718,7 +16563,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 181.61 176.53 90)
+		(at 181.61 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16726,7 +16571,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1d06d0")
 		(property "Reference" "D31"
-			(at 183.642 175.3616 90)
+			(at 183.642 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16735,7 +16580,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 183.642 177.673 90)
+			(at 183.642 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16744,7 +16589,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16753,7 +16598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16762,7 +16607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16771,7 +16616,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16780,7 +16625,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16789,7 +16634,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 181.61 176.53 0)
+			(at 181.61 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16814,7 +16659,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 60.96 172.72 0)
+		(at 60.96 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16822,7 +16667,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f29dc6b")
 		(property "Reference" "SW_LWIN1"
-			(at 60.96 165.481 0)
+			(at 60.96 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16830,7 +16675,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 60.96 167.7924 0)
+			(at 60.96 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16838,7 +16683,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 60.96 167.64 0)
+			(at 60.96 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16847,7 +16692,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 167.64 0)
+			(at 60.96 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16856,7 +16701,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 172.72 0)
+			(at 60.96 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16881,7 +16726,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 66.04 176.53 90)
+		(at 66.04 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16889,7 +16734,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f29dc79")
 		(property "Reference" "D25"
-			(at 68.072 175.3616 90)
+			(at 68.072 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16898,7 +16743,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 68.072 177.673 90)
+			(at 68.072 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16907,7 +16752,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16916,7 +16761,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16925,7 +16770,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16934,7 +16779,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16943,7 +16788,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16952,7 +16797,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 176.53 0)
+			(at 66.04 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16977,7 +16822,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 60.96 77.47 0)
+		(at 60.96 46.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16985,7 +16830,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b34b")
 		(property "Reference" "SW_W1"
-			(at 60.96 70.231 0)
+			(at 60.96 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16993,7 +16838,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 60.96 72.5424 0)
+			(at 60.96 41.4274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17001,7 +16846,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 60.96 72.39 0)
+			(at 60.96 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17010,7 +16855,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 72.39 0)
+			(at 60.96 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17019,7 +16864,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 77.47 0)
+			(at 60.96 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17044,7 +16889,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 66.04 81.28 90)
+		(at 66.04 50.165 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17052,7 +16897,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b351")
 		(property "Reference" "D1"
-			(at 68.072 80.1116 90)
+			(at 68.072 48.9966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17061,7 +16906,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 68.072 82.423 90)
+			(at 68.072 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17070,7 +16915,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17079,7 +16924,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17088,7 +16933,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17097,7 +16942,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17106,7 +16951,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17115,7 +16960,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 81.28 0)
+			(at 66.04 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17140,7 +16985,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 77.47 0)
+		(at 77.47 46.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17148,7 +16993,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b357")
 		(property "Reference" "SW_E1"
-			(at 77.47 70.231 0)
+			(at 77.47 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17156,7 +17001,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 77.47 72.5424 0)
+			(at 77.47 41.4274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17164,7 +17009,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 77.47 72.39 0)
+			(at 77.47 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17173,7 +17018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 72.39 0)
+			(at 77.47 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17182,7 +17027,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 77.47 0)
+			(at 77.47 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17207,7 +17052,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 82.55 81.28 90)
+		(at 82.55 50.165 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17215,7 +17060,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b35d")
 		(property "Reference" "D2"
-			(at 84.582 80.1116 90)
+			(at 84.582 48.9966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17224,7 +17069,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 84.582 82.423 90)
+			(at 84.582 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17233,7 +17078,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17242,7 +17087,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17251,7 +17096,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17260,7 +17105,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17269,7 +17114,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17278,7 +17123,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 82.55 81.28 0)
+			(at 82.55 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17303,7 +17148,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 209.55 77.47 0)
+		(at 209.55 46.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17311,7 +17156,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b387")
 		(property "Reference" "SW_O1"
-			(at 209.55 70.231 0)
+			(at 209.55 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17319,7 +17164,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 209.55 72.5424 0)
+			(at 209.55 41.4274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17327,7 +17172,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 209.55 72.39 0)
+			(at 209.55 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17336,7 +17181,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 72.39 0)
+			(at 209.55 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17345,7 +17190,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 77.47 0)
+			(at 209.55 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17370,7 +17215,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 214.63 81.28 90)
+		(at 214.63 50.165 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17378,7 +17223,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b38d")
 		(property "Reference" "D4"
-			(at 216.662 80.1116 90)
+			(at 216.662 48.9966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17387,7 +17232,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.662 82.423 90)
+			(at 216.662 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17396,7 +17241,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17405,7 +17250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17414,7 +17259,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17423,7 +17268,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17432,7 +17277,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17441,7 +17286,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 214.63 81.28 0)
+			(at 214.63 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17466,7 +17311,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 193.04 77.47 0)
+		(at 193.04 46.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17474,7 +17319,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b3b7")
 		(property "Reference" "SW_I1"
-			(at 193.04 70.231 0)
+			(at 193.04 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17482,7 +17327,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 193.04 72.5424 0)
+			(at 193.04 41.4274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17490,7 +17335,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 193.04 72.39 0)
+			(at 193.04 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17499,7 +17344,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 72.39 0)
+			(at 193.04 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17508,7 +17353,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 77.47 0)
+			(at 193.04 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17533,7 +17378,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 198.12 81.28 90)
+		(at 198.12 50.165 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17541,7 +17386,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f65b3bd")
 		(property "Reference" "D3"
-			(at 200.152 80.1116 90)
+			(at 200.152 48.9966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17550,7 +17395,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 200.152 82.423 90)
+			(at 200.152 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17559,7 +17404,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17568,7 +17413,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17577,7 +17422,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17586,7 +17431,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17595,7 +17440,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17604,7 +17449,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 81.28 0)
+			(at 198.12 50.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17629,7 +17474,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 33.02 113.03 90)
+		(at 33.02 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17637,7 +17482,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665845")
 		(property "Reference" "D5"
-			(at 35.052 111.8616 90)
+			(at 35.052 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17646,7 +17491,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 35.052 114.173 90)
+			(at 35.052 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17655,7 +17500,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17664,7 +17509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17673,7 +17518,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17682,7 +17527,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17691,7 +17536,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17700,7 +17545,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 33.02 113.03 0)
+			(at 33.02 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17725,7 +17570,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 44.45 109.22 0)
+		(at 44.45 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17733,7 +17578,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66584b")
 		(property "Reference" "SW_A1"
-			(at 44.45 101.981 0)
+			(at 44.45 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17741,7 +17586,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 44.45 104.2924 0)
+			(at 44.45 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17749,7 +17594,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 44.45 104.14 0)
+			(at 44.45 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17758,7 +17603,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 104.14 0)
+			(at 44.45 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17767,7 +17612,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 109.22 0)
+			(at 44.45 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17792,7 +17637,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 49.53 113.03 90)
+		(at 49.53 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17800,7 +17645,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665851")
 		(property "Reference" "D6"
-			(at 51.562 111.8616 90)
+			(at 51.562 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17809,7 +17654,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 51.562 114.173 90)
+			(at 51.562 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17818,7 +17663,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17827,7 +17672,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17836,7 +17681,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17845,7 +17690,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17854,7 +17699,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17863,7 +17708,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 49.53 113.03 0)
+			(at 49.53 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17888,7 +17733,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 60.96 109.22 0)
+		(at 60.96 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17896,7 +17741,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665857")
 		(property "Reference" "SW_S1"
-			(at 60.96 101.981 0)
+			(at 60.96 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17904,7 +17749,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 60.96 104.2924 0)
+			(at 60.96 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17912,7 +17757,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 60.96 104.14 0)
+			(at 60.96 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17921,7 +17766,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 104.14 0)
+			(at 60.96 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17930,7 +17775,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 109.22 0)
+			(at 60.96 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17955,7 +17800,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 66.04 113.03 90)
+		(at 66.04 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17963,7 +17808,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66585d")
 		(property "Reference" "D7"
-			(at 68.072 111.8616 90)
+			(at 68.072 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17972,7 +17817,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 68.072 114.173 90)
+			(at 68.072 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17981,7 +17826,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17990,7 +17835,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17999,7 +17844,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18008,7 +17853,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18017,7 +17862,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18026,7 +17871,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 113.03 0)
+			(at 66.04 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18051,7 +17896,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 109.22 0)
+		(at 77.47 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18059,7 +17904,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665863")
 		(property "Reference" "SW_D1"
-			(at 77.47 101.981 0)
+			(at 77.47 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18067,7 +17912,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 77.47 104.2924 0)
+			(at 77.47 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18075,7 +17920,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 77.47 104.14 0)
+			(at 77.47 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18084,7 +17929,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 104.14 0)
+			(at 77.47 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18093,7 +17938,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 109.22 0)
+			(at 77.47 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18118,7 +17963,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 82.55 113.03 90)
+		(at 82.55 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18126,7 +17971,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665869")
 		(property "Reference" "D8"
-			(at 84.582 111.8616 90)
+			(at 84.582 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18135,7 +17980,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 84.582 114.173 90)
+			(at 84.582 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18144,7 +17989,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18153,7 +17998,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18162,7 +18007,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18171,7 +18016,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18180,7 +18025,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18189,7 +18034,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 82.55 113.03 0)
+			(at 82.55 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18214,7 +18059,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 93.98 109.22 0)
+		(at 93.98 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18222,7 +18067,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66586f")
 		(property "Reference" "SW_F1"
-			(at 93.98 101.981 0)
+			(at 93.98 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18230,7 +18075,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 93.98 104.2924 0)
+			(at 93.98 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18238,7 +18083,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 93.98 104.14 0)
+			(at 93.98 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18247,7 +18092,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 104.14 0)
+			(at 93.98 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18256,7 +18101,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 109.22 0)
+			(at 93.98 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18281,7 +18126,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 99.06 113.03 90)
+		(at 99.06 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18289,7 +18134,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665875")
 		(property "Reference" "D9"
-			(at 101.092 111.8616 90)
+			(at 101.092 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18298,7 +18143,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 101.092 114.173 90)
+			(at 101.092 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18307,7 +18152,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18316,7 +18161,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18325,7 +18170,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18334,7 +18179,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18343,7 +18188,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18352,7 +18197,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 99.06 113.03 0)
+			(at 99.06 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18377,7 +18222,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 209.55 109.22 0)
+		(at 209.55 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18385,7 +18230,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665893")
 		(property "Reference" "SW_L1"
-			(at 209.55 101.981 0)
+			(at 209.55 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18393,7 +18238,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 209.55 104.2924 0)
+			(at 209.55 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18401,7 +18246,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 209.55 104.14 0)
+			(at 209.55 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18410,7 +18255,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 104.14 0)
+			(at 209.55 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18419,7 +18264,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 109.22 0)
+			(at 209.55 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18444,7 +18289,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 214.63 113.03 90)
+		(at 214.63 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18452,7 +18297,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f665899")
 		(property "Reference" "D12"
-			(at 216.662 111.8616 90)
+			(at 216.662 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18461,7 +18306,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.662 114.173 90)
+			(at 216.662 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18470,7 +18315,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18479,7 +18324,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18488,7 +18333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18497,7 +18342,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18506,7 +18351,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18515,7 +18360,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 214.63 113.03 0)
+			(at 214.63 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18540,7 +18385,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 176.53 109.22 0)
+		(at 176.53 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18548,7 +18393,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6658b7")
 		(property "Reference" "SW_J1"
-			(at 176.53 101.981 0)
+			(at 176.53 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18556,7 +18401,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 176.53 104.2924 0)
+			(at 176.53 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18564,7 +18409,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 176.53 104.14 0)
+			(at 176.53 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18573,7 +18418,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 104.14 0)
+			(at 176.53 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18582,7 +18427,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 109.22 0)
+			(at 176.53 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18607,7 +18452,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 181.61 113.03 90)
+		(at 181.61 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18615,7 +18460,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6658bd")
 		(property "Reference" "D10"
-			(at 183.642 111.8616 90)
+			(at 183.642 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18624,7 +18469,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 183.642 114.173 90)
+			(at 183.642 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18633,7 +18478,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18642,7 +18487,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18651,7 +18496,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18660,7 +18505,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18669,7 +18514,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18678,7 +18523,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 181.61 113.03 0)
+			(at 181.61 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18703,7 +18548,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 193.04 109.22 0)
+		(at 193.04 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18711,7 +18556,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6658c3")
 		(property "Reference" "SW_K1"
-			(at 193.04 101.981 0)
+			(at 193.04 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18719,7 +18564,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 193.04 104.2924 0)
+			(at 193.04 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18727,7 +18572,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 193.04 104.14 0)
+			(at 193.04 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18736,7 +18581,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 104.14 0)
+			(at 193.04 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18745,7 +18590,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 109.22 0)
+			(at 193.04 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18770,7 +18615,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 198.12 113.03 90)
+		(at 198.12 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18778,7 +18623,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6658c9")
 		(property "Reference" "D11"
-			(at 200.152 111.8616 90)
+			(at 200.152 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18787,7 +18632,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 200.152 114.173 90)
+			(at 200.152 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18796,7 +18641,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18805,7 +18650,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18814,7 +18659,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18823,7 +18668,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18832,7 +18677,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18841,7 +18686,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 113.03 0)
+			(at 198.12 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18866,7 +18711,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 247.65 113.03 90)
+		(at 247.65 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18874,7 +18719,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6658d5")
 		(property "Reference" "D14"
-			(at 249.682 111.8616 90)
+			(at 249.682 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18883,7 +18728,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 249.682 114.173 90)
+			(at 249.682 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18892,7 +18737,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18901,7 +18746,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18910,7 +18755,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18919,7 +18764,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18928,7 +18773,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18937,7 +18782,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 113.03 0)
+			(at 247.65 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18962,7 +18807,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 27.94 140.97 0)
+		(at 27.94 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18970,7 +18815,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9a7")
 		(property "Reference" "SW_Z1"
-			(at 27.94 133.731 0)
+			(at 27.94 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18978,7 +18823,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 27.94 136.0424 0)
+			(at 27.94 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18986,7 +18831,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 27.94 135.89 0)
+			(at 27.94 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18995,7 +18840,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 135.89 0)
+			(at 27.94 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19004,7 +18849,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 27.94 140.97 0)
+			(at 27.94 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19029,7 +18874,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 49.53 144.78 90)
+		(at 49.53 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19037,7 +18882,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9ad")
 		(property "Reference" "D16"
-			(at 51.562 143.6116 90)
+			(at 51.562 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19046,7 +18891,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 51.562 145.923 90)
+			(at 51.562 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19055,7 +18900,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19064,7 +18909,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19073,7 +18918,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19082,7 +18927,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19091,7 +18936,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19100,7 +18945,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 49.53 144.78 0)
+			(at 49.53 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19125,7 +18970,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 44.45 140.97 0)
+		(at 44.45 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19133,7 +18978,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9b3")
 		(property "Reference" "SW_X1"
-			(at 44.45 133.731 0)
+			(at 44.45 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19141,7 +18986,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 44.45 136.0424 0)
+			(at 44.45 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19149,7 +18994,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 44.45 135.89 0)
+			(at 44.45 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19158,7 +19003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 135.89 0)
+			(at 44.45 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19167,7 +19012,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 140.97 0)
+			(at 44.45 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19192,7 +19037,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 66.04 144.78 90)
+		(at 66.04 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19200,7 +19045,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9b9")
 		(property "Reference" "D17"
-			(at 68.072 143.6116 90)
+			(at 68.072 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19209,7 +19054,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 68.072 145.923 90)
+			(at 68.072 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19218,7 +19063,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19227,7 +19072,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19236,7 +19081,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19245,7 +19090,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19254,7 +19099,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19263,7 +19108,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 144.78 0)
+			(at 66.04 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19288,7 +19133,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 60.96 140.97 0)
+		(at 60.96 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19296,7 +19141,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9bf")
 		(property "Reference" "SW_C1"
-			(at 60.96 133.731 0)
+			(at 60.96 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19304,7 +19149,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 60.96 136.0424 0)
+			(at 60.96 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19312,7 +19157,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 60.96 135.89 0)
+			(at 60.96 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19321,7 +19166,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 135.89 0)
+			(at 60.96 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19330,7 +19175,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 140.97 0)
+			(at 60.96 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19355,7 +19200,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 82.55 144.78 90)
+		(at 82.55 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19363,7 +19208,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9c5")
 		(property "Reference" "D18"
-			(at 84.582 143.6116 90)
+			(at 84.582 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19372,7 +19217,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 84.582 145.923 90)
+			(at 84.582 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19381,7 +19226,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19390,7 +19235,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19399,7 +19244,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19408,7 +19253,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19417,7 +19262,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19426,7 +19271,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 82.55 144.78 0)
+			(at 82.55 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19451,7 +19296,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 77.47 140.97 0)
+		(at 77.47 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19459,7 +19304,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9cb")
 		(property "Reference" "SW_V1"
-			(at 77.47 133.731 0)
+			(at 77.47 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19467,7 +19312,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 77.47 136.0424 0)
+			(at 77.47 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19475,7 +19320,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 77.47 135.89 0)
+			(at 77.47 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19484,7 +19329,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 135.89 0)
+			(at 77.47 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19493,7 +19338,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 140.97 0)
+			(at 77.47 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19518,7 +19363,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 99.06 144.78 90)
+		(at 99.06 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19526,7 +19371,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9d1")
 		(property "Reference" "D19"
-			(at 101.092 143.6116 90)
+			(at 101.092 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19535,7 +19380,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 101.092 145.923 90)
+			(at 101.092 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19544,7 +19389,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19553,7 +19398,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19562,7 +19407,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19571,7 +19416,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19580,7 +19425,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19589,7 +19434,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 99.06 144.78 0)
+			(at 99.06 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19614,7 +19459,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 226.06 140.97 0)
+		(at 226.06 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19622,7 +19467,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9ef")
 		(property "Reference" "SW_>1"
-			(at 226.06 133.731 0)
+			(at 226.06 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19630,7 +19475,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 226.06 136.0424 0)
+			(at 226.06 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19638,7 +19483,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 226.06 135.89 0)
+			(at 226.06 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19647,7 +19492,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 135.89 0)
+			(at 226.06 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19656,7 +19501,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 140.97 0)
+			(at 226.06 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19681,7 +19526,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 231.14 144.78 90)
+		(at 231.14 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19689,7 +19534,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66b9f5")
 		(property "Reference" "D23"
-			(at 233.172 143.6116 90)
+			(at 233.172 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19698,7 +19543,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 233.172 145.923 90)
+			(at 233.172 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19707,7 +19552,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19716,7 +19561,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19725,7 +19570,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19734,7 +19579,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19743,7 +19588,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19752,7 +19597,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 144.78 0)
+			(at 231.14 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19777,7 +19622,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 176.53 140.97 0)
+		(at 176.53 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19785,7 +19630,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba07")
 		(property "Reference" "SW_N1"
-			(at 176.53 133.731 0)
+			(at 176.53 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19793,7 +19638,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 176.53 136.0424 0)
+			(at 176.53 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19801,7 +19646,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 176.53 135.89 0)
+			(at 176.53 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19810,7 +19655,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 135.89 0)
+			(at 176.53 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19819,7 +19664,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 140.97 0)
+			(at 176.53 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19844,7 +19689,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 181.61 144.78 90)
+		(at 181.61 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19852,7 +19697,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba0d")
 		(property "Reference" "D20"
-			(at 183.642 143.6116 90)
+			(at 183.642 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19861,7 +19706,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 183.642 145.923 90)
+			(at 183.642 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19870,7 +19715,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19879,7 +19724,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19888,7 +19733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19897,7 +19742,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19906,7 +19751,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19915,7 +19760,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 181.61 144.78 0)
+			(at 181.61 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19940,7 +19785,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 193.04 140.97 0)
+		(at 193.04 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19948,7 +19793,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba13")
 		(property "Reference" "SW_M1"
-			(at 193.04 133.731 0)
+			(at 193.04 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19956,7 +19801,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 193.04 136.0424 0)
+			(at 193.04 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19964,7 +19809,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 193.04 135.89 0)
+			(at 193.04 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19973,7 +19818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 135.89 0)
+			(at 193.04 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19982,7 +19827,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 140.97 0)
+			(at 193.04 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20007,7 +19852,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 198.12 144.78 90)
+		(at 198.12 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20015,7 +19860,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba19")
 		(property "Reference" "D21"
-			(at 200.152 143.6116 90)
+			(at 200.152 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20024,7 +19869,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 200.152 145.923 90)
+			(at 200.152 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20033,7 +19878,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20042,7 +19887,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20051,7 +19896,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20060,7 +19905,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20069,7 +19914,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20078,7 +19923,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 144.78 0)
+			(at 198.12 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20103,7 +19948,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 214.63 144.78 90)
+		(at 214.63 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20111,7 +19956,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba25")
 		(property "Reference" "D22"
-			(at 216.662 143.6116 90)
+			(at 216.662 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20120,7 +19965,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.662 145.923 90)
+			(at 216.662 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20129,7 +19974,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20138,7 +19983,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20147,7 +19992,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20156,7 +20001,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20165,7 +20010,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20174,7 +20019,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 214.63 144.78 0)
+			(at 214.63 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20199,7 +20044,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 209.55 140.97 0)
+		(at 209.55 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20207,7 +20052,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba2b")
 		(property "Reference" "SW_<1"
-			(at 209.55 133.731 0)
+			(at 209.55 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20215,7 +20060,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 209.55 136.0424 0)
+			(at 209.55 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20223,7 +20068,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 209.55 135.89 0)
+			(at 209.55 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20232,7 +20077,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 135.89 0)
+			(at 209.55 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20241,7 +20086,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 140.97 0)
+			(at 209.55 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20266,7 +20111,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 247.65 144.78 90)
+		(at 247.65 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20274,7 +20119,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f66ba3d")
 		(property "Reference" "D24"
-			(at 249.682 143.6116 90)
+			(at 249.682 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20283,7 +20128,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 249.682 145.923 90)
+			(at 249.682 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20292,7 +20137,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20301,7 +20146,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20310,7 +20155,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20319,7 +20164,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20328,7 +20173,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20337,7 +20182,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 144.78 0)
+			(at 247.65 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20362,7 +20207,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 82.55 176.53 90)
+		(at 82.55 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20370,7 +20215,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f67809d")
 		(property "Reference" "D26"
-			(at 84.582 175.3616 90)
+			(at 84.582 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20379,7 +20224,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 84.582 177.673 90)
+			(at 84.582 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20388,7 +20233,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20397,7 +20242,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20406,7 +20251,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20415,7 +20260,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20424,7 +20269,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20433,7 +20278,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 82.55 176.53 0)
+			(at 82.55 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20458,7 +20303,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 99.06 176.53 90)
+		(at 99.06 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20466,7 +20311,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6780d9")
 		(property "Reference" "D27"
-			(at 101.092 175.3616 90)
+			(at 101.092 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20475,7 +20320,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 101.092 177.673 90)
+			(at 101.092 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20484,7 +20329,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20493,7 +20338,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20502,7 +20347,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20511,7 +20356,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20520,7 +20365,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20529,7 +20374,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 99.06 176.53 0)
+			(at 99.06 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20554,7 +20399,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 193.04 172.72 0)
+		(at 193.04 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20562,7 +20407,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6780df")
 		(property "Reference" "SW_RALT1"
-			(at 193.04 165.481 0)
+			(at 193.04 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20570,7 +20415,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 193.04 167.7924 0)
+			(at 193.04 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20578,7 +20423,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 193.04 167.64 0)
+			(at 193.04 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20587,7 +20432,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 167.64 0)
+			(at 193.04 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20596,7 +20441,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 172.72 0)
+			(at 193.04 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20621,7 +20466,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 198.12 176.53 90)
+		(at 198.12 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20629,7 +20474,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6780e5")
 		(property "Reference" "D32"
-			(at 200.152 175.3616 90)
+			(at 200.152 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20638,7 +20483,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 200.152 177.673 90)
+			(at 200.152 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20647,7 +20492,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20656,7 +20501,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20665,7 +20510,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20674,7 +20519,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20683,7 +20528,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20692,7 +20537,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 176.53 0)
+			(at 198.12 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20717,7 +20562,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 93.98 172.72 0)
+		(at 93.98 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20725,7 +20570,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6bf154")
 		(property "Reference" "SW_LSPC1"
-			(at 93.98 165.481 0)
+			(at 93.98 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20733,7 +20578,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 93.98 167.7924 0)
+			(at 93.98 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20741,7 +20586,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 93.98 167.64 0)
+			(at 93.98 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20750,7 +20595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 167.64 0)
+			(at 93.98 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20759,7 +20604,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 172.72 0)
+			(at 93.98 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20868,7 +20713,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 27.94 109.22 0)
+		(at 27.94 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20876,7 +20721,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fc283a0")
 		(property "Reference" "SW_CTL1"
-			(at 27.94 101.981 0)
+			(at 27.94 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20884,7 +20729,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 27.94 104.2924 0)
+			(at 27.94 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20892,7 +20737,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 27.94 104.14 0)
+			(at 27.94 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20901,7 +20746,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 104.14 0)
+			(at 27.94 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20910,7 +20755,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 27.94 109.22 0)
+			(at 27.94 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20935,7 +20780,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 54.61 0)
+		(at 255.905 55.245 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20943,7 +20788,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060a4b967")
 		(property "Reference" "EXT_R0"
-			(at 257.937 53.5432 0)
+			(at 257.937 54.1782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20952,7 +20797,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 55.8546 0)
+			(at 257.937 56.4896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20961,7 +20806,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 54.61 0)
+			(at 255.905 55.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20970,7 +20815,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 54.61 0)
+			(at 255.905 55.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20979,7 +20824,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 54.61 0)
+			(at 255.905 55.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21001,73 +20846,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000060a4cd39")
-		(property "Reference" "EXT_R5"
-			(at 257.937 56.0832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 257.937 58.3946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 255.905 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 255.905 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2bf7b01c-f61a-46ff-a6c4-8c04072e447f")
-		)
-		(instances
-			(project "Sandy_Base"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "EXT_R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 86.36 0)
+		(at 255.905 86.995 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21075,7 +20854,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ab0114")
 		(property "Reference" "EXT_R1"
-			(at 257.937 85.2932 0)
+			(at 257.937 85.9282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21084,7 +20863,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 87.6046 0)
+			(at 257.937 88.2396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21093,7 +20872,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 86.36 0)
+			(at 255.905 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21102,7 +20881,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 86.36 0)
+			(at 255.905 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21111,7 +20890,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 86.36 0)
+			(at 255.905 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21133,7 +20912,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 88.9 0)
+		(at 255.905 121.285 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21141,7 +20920,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ab011a")
 		(property "Reference" "EXT_R6"
-			(at 257.937 87.8332 0)
+			(at 257.937 120.2182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21150,7 +20929,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 90.1446 0)
+			(at 257.937 122.5296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21159,7 +20938,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 88.9 0)
+			(at 255.905 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21168,7 +20947,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 88.9 0)
+			(at 255.905 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21177,7 +20956,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 88.9 0)
+			(at 255.905 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21388,7 +21167,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 118.11 0)
+		(at 255.905 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21396,7 +21175,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b78ab4")
 		(property "Reference" "EXT_R2"
-			(at 257.937 117.0432 0)
+			(at 257.937 117.6782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21405,7 +21184,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 119.3546 0)
+			(at 257.937 119.9896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21414,7 +21193,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 118.11 0)
+			(at 255.905 118.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21423,7 +21202,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 118.11 0)
+			(at 255.905 118.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21432,7 +21211,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 118.11 0)
+			(at 255.905 118.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21454,7 +21233,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 120.65 0)
+		(at 255.905 89.535 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21462,7 +21241,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b78aba")
 		(property "Reference" "EXT_R7"
-			(at 257.937 119.5832 0)
+			(at 257.937 88.4682 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21471,7 +21250,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 121.8946 0)
+			(at 257.937 90.7796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21480,7 +21259,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 120.65 0)
+			(at 255.905 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21489,7 +21268,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 120.65 0)
+			(at 255.905 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21498,7 +21277,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 120.65 0)
+			(at 255.905 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21520,7 +21299,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 149.86 0)
+		(at 255.905 150.495 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21528,7 +21307,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060c0e797")
 		(property "Reference" "EXT_R3"
-			(at 257.937 148.7932 0)
+			(at 257.937 149.4282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21537,7 +21316,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 151.1046 0)
+			(at 257.937 151.7396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21546,7 +21325,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 149.86 0)
+			(at 255.905 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21555,7 +21334,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 149.86 0)
+			(at 255.905 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21564,7 +21343,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 149.86 0)
+			(at 255.905 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21586,73 +21365,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000060c0e79d")
-		(property "Reference" "EXT_R8"
-			(at 257.937 151.3332 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 257.937 153.6446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 255.905 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 255.905 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4008645a-5f71-45b8-8dce-56ba4bf4ca3d")
-		)
-		(instances
-			(project "Sandy_Base"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "EXT_R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 181.61 0)
+		(at 255.905 57.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21660,7 +21373,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060c7253e")
 		(property "Reference" "EXT_R4"
-			(at 257.937 180.5432 0)
+			(at 257.937 56.7182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21669,7 +21382,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 257.937 182.8546 0)
+			(at 257.937 59.0296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21678,7 +21391,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 181.61 0)
+			(at 255.905 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21687,7 +21400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.905 181.61 0)
+			(at 255.905 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21696,7 +21409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.905 181.61 0)
+			(at 255.905 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21718,73 +21431,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 255.905 184.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000060c72544")
-		(property "Reference" "EXT_R9"
-			(at 257.937 183.0832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 257.937 185.3946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 255.905 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 255.905 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 255.905 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e2edbf96-9ff4-4cc9-9ef4-5199fc7ff2cc")
-		)
-		(instances
-			(project "Sandy_Base"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "EXT_R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 22.86 191.77 270)
+		(at 22.86 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21792,7 +21439,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060cd6e89")
 		(property "Reference" "EXT_C0"
-			(at 24.892 188.5188 90)
+			(at 24.892 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21801,7 +21448,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 24.892 190.8302 90)
+			(at 24.892 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21810,7 +21457,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 22.86 191.77 0)
+			(at 22.86 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21819,7 +21466,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 22.86 191.77 0)
+			(at 22.86 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21828,7 +21475,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 22.86 191.77 0)
+			(at 22.86 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21850,7 +21497,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 55.88 191.77 270)
+		(at 55.88 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21858,7 +21505,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060dd63ed")
 		(property "Reference" "EXT_C1"
-			(at 57.912 188.5188 90)
+			(at 57.912 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21867,7 +21514,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 57.912 190.8302 90)
+			(at 57.912 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21876,7 +21523,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 55.88 191.77 0)
+			(at 55.88 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21885,7 +21532,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 191.77 0)
+			(at 55.88 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21894,7 +21541,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 191.77 0)
+			(at 55.88 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21916,7 +21563,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 88.9 191.77 270)
+		(at 88.9 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21924,7 +21571,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e07ee7")
 		(property "Reference" "EXT_C2"
-			(at 90.932 188.5188 90)
+			(at 90.932 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21933,7 +21580,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 90.932 190.8302 90)
+			(at 90.932 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21942,7 +21589,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 88.9 191.77 0)
+			(at 88.9 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21951,7 +21598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 191.77 0)
+			(at 88.9 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21960,7 +21607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 191.77 0)
+			(at 88.9 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21982,7 +21629,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 121.92 191.77 270)
+		(at 121.92 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21990,7 +21637,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e7fa4e")
 		(property "Reference" "EXT_C3"
-			(at 123.952 188.5188 90)
+			(at 123.952 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21999,7 +21646,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 123.952 190.8302 90)
+			(at 123.952 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22008,7 +21655,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 121.92 191.77 0)
+			(at 121.92 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22017,7 +21664,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 191.77 0)
+			(at 121.92 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22026,7 +21673,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 191.77 0)
+			(at 121.92 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22048,7 +21695,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 154.94 191.77 270)
+		(at 154.94 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22056,7 +21703,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ee36d9")
 		(property "Reference" "EXT_C4"
-			(at 156.972 188.5188 90)
+			(at 156.972 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22065,7 +21712,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 156.972 190.8302 90)
+			(at 156.972 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22074,7 +21721,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 154.94 191.77 0)
+			(at 154.94 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22083,7 +21730,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 191.77 0)
+			(at 154.94 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22092,7 +21739,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 191.77 0)
+			(at 154.94 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22177,7 +21824,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 187.96 191.77 270)
+		(at 187.96 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22185,7 +21832,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f4752d")
 		(property "Reference" "EXT_C5"
-			(at 189.992 188.5188 90)
+			(at 189.992 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22194,7 +21841,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 189.992 190.8302 90)
+			(at 189.992 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22203,7 +21850,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 187.96 191.77 0)
+			(at 187.96 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22212,7 +21859,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 191.77 0)
+			(at 187.96 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22221,7 +21868,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 191.77 0)
+			(at 187.96 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22243,7 +21890,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 220.98 191.77 270)
+		(at 220.98 160.655 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22251,7 +21898,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f795d2")
 		(property "Reference" "EXT_C6"
-			(at 223.012 188.5188 90)
+			(at 223.012 157.4038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22260,7 +21907,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 223.012 190.8302 90)
+			(at 223.012 159.7152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22269,7 +21916,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 220.98 191.77 0)
+			(at 220.98 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22278,7 +21925,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 191.77 0)
+			(at 220.98 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22287,7 +21934,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 191.77 0)
+			(at 220.98 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22430,7 +22077,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 33.02 144.78 90)
+		(at 33.02 113.665 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22438,7 +22085,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000617d508f")
 		(property "Reference" "D15"
-			(at 35.052 143.6116 90)
+			(at 35.052 112.4966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22447,7 +22094,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 35.052 145.923 90)
+			(at 35.052 114.808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22456,7 +22103,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22465,7 +22112,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22474,7 +22121,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22483,7 +22130,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22492,7 +22139,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22501,7 +22148,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 33.02 144.78 0)
+			(at 33.02 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22526,7 +22173,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 242.57 109.22 0)
+		(at 242.57 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22534,7 +22181,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061890135")
 		(property "Reference" "SW_ENT1"
-			(at 242.57 101.981 0)
+			(at 242.57 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22542,7 +22189,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 242.57 104.2924 0)
+			(at 242.57 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22550,7 +22197,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 242.57 104.14 0)
+			(at 242.57 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22559,7 +22206,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 242.57 104.14 0)
+			(at 242.57 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22568,7 +22215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 242.57 109.22 0)
+			(at 242.57 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22665,7 +22312,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 115.57 176.53 90)
+		(at 115.57 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22673,7 +22320,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000062b9c232")
 		(property "Reference" "D28"
-			(at 117.602 175.3616 90)
+			(at 117.602 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22682,7 +22329,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 117.602 177.673 90)
+			(at 117.602 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22691,7 +22338,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22700,7 +22347,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22709,7 +22356,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22718,7 +22365,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22727,7 +22374,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22736,7 +22383,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 115.57 176.53 0)
+			(at 115.57 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22761,7 +22408,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 165.1 176.53 90)
+		(at 165.1 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22769,7 +22416,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000062e9da5b")
 		(property "Reference" "D30"
-			(at 167.132 175.3616 90)
+			(at 167.132 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22778,7 +22425,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 167.132 177.673 90)
+			(at 167.132 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22787,7 +22434,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22796,7 +22443,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22805,7 +22452,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22814,7 +22461,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22823,7 +22470,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22832,7 +22479,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 165.1 176.53 0)
+			(at 165.1 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22857,7 +22504,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 231.14 113.03 90)
+		(at 231.14 81.915 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22865,7 +22512,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000064060264")
 		(property "Reference" "D13"
-			(at 233.172 111.8616 90)
+			(at 233.172 80.7466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22874,7 +22521,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 233.172 114.173 90)
+			(at 233.172 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22883,7 +22530,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22892,7 +22539,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22901,7 +22548,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22910,7 +22557,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22919,7 +22566,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22928,7 +22575,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 113.03 0)
+			(at 231.14 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22953,7 +22600,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 226.06 109.22 0)
+		(at 226.06 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22961,7 +22608,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006406026a")
 		(property "Reference" "SW_;1"
-			(at 226.06 101.981 0)
+			(at 226.06 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22969,7 +22616,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 226.06 104.2924 0)
+			(at 226.06 73.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22977,7 +22624,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 226.06 104.14 0)
+			(at 226.06 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22986,7 +22633,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 104.14 0)
+			(at 226.06 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22995,7 +22642,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 109.22 0)
+			(at 226.06 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23153,6 +22800,72 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 217.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "033e4d59-9a7d-48bd-aa29-9a701253e4a3")
+		(property "Reference" "#PWR059"
+			(at 125.73 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 221.3031 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "205a994f-6ca8-4b7f-a9e4-cd336d4e305f")
+		)
+		(instances
+			(project "Sandy_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -23448,7 +23161,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 93.98 140.97 0)
+		(at 93.98 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23456,7 +23169,7 @@
 		(dnp no)
 		(uuid "08b37ace-8b0c-4c51-a2a6-875c7b6d0dcc")
 		(property "Reference" "SW_B1"
-			(at 93.98 133.731 0)
+			(at 93.98 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23464,7 +23177,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 93.98 136.0424 0)
+			(at 93.98 104.9274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23472,7 +23185,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 93.98 135.89 0)
+			(at 93.98 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23481,7 +23194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 135.89 0)
+			(at 93.98 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23490,7 +23203,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 140.97 0)
+			(at 93.98 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24198,7 +23911,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 129.54 158.75 270)
+		(at 129.54 127.635 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24206,7 +23919,7 @@
 		(dnp no)
 		(uuid "1dbae128-947e-417a-a746-fa8e5ae0db7b")
 		(property "Reference" "RE_Base1"
-			(at 123.698 157.5378 90)
+			(at 123.698 126.4228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24215,7 +23928,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 123.698 159.9621 90)
+			(at 123.698 128.8471 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24224,7 +23937,7 @@
 			)
 		)
 		(property "Footprint" "locallib:RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal"
-			(at 133.604 154.94 0)
+			(at 133.604 123.825 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24233,7 +23946,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 136.144 158.75 0)
+			(at 136.144 127.635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24242,7 +23955,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 129.54 158.75 0)
+			(at 129.54 127.635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24903,7 +24616,7 @@
 	(symbol
 		(lib_name "GND_4")
 		(lib_id "power:GND")
-		(at 129.54 147.32 180)
+		(at 129.54 116.205 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24912,7 +24625,7 @@
 		(fields_autoplaced yes)
 		(uuid "281c4dde-95b1-4dbc-9796-e7b8b6a1c83b")
 		(property "Reference" "#PWR017"
-			(at 129.54 140.97 0)
+			(at 129.54 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24921,7 +24634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 129.54 143.1869 0)
+			(at 129.54 112.0719 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24929,7 +24642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 147.32 0)
+			(at 129.54 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24938,7 +24651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 147.32 0)
+			(at 129.54 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24947,7 +24660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 129.54 147.32 0)
+			(at 129.54 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25563,7 +25276,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 127 172.72 0)
+		(at 127 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25571,7 +25284,7 @@
 		(dnp no)
 		(uuid "3c36db2d-482d-4f1c-bf33-0eaf31dff373")
 		(property "Reference" "SW_R5CNT_C1"
-			(at 127 165.481 0)
+			(at 127 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25579,7 +25292,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 127 167.7924 0)
+			(at 127 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25587,7 +25300,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 127 167.64 0)
+			(at 127 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25596,7 +25309,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 167.64 0)
+			(at 127 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25605,7 +25318,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 172.72 0)
+			(at 127 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26278,7 +25991,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 110.49 172.72 0)
+		(at 110.49 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26286,7 +25999,7 @@
 		(dnp no)
 		(uuid "4c4a18ac-ce48-45c4-80a0-48a398d2b3ee")
 		(property "Reference" "SW_R5CNT_L1"
-			(at 110.49 165.481 0)
+			(at 110.49 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26294,7 +26007,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 110.49 167.7924 0)
+			(at 110.49 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26302,7 +26015,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 110.49 167.64 0)
+			(at 110.49 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26311,7 +26024,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 167.64 0)
+			(at 110.49 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26320,7 +26033,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 172.72 0)
+			(at 110.49 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27245,7 +26958,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 132.08 176.53 90)
+		(at 132.08 145.415 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27253,7 +26966,7 @@
 		(dnp no)
 		(uuid "5dd0c063-d4fb-4a39-b944-8c7bafd989eb")
 		(property "Reference" "D29"
-			(at 134.112 175.3616 90)
+			(at 134.112 144.2466 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27262,7 +26975,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 134.112 177.673 90)
+			(at 134.112 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27271,7 +26984,7 @@
 			)
 		)
 		(property "Footprint" "locallib:D_SOD-123_Emphasized_Direction_Line_Reference_on_bottom"
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27280,7 +26993,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27289,7 +27002,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27298,7 +27011,7 @@
 			)
 		)
 		(property "LCSC" "C109203"
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27307,7 +27020,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27316,7 +27029,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 176.53 0)
+			(at 132.08 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29256,7 +28969,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 176.53 172.72 0)
+		(at 176.53 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29264,7 +28977,7 @@
 		(dnp no)
 		(uuid "8a6bb009-17bc-44bc-a12a-086cafde2f11")
 		(property "Reference" "SW_RSPC1"
-			(at 176.53 165.481 0)
+			(at 176.53 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29272,7 +28985,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 176.53 167.7924 0)
+			(at 176.53 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29280,7 +28993,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 176.53 167.64 0)
+			(at 176.53 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29289,7 +29002,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 167.64 0)
+			(at 176.53 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29298,7 +29011,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 172.72 0)
+			(at 176.53 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33328,7 +33041,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 160.02 172.72 0)
+		(at 160.02 141.605 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33336,7 +33049,7 @@
 		(dnp no)
 		(uuid "f390eb93-c392-48fb-a70a-a053a0275587")
 		(property "Reference" "SW_R5CNT_R1"
-			(at 160.02 165.481 0)
+			(at 160.02 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33344,7 +33057,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 160.02 167.7924 0)
+			(at 160.02 136.6774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33352,7 +33065,7 @@
 			)
 		)
 		(property "Footprint" "locallib:Kailh_socket_ChocV2"
-			(at 160.02 167.64 0)
+			(at 160.02 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33361,7 +33074,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 167.64 0)
+			(at 160.02 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33370,7 +33083,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 172.72 0)
+			(at 160.02 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
