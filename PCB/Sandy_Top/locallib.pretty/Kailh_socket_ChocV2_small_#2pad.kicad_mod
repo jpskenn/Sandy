@@ -744,13 +744,6 @@
 		)
 	)
 	(pad "" np_thru_hole circle
-		(at -5.5 0)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "6b5aa5b3-6415-4954-8fe9-f9cdc4502ad6")
-	)
-	(pad "" np_thru_hole circle
 		(at -5 3.75)
 		(size 3 3)
 		(drill 3)
@@ -772,11 +765,11 @@
 		(uuid "300f5e3e-6d04-401f-955a-09e35194f512")
 	)
 	(pad "" np_thru_hole circle
-		(at 5.5 0)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "16907671-fe98-4e92-813b-e6c96311c702")
+		(at 5 -5.15)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7afde853-6f65-4215-8c46-d5f4384e7589")
 	)
 	(pad "1" smd rect
 		(at 3.275 5.95)
@@ -789,22 +782,6 @@
 		(size 2.4 2.6)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "5cf12c59-9ac7-4436-b58b-7395eda592ff")
-	)
-	(pad "MP" thru_hole oval
-		(at 5 -5.5)
-		(size 1.6 1.2)
-		(drill oval 1.2 0.8)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "7afde853-6f65-4215-8c46-d5f4384e7589")
-	)
-	(pad "MP" thru_hole oval
-		(at 5.22 -4.2)
-		(size 1.6 1.2)
-		(drill oval 1.2 0.8)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "233819d9-0ae5-4e69-b475-f985808a8206")
 	)
 	(model "${KIPRJMOD}/locallib.pretty/kailh-socket-choc.stp"
 		(offset
